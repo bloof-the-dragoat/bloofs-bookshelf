@@ -6,7 +6,6 @@
 
 
 # Overview
-> [!Premise] 
 
 >**Seven Calamities. One choice that was never supposed to be theirs.**
 >
