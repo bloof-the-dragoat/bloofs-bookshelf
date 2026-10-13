@@ -38,4 +38,4 @@
 ---
 
 > [!warning] Content notice
-> This story contains violence, experimentation on children, and themes of captivity and trauma.
+> This story contains violence, experimentation on children, and themes of captivity, depression, and trauma.
