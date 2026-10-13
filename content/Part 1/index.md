@@ -6,6 +6,7 @@ description: "Bloovrn Graymark (Bloof) has built a careful life. The past is alr
 > [!quote] 
 > *"If you're listening to this report, it's escaped, and all of us are dead."*
 
+
 # Part 1: Burden
 
 Bloof is surviving, not thriving.

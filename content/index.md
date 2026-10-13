@@ -6,15 +6,21 @@
 
 
 # Overview
+> [!Premise] 
 
-*Seven Calamities. One choice that was never supposed to be theirs.*
-
-*A dark fantasy beastfolk world that follows Bloovrn Graymark, a dragon-goat hybrid who escaped a laboratory as a child. They were turned into the host of Wrath, one of the seven Calamities. Now they are trying to live a normal life, support the adoptive mother who raised them, and keep their past hidden in a world that already distrusts dragon blood.*
-
-*However, as the ancient leylines begin to stir. Gods, Apostles, corporations, and factions start searching for Calamity hosts. Bloof has to decide whether Wrath is a curse that made them a monster, or a power they can choose to use on their own terms. Does it matter?*
-
-> [!quote] 
-> "THIS IS. ACCEPTABLE."
+>**Seven Calamities. One choice that was never supposed to be theirs.**
+>
+>Bloovrn Graymark, called Bloof by the few who matter, is a dragon-goat hybrid in a beast-folk world that has never trusted dragon blood. Bloof keeps their head down, their hands steady, and their past buried. They work, they pay the rent, and they take care of Myra, the woman who gave them a home when no one else would.
+>
+>But something happened to Bloof as a child, behind walls that no longer exist on any map. They don't speak of it, and they don't sleep well because of it.
+>
+>Now the ancient leylines are stirring. Gods are watching, Apostles are hunting, and corporations and factions are quietly counting the hosts of the world's seven Calamities. Each one of them wants what Bloof carries.
+>
+>Bloof has spent years running from what was done to them. Soon they will have to decide whether it is a curse that made them a monster, or a power they can claim on their own terms.
+>
+>And the only person Bloof can't bear to lose is the one who doesn't know what she's sheltering.
+>
+>**Does it matter what they choose, if the world has already chosen for them?**
 
 ---
 
