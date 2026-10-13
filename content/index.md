@@ -9,7 +9,7 @@
 
 >**Seven Calamities. One choice that was never supposed to be theirs.**
 >
->Bloovrn Graymark, called Bloof by the few who matter, is a dragon-goat hybrid in a beast-folk world that has never trusted dragon blood. Bloof keeps their head down, their hands steady, and their past buried. They work, they pay the rent, and they take care of Myra, the woman who gave them a home when no one else would.
+>Bloovrn Graymark, called Bloof by the few who matter, is a dragon-goat hybrid in a beast-folk world that has never trusted dragon blood. Bloof keeps their head down, their hands steady, and their past buried. They work, they pay the rent, and they take care of Mara Graymark, the beastfolk who gave them a home when no one else would.
 >
 >But something happened to Bloof as a child, behind walls that no longer exist on any map. They don't speak of it, and they don't sleep well because of it.
 >
