@@ -22,22 +22,22 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf6f6"        # page background
-        lightgray: "#e6d9d9"    # borders
-        gray: "#b09a9a"         # muted text and icons
-        darkgray: "#4a3a3a"     # body text
-        dark: "#1a0f0f"         # headings
-        secondary: "#a8121b"    # links and accents (crimson)
-        tertiary: "#d4363f"     # link hover
+        light: "#faf6f6"
+        lightgray: "#e6d9d9"
+        gray: "#b09a9a"
+        darkgray: "#4a3a3a"
+        dark: "#1a0f0f"
+        secondary: "#a8121b"
+        tertiary: "#d4363f"
         highlight: rgba(168, 18, 27, 0.10)
         textHighlight: "#ff4d5a55"
       darkMode:
-        light: "#0b0809"        # near-black background
-        lightgray: "#2a1c1e"    # borders
+        light: "#0b0809"
+        lightgray: "#2a1c1e"
         gray: "#6e5a5c"
-        darkgray: "#d9cfcf"     # body text
-        dark: "#f4ecec"         # headings
-        secondary: "#e0303c"    # links and accents (bright red)
+        darkgray: "#d9cfcf"
+        dark: "#f4ecec"
+        secondary: "#e0303c"
         tertiary: "#ff6b74"
         highlight: rgba(224, 48, 60, 0.15)
         textHighlight: "#e0303c55"
@@ -274,6 +274,14 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/encrypted-pages
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+    order: 900
 layout:
   groups:
     toolbar:
