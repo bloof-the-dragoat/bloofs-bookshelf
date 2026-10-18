@@ -33,7 +33,8 @@ created: 2026-10-18
 > The Crown Eyes are canon, but they have not yet appeared in the mainline story. They are an ancient draconic sensory trait, not prophecy or a Calamity. They let a bearer sense heat, magical energy, and the tension in a body just before it moves, so danger shows up before it takes shape.
 >
 > Bloof's are a second, upper pair of red eyes with white pupils. They usually stay closed and open when Bloof is in danger, shocked, or under severe stress. In this AU, they also open on their own under strong emotion. Bloof has long felt ashamed of them, because most people see two sets of eyes as a mutation. Bazemir recognizes them as something much older.
-
+![Bloof](static-and-ember-imgs/bloof-pfp.JPG)
+![Bazemir](static-and-ember-imgs/bazemir-ref.PNG)
 # Static and Ember
 
 The door was shut, the lights were off, and Bloof had not moved in a long time.
