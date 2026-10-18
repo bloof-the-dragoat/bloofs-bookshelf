@@ -16,7 +16,7 @@ These stories are shared for friends to read. Each one has its own summary below
 
 ## Story Index
 
-### [[Hollow Hours]]
+### [[Static and Ember]]
 **Status:** Complete
 **Setting:** Near the end of Act 2
 **Content notes:** Mature. Contains strong language, emotional distress, themes of guilt and self-hatred, and sexual content.
