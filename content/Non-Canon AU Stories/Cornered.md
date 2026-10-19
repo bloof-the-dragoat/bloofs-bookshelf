@@ -40,7 +40,7 @@ Every conversation felt like a puzzle with the instructions missing. Someone ask
 
 So they found the bar.
 
-The first one was to steady their hands. The second was because it worked. By the third, the room had softened at the edges, and their tail had loosened enough to sway behind them. The fourth? Well, that was just for fun. Bloof ended up against a wall near the back, finishing the glass and watching the crowd move.
+The first drink was to steady their hands. The second was because it worked. By the third, the room had softened at the edges, and their tail had loosened enough to sway behind them. The fourth? Well, that was just for fun. Bloof ended up against a wall near the back, finishing the glass and watching the crowd move.
 
 _This is Seris's fault,_ they thought, with something that wasn't quite resentment. _"Just one hour, Bloof. You'll survive."_
 
@@ -128,7 +128,7 @@ The words landed somewhere unexpected. Bloof's ears twitched, and their tail sti
 
 "I know what you _say._" She took a step. "That's not the same as a reason."
 
-"It's a pretty good reason, four, actually." They scratched at the back of their neck, avoiding her eyes. "Can we talk about something else? Like how you were so sure you could get me to come tonight?"
+"It's a pretty good reason. Four, actually." They scratched at the back of their neck, avoiding her eyes. "Can we talk about something else? Like how you were so sure you could get me to come tonight?"
 
 "Hm." Another step. Her tail slid behind her, slow and curious. "No."
 
@@ -138,11 +138,11 @@ Bloof's ears pinned halfway back. "Seris."
 
 "It's _not_ interesting." Bloof set their glass on a nearby table with exaggerated care, as if that would restore their dignity. "I'm going back to the party. People are probably wondering where we went."
 
-"Of course," Seris said sweetly, though unmoving.
+"Of course," Seris said sweetly, without unmoving.
 
 Bloof moved to leave. They got two steps, and then a hand was flat against the wall beside their head. The whole world narrowed to the sound of Seris's coat tails settling, the smell of something faintly floral and sharp, and the cold weight of her tail curling around Bloof's ankle.
 
-Bloof breathing ceased.
+Bloof's breathing ceased.
 
 Seris stood close, with six feet and two inches of lean, easy confidence pinning them against the plaster. She didn't touch them with anything more than that one hand, and the grin on her face was entirely cocky.
 
@@ -164,7 +164,7 @@ Heat climbed Bloof's neck and ears, and their tail snapped taut against the floo
 
 Bloof's jaw worked. "I'm not saying anything."
 
-"Mm. That's too bad." Her thumb traced the edge of the tank's short sleeve, just below the shoulder. "I had a few things I wanted to say to you. Things I've been _holding back_ all night, in a room full of beastkin."
+"Mm. That's too bad." Her thumb traced the edge of the tank's short sleeve, just below the shoulder. "I had a few things I wanted to say to you. Things I've been _holding back_ all night, in a room full of beastfolk."
 
 "Seris..."
 
@@ -274,7 +274,7 @@ Bloof's sentence ended in a soft, strangled noise.
 
 "I'm _composed._"
 
-"You're purple to the horns, darling."
+"You're red to the horns, darling."
 
 "I'm _warm._ The room is warm. It's genetic."
 
@@ -303,9 +303,9 @@ Bloof opened their mouth to snap back, but nothing sharp came to mind. Their tai
 Neither of them moved, and the room was very, very quiet.
 
 ---
-"I'm not saying anything," Bloof repeated, a little hoarse.
+"I'm... recalculating," Bloof said, a little hoarse.
 
-"You keep saying that." Seris's thumb slid up the edge of their sleeve, over the bare curve of their shoulder, and settled at the hinge of their jaw where the scales gave way to soft fur. "And yet you haven't left."
+"You keep not answering." Seris released their wrists, and her hands slid down their arms instead, her thumb tracing the edge of their sleeve, over the bare curve of their shoulder, and settling at the hinge of their jaw where the scales gave way to soft fur. "And yet you haven't left."
 
 "The wall's in the way", the red in their face still betraying them, held back only by willpower and spite, yet contested by embarrassment and liquor.
 
@@ -341,7 +341,7 @@ Bloof's ears flattened. "I didn't say that."
 
 "Say please."
 
-Her eyes narrowed. Then she laughed under her breath, dangerous and delighted, and caught their wrist against the wall.
+Her eyes narrowed. Then she laughed under her breath, dangerous and delighted, and caught their wrists against the wall again.
 
 "Oh, you _brat,_" she murmured. "You're going to regret that."
 
@@ -365,7 +365,7 @@ When they broke apart, both of them were breathing hard.
 
 They didn't make it gracefully.
 
-Seris walked them backward with a hand at their hip, and Bloof walked her back, and somewhere along the way they swapped places twice. Her coat ended up half off one shoulder. The pearl at her throat swung against Bloof's cheek when they kissed her neck, and she hissed through her fangs and arched into it before she could stop herself.
+Seris walked them backward with a hand at their hip, and Bloof walked her back, and somewhere along the way they swapped places twice. Her coat ended up half off one shoulder. The pearls at her throat swung against Bloof's cheek when they kissed her neck, and she hissed through her fangs and arched into it before she could stop herself.
 
 "Don't," she said.
 
@@ -393,19 +393,87 @@ She bent and caught their bottom lip between her teeth, carefully, and Bloof's w
 
 Something eased in her face. Then it burned again.
 
-They rolled. Bloof ended up on top, pinning her wrists above her head, grinning like they'd won a war. Their breath came hot against her ear. "Not so composed now, are you?"
+They rolled. Bloof ended up on top, pinning her wrists above her head, grinning like they'd won a war. Their breath came hot against her ear.
+
+"Not so composed now, are you?"
 
 "Give me a minute," Seris panted, "and I'll fix that."
 
 "Mm. I'll give you thirty seconds."
 
-They kissed her again, slowly this time, unhurried and thorough, and their hips shifted in a way that wrenched a sharp, helpless sound from her throat. Her tail slammed against the sheets. It was the first time all night she'd lost the thread of what she wanted to say, and Bloof took a ridiculous amount of glee in it, nosing at the soft place under her jaw while she swore at them in a language they didn't recognize.
+They kissed her again, slowly this time, unhurried and thorough. They took their time with it, tasting her, drawing back whenever she tried to chase them. Their hips shifted against hers in a way that wrenched a sharp, helpless sound from her throat. Her tail slammed against the sheets. It was the first time all night she'd lost the thread of what she wanted to say, and Bloof took a ridiculous amount of glee in it, nosing at the soft place under her jaw while she swore at them in a language they didn't recognize.
 
-"Oh. Now that's new," Bloof murmured. "What does that one mean?"
+"Oh. Now that's new," Bloof murmured against her skin. "What does that one mean?"
 
-"It means," she gasped, "that you are _enjoying this too much._"
+"It means," she gasped, "that you are enjoying this too much."
 
 "Oh, *absolutely* I am."
+
+Bloof shifted both of her wrists into one hand, silver claws careful against her pulse, and let the other trail down. It followed the line of her throat, over the pearl, and across the glowing cyan markings that ran down her neck to the open collar of her shirt. The scales brightened wherever they touched. Bloof watched it happen with open fascination.
+
+"These light up," they said. "When I do this."
+
+"They do _not._"
+
+"They do. See?" They dragged a claw slowly down the center of her chest, and the light followed it like a bead of water. Seris's back bowed off the mattress. "Oh, that's _lovely._"
+
+"Bloof." Her voice was a warning, but it had no teeth left. "Stop narrating."
+
+"Nope." Their smile became a bit devilish, reveling in the moment.
+
+"I mean it."
+
+"*You don't*." They bent and pressed their mouth to the hollow of her throat, right where the glow pooled brightest, and felt the vibration of the sound she tried to swallow. "You could've broken my grip ten seconds ago. You've got claws. You've got _poison._ You're a professional."
+
+"I'm _thinking._"
+
+"Mm-hm. About what?"
+
+"About how I'm going to..." Her breath hitched as Bloof's teeth grazed the edge of her collarbone. Her tail curled helplessly, then straightened, then curled again. "About how I'm going to make you _pay_ for this."
+
+"I'm shaking."
+
+"You're _smiling._"
+
+"Because you've been trying to get out of this for a minute and a half," Bloof said, delighted, "and you haven't moved."
+
+Seris opened her mouth. Nothing useful came out of it.
+
+Bloof's grin widened. They let go of her wrists and watched. Her hands stayed exactly where they were, above her head, curled into the sheets. A fine tremor ran through her fingers, and her glowing eyes stayed fixed on Bloof's face.
+
+"Huh," Bloof said softly. "Look at that. You're just letting me."
+
+"I'm _evaluating,_" she managed.
+
+"Is that what it's called."
+
+They worked down her slowly, learning her. Fingers undid the buttons of her shirt one at a time, and each time her breath stuttered, they paused and made her wait. Her pearl necklace slipped to the side. Bloof kissed the place where it had been, then the line of her ribs, then the flat of her stomach, humming low against her skin the entire time. Every few seconds they glanced up to check her face. Each time, she looked away, and each time her tail gave her away, lashing the sheets or curling tight around Bloof's calf as though it had decided on its own.
+
+"You're going very quiet," Bloof observed, breath warm across her stomach.
+
+"I'm _concentrating._"
+
+"On what?"
+
+"On not saying anything I'll regret."
+
+"Oh." The smile in their voice was unbearable. "Now I want to hear it."
+
+Her hips jerked when their mouth moved lower. She said a word that was almost their name, and a lot of other words that weren't any language Bloof knew. One hand left the sheets and tangled in their hair, pressing at the base of a horn. Bloof made a pleased sound at that and didn't stop.
+
+By the time Bloof drew back to look at her, Seris was flushed to the tips of her horns, hair wild, lips parted, and the cyan glow in her eyes had gone almost white. She stared up at the ceiling and tried to find her composure somewhere in it.
+
+"This isn't," she said, in a voice with no composure left in it, "what I planned."
+
+"No?"
+
+"I was going to be _in charge._"
+
+"You were." Bloof crawled back up her body, slow and smug, until their forehead rested against hers. Their tail swayed behind them, loose and gleeful. "For about an hour. I let you."
+
+"You did _not_ let..." Seris stopped. Her tail tightened around Bloof's ankle as if it were afraid they'd leave. She looked at them for a long moment, and something in her eyes shifted from helpless to dangerous. "...You are going to regret that."
+
+"I *really* doubt it," Bloof whispered, and kissed her again.
 
 ---
 
@@ -419,7 +487,7 @@ One second Bloof was winning. The next, Seris had slipped her wrists free, flipp
 
 Her fingertips found the ridge of scales along their spine and traced down it, slow as a held breath. Bloof's whole body arched. A shudder rolled down to the base of their tail, which lashed wildly, once, then went rigid.
 
-"There," Seris whispered. "That's one."
+"There," Seris whispered. "*That's one*."
 
 Bloof tried to answer. It escaped as a tight, breathless noise.
 
@@ -429,19 +497,69 @@ The sound that came out of Bloof was nothing like their usual voice. It started 
 
 Seris froze, then smiled, slow and entirely satisfied.
 
-"Ohhhhh," she murmured. "_There_ it is."
+"Ohhhhh," she murmured. "There it is."
 
 "Don't," Bloof tried. It came out as a purr. "Don't... stop..."
 
 "I wasn't planning to."
 
-The fight went out of them all at once, every ounce of stubbornness gone. They melted into the sheets and let her take her time, and she did, mapping every sensitive place she'd found with claws and mouth and patience. Bloof's rumble rose and fell with her touch. Twice they reached back blindly for her, and both times she caught their hand and laced her fingers through theirs.
+She took her time. Her claws traced the scales down their spine one at a time, light as a held breath, and every inch of Bloof's back arched into her touch. Where the scales ran thick along their shoulders she pressed her mouth, and the heat of their skin warmed her lips. She felt the rumble deepen beneath her, a steady vibration she could feel through her ribs.
 
-"Seris," they whispered at last, raw and unguarded. "Please."
+"Listen to you," she whispered against the nape of their neck. "All that stoic, and it takes _this_ to get an honest answer."
 
-Her voice was softer than it had ever been. "Tell me what you want."
+"Shut... up," Bloof breathed. It was the weakest threat of their life.
 
-They told her. It wasn't elegant. There was a lot of her name in it, and none of the banter was left. The last thing in the room that resembled composure was her tail, wrapped around their waist and holding on like it never meant to let go.
+"Make me."
+
+They couldn't. They tried to push up onto their elbows and gave up halfway, trembling, when her hand slid around to splay across their stomach and pull them back against her. The pressure was firm and warm. Her other hand never left the base of their horn, circling in slow, patient pressure that dragged the purr out of them again and again. Their tail wrapped around her wrist and clung there.
+
+She kissed down the line of their spine, each kiss paired with a drag of fang, never quite a bite. The scales on their back glowed faintly ember-red wherever her mouth had been. Bloof's breath came ragged, and their fingers fisted in the sheets until the fabric creaked.
+
+"Seris..."
+
+"Mm?"
+
+"I can't... think."
+
+"Good." A kiss between their shoulder blades. "That's the idea."
+
+Her hand slid lower, unhurried, over the curve of their hip, down the scaled outside of one thigh, and back up the inside. She drew a slow, deliberate pattern with one claw, and she stopped every time Bloof's breath caught, held there, and watched. She was merciless about it. The third time she paused, Bloof made a sound that was half laugh, half sob.
+
+"You're _cruel,_" they gasped.
+
+"I'm thorough." Her lips brushed the shell of their ear, the cool metal of the bar piercing against her mouth. "Tell me how it feels."
+
+"Hot." The word was barely a breath. "You're... everything's... _hot._"
+
+"Good boy," she said, then caught herself, and her tail flicked in a quick, embarrassed twitch. "...Good _Bloof._ Whatever you are."
+
+"Good _Bloof,_" they repeated, dazed, and the purr rose again, so loud it shook the pillow.
+
+Seris laughed softly into their hair. It had no mockery in it at all.
+
+She turned them over. Bloof went easily, boneless, and lay there with flushed cheeks and kiss-bruised lips, tail trailing across the sheets. Their lower eyes were hazy and half-lidded. The upper lids twitched, and for a heartbeat a thin line of crimson showed beneath them, before Bloof shuddered and let them fall closed again.
+
+Seris saw it. Something fierce and tender went through her face.
+
+"There you are," she whispered, framing their jaw with both hands. "No more fighting me."
+
+"Thought I was winning."
+
+"You were." She pressed a kiss to the star on their forehead, then to the red crescent under each eye. "For a while."
+
+She settled over them, flushed and disheveled, lips swollen, her own breath uneven. She cupped their cheek.
+
+"Seris," they whispered at last, raw and unguarded. "***Please***."
+
+Her voice was softer than it had ever been. "*Tell me what you want*."
+
+They told her. It wasn't elegant. There was a lot of her name in it, and none of the banter was left.
+
+She worked her way down them, slowly, with her mouth and claws and the heavy curve of her tail twined around their ankle. Every sound she pulled from them was one nobody else had ever heard. When Bloof's hands came up to tangle in her hair, she let them. When their hips began to move and their voice came apart into her name, she held them through it, a steady hand at their waist and her mouth never leaving them. Their purr built higher and higher, shaking through their chest, until it broke on one long, shuddering breath.
+
+Her tail tightened. Their tail tightened. For a long moment, neither of them could have said whose was whose.
+
+By the end, the last thing in the room that resembled composure was her tail, wrapped around their waist and holding on like it never meant to let go.
 
 ---
 

@@ -3,6 +3,7 @@ title: Non-Canon AU Stories
 tags:
   - non-canon
   - AU
+  - fanfic
 ---
 
 # Non-Canon AU Stories
