@@ -31,3 +31,14 @@ After a mission, Bloof shuts themself in a dark room in the sanctuary. They can'
 
 ---
 
+### [[Cornered]]
+**Status:** Complete
+**Setting:** Alternate timeline, later than the main story's current point. Set at a party and a private suite.
+**Content notes:** Mature. Contains alcohol use, strong language, and sexual content.
+
+**Summary:**
+Seris talks a reluctant Bloof into attending a crowded party. Bloof is overwhelmed by the noise and the crowd, and they drink more than they should. Seris finds them against a wall and invites them upstairs for a break. In the quiet of her suite, the banter turns into something more, and the teasing becomes harder to hide behind. 
+
+**Non-canon elements:**
+- The relationship between Bloof and Seris, and how far along it is
+- The party and suite setting

@@ -1,7 +1,7 @@
 ---
 type: fanfic
 password: "embers123!"
-status: draft
+status: finalized
 canon: non-canon
 universe: AU
 au-note: Alternate universe set near the end of Act 2. Not canon; do not use as continuity evidence. HOWEVER, despite this not being canon, the way the characters ACT (outside of the romance) can be treated as canon to their personality.
@@ -33,6 +33,9 @@ created: 2026-10-18
 > The Crown Eyes are canon, but they have not yet appeared in the mainline story. They are an ancient draconic sensory trait, not prophecy or a Calamity. They let a bearer sense heat, magical energy, and the tension in a body just before it moves, so danger shows up before it takes shape.
 >
 > Bloof's are a second, upper pair of red eyes with white pupils. They usually stay closed and open when Bloof is in danger, shocked, or under severe stress. In this AU, they also open on their own under strong emotion. Bloof has long felt ashamed of them, because most people see two sets of eyes as a mutation. Bazemir recognizes them as something much older.
+
+>[!note] Character pronouns
+>Bloof uses they/them, and Bazemir uses he/him
 
 # Static and Ember
 
