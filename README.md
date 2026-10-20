@@ -2,7 +2,7 @@
 
 > *A world of beastfolk, buried dragons, and seven forces that never learned to be gentle.*
 
-**Torn Usunder** is a work-in-progress fantasy storyboard and worldbuilding vault. It is set in a beastfolk world around **2060–2100**, where magic is a language, leylines power the cities, and seven world-altering **Calamities** each live inside a single host.
+**Torn Usunder** is a work-in-progress fantasy storyboard and worldbuilding vault. It is set in a beastfolk world in **2045**, where magic is a language, leylines power the cities, and seven world-altering **Calamities** each live inside a single host.
 
 > 🚧 **Status:** Storyboarding phase. Lore, characters, factions, and the power system are being built before the first chapters are drafted. Everything here is subject to change.
 
