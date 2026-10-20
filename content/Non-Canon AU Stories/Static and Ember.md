@@ -39,19 +39,10 @@ created: 2026-10-18
 > Bloof's are a second, upper pair of red eyes with white pupils. They usually stay closed and open when Bloof is in danger, shocked, or under severe stress. In this AU, they also open on their own under strong emotion. Bloof has long felt ashamed of them, because most people see two sets of eyes as a mutation. Bazemir recognizes them as something much older.
 
 >[!note] Character pronouns
->Bloof uses they/them, and Seris uses she/her
+>Bloof uses they/them, and Bazemir uses he/him
+
 # Static and Ember
 
-> [!warning] Non-canon AU
-> This story is an alternate-universe fanfic set near the end of Act 2. Events, relationships, and characterization here (including the romance, Bazemir's softened stance, and the cause of the enemy's grief) are **not canon**.
-
-> [!note] The Crown Eyes
-> The Crown Eyes are canon, but they have not yet appeared in the mainline story. They are an ancient draconic sensory trait, not prophecy or a Calamity. They let a bearer sense heat, magical energy, and the tension in a body just before it moves, so danger shows up before it takes shape.
->
-> Bloof's are a second, upper pair of red eyes with white pupils. They usually stay closed and open when Bloof is in danger, shocked, or under severe stress. In this AU, they also open on their own under strong emotion. Bloof has long felt ashamed of them, because most people see two sets of eyes as a mutation. Bazemir recognizes them as something much older.
-
-> [!info] Character pronouns
-> Bloof uses they/them, and Seris uses she/her.
 
 ---
 
