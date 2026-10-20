@@ -25,6 +25,9 @@ These stories are shared for friends to read. Each one has its own summary below
 **Summary:**
 After a mission, Bloof shuts themself in a dark room in the sanctuary. They can't stop hearing what their enemy said: that Bloof was a monster who took someone away from them. Bazemir finds them and refuses to let them carry it alone. He tells Bloof about the hunting of his people and the cold years he spent frozen, and what that taught him about grief. Bloof breaks down, and the night turns into a confession of feelings neither of them has said aloud. 
 
+> [!warning] Content warning
+Themes of self-harm, hurt-comfort, and trauma.
+
 **Non-canon elements:**
 - The romance between Bloof and Bazemir
 - Bazemir's softened stance toward Bloof

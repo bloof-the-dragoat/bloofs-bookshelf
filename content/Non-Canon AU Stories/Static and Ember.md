@@ -26,9 +26,12 @@ tags:
   - non-canon
   - romance
   - hurt-comfort
+  - self-harm
 created: 2026-10-18
 ---
 
+> [!warning] Content warning
+Themes of self-harm, hurt-comfort, and trauma.
 
 > [!warning] Non-canon AU
 > This story is an alternate-universe fanfic set near the end of Act 2. Events, relationships, and characterization here (including the romance, Bazemir's softened stance, and the cause of the enemy's grief) are **not canon**.
@@ -39,8 +42,10 @@ created: 2026-10-18
 > Bloof's are a second, upper pair of red eyes with white pupils. They usually stay closed and open when Bloof is in danger, shocked, or under severe stress. In this AU, they also open on their own under strong emotion. Bloof has long felt ashamed of them, because most people see two sets of eyes as a mutation. Bazemir recognizes them as something much older.
 
 >[!note] Character pronouns
->Bloof uses they/them, and Bazemir uses he/him
+>Bloof uses they/them, and Bazemir uses he/him.
 
+
+---
 # Static and Ember
 
 The door was shut, the lights were off, and Bloof had not moved in a long time.
@@ -147,21 +152,29 @@ Everything broke at once, their voice, the mask, all the control they had built 
 
 "No," Bazemir said immediately. "Bloovrn, no—"
 
-"*Don't.*" Bloof was already scrambling backward off the bed. The chains clattered against the frame and their shoulders hit the wall hard enough to rattle the pictures. Their tail clamped around their legs so tightly the scales creaked. "You don't get to say it like it's obvious. You weren't there. I killed someone's *her.* I don't even remember her face. I remember a door, and I remember it feeling *good*, and I let it, Baz. And then some stranger looks me dead in the eyes and says what I already fucking know." A laugh tore out of them that had no humor in it at all, rough as torn cloth. "Cruel monster. Yeah. No shit. That's the whole point of me, isn't it?"
+"Don't. ***Don't***!" Bloof was already scrambling backward off the bed. The chains clattered against the frame and their shoulders hit the wall hard enough to rattle the pictures. Their tail clamped around their legs so tightly the scales creaked. "You don't get to say it like it's *obvious.* You weren't *there.* I killed someone's *her.* I don't even remember her face. I remember a door, and I remember it feeling *good,* and I let it, Baz. And then some stranger looks me dead in the eyes and says what I already **fucking know.**" A laugh tore out of them that had no humor in it at all, rough as torn cloth. "*Cruel monster.* Yeah. *No shit.* That's the whole point of me, isn't it?"
 
 "That is not—"
 
-"I'm so fucking weak." Their hands were shaking so badly their claws clicked together. "Years of discipline, and I still can't hold it. The second it wants out, I'm not even in there. I'm just watching. Like it's a movie and I'm the one holding the knife." Their back slid down the wall until they were crouching. "They made me this way. They looked at a kid and saw a place to put something. And I came out exactly how they wanted, so what the fuck is wrong with me that I'm *good* at it?"
+"I'm so *fucking* weak." Their hands were shaking so badly their claws clicked together. "Years of discipline, and I still can't hold **Wrath** in! The second it wants out, I'm not even *in there!* I'm just *watching.* Like it's a movie and I'm the one holding the knife." Their back slid down the wall until they were crouching. "They made me this way. They looked at a *kid* and saw a place to put something. And I came out exactly how they wanted, so what the *fuck* is wrong with me that I'm *good* at it?"
 
-"Bloof."
-
-"I just wanted a normal life!" It tore out of them raw. A scorch mark blossomed on the wall behind their shoulder and the paint began to blister. "A degree, a shitty apartment, mom not having to worry. Soccer on weekends like an idiot. And I don't even get to want it. Two sets of eyes. Horns. Heat coming off me like a furnace. Normal people don't have to check if they're going to kill someone at dinner. I'm a fucking mistake. A lab-grown fuck-up that got up and walked out, and I'm not even a beast, I'm just what's left over when they—"
+"Bloof—"
 
 Their breath hitched and would not come back. They could only drag in great, ragged gasps, with a wheeze at the bottom of each one, shoulders locked up around their ears.
 
-Bazemir let it run longer than he wanted to. He knew, from the long years behind the ice, that some things had to be said into the open before they could be answered. His hands had curled into fists at his sides, and tiny blue sparks crawled along the knuckles. But there was a limit, and he reached it.
+One hand had found their other forearm. Bloof didn't notice it happen. Their silver claws had sunk in through the torn sleeve, and with every strangled breath they dragged a little further, four slow, parallel lines down the scales. The scales split first. Then the skin beneath them opened, and blood welled up black in the dark, ran down their wrist, and fell onto the floorboards in fat, quiet drops. Where it touched their overheated scales it hissed and spat. The sharp, coppery smell reached the Crown Eyes before it reached anything else. Bloof's gaze stayed fixed on nothing, wide and glassy and pointed straight through the wall. Their hand kept dragging.
 
-He crossed the room in three strides, dropped to his knees, and pulled Bloof into his arms.
+Bazemir let it run longer than he wanted to. He knew, from the long years behind the ice, that some things had to be said into the open before they could be answered. His hands had curled into fists at his sides, and tiny blue sparks crawled along the knuckles. But he had listened to this for as long as he could stand, and he could stand a great deal.
+
+Then the first drop of blood hit the floor, and he stopped listening.
+
+He crossed the room in three strides, dropped to his knees, and closed one hand around Bloof's wrist, firmly, but not hard enough to hurt. The claws stopped mid-drag.
+
+"Bloovrn." His voice was very quiet, and not steady. "Your hand."
+
+Bloof blinked. They looked down at the line of red running over Bazemir's fingers, the torn sleeve, the claws still half-buried in their own arm, as if looking at something that belonged to someone else. "Oh," they said, small and blank. "I didn't..."
+
+Bazemir eased the claws free, one at a time, and pulled Bloof into his arms.
 
 Bloof went rigid as a drawn bowstring. "No—don't, I'm still hot, I'll burn you, get *off*—"
 
@@ -173,7 +186,31 @@ Heat rolled off them in waves. The sleeve of Bazemir's shirt began to smoke wher
 
 "I understand more than you would like." One hand cradled the back of their skull, fingers spread gently around the base of their horns. The other pressed flat between their shoulder blades, firm and unhurried, over the pounding of their heart. "You are not weak. You are not a mistake. You are not a monster. I am not saying it to make the pain stop. I am saying it because it is true, and I will go on saying it until you are tired of hearing it."
 
-Bloof fought for a few more seconds. They shoved at his chest and their tail lashed against the floor with a crack. Then it stopped, all at once, as if a string had been cut. Their fists closed in the front of his shirt and held on. In all the time they had known him, they had never once held on first.
+Bloof fought him. The shove came first, both palms against his chest, harder than they meant it, and Bazemir's breath left him in a short grunt. He did not let go. Their claws snagged in the gold braid of his coat and tore a thread loose. Their tail lashed against the floor with a crack that rattled the bed frame, and the heat coming off their scales spiked until the wool of his sleeve began to smell of singed thread. A bead of blood from the torn arm smeared across the blue, dark and wet.
+
+"Let go." Their voice was a thin, cracked thing. "Let go, let *go*, you're getting blood on your coat, you're, I'm, I'll *hurt* you—"
+
+"You have not."
+
+"I *will.*" They twisted in his grip, shoulders jerking, the back of their skull cracking against the wall. "That's, that's what I *do*, Baz, that's the only thing I do, you can't just—" Their voice splintered. "Don't. Don't be nice to me. I don't, I'm not, I can't *take* it, I didn't *earn* it. You don't, you shouldn't be *touching* me, I'm not someone you're, you're supposed to—"
+
+"Supposed to what?" Bazemir's arms tightened, careful of the wounded arm, but not loosening. "Tell me what I am supposed to do, Bloovrn. Leave you on the floor? Hand you a report and a blanket and close the door?"
+
+"*Yes!*" It tore out of them. Their fists beat against his chest, once, twice, weaker each time. "Yes, that's, that's what you do with, with *things* like me, you put them somewhere and you, you don't—you don't *hold* them, you can't, I'm not *worth*—"
+
+"You are."
+
+"I'm *not.*"
+
+"You are." He said it into their hair, quiet and absolutely certain, as if reading a fact off a page. "You may fight me for as long as you like. I will not move."
+
+Bloof fought him for another handful of seconds that felt like hours. The heat came off them in waves. Sparks leapt from Bazemir's shoulders to the floor, to the wall, to the edge of the bed, and neither of them noticed. Their shoves slowed. Their claws caught in his coat and stuck there, and the tail that had been lashing against the floorboards dragged to a stop.
+
+Then it all stopped at once, as if a string had been cut.
+
+Their fists closed in the front of his shirt and held on.
+
+In all the time they had known him, they had never once held on first.
 
 Their forehead fell against his shoulder. A sob shook out of them, deep and ugly, and then another, the way a drowning person grips whatever is solid. Bazemir's shirt grew damp and warm with tears and black smears of mascara. Slowly, the tail uncoiled from around Bloof's own legs and curled around his instead.
 
@@ -323,7 +360,25 @@ The word was out before Bloof could stop it. Bazemir went completely still. Then
 
 "Oh, little ember," he said. "That was a mistake."
 
-He flipped them with a fluid strength that startled a laugh out of Bloof, then caught the laugh with his mouth. The pillows shifted under Bloof's shoulders, and the whole bed creaked. His hands slid under their shirt, and the scales along their ribs burned warm under his palms. He took his time, mapping them like a text he intended to memorize. When his thumb brushed the base of their horn, Bloof arched off the mattress, a sharp breath tearing out of them, and every ember along their spine flared at once.
+He flipped them with a fluid strength that startled a laugh out of Bloof, then caught the laugh with his mouth. The pillows shifted under Bloof's shoulders, and the whole bed creaked. For a long moment he did nothing else. He simply looked down at them, his pale mane spilling over his shoulders and curtaining both their faces, his amber eyes gone dark and molten in the dim light.
+
+"Do you know," he said quietly, "how I have *longed* to see you like this?"
+
+"Like what?" Bloof's voice came out smaller than they intended.
+
+"Unguarded." One long finger traced the dark curve of their jaw, the faint red crescent beneath their eye. "Soft. Looking at me as though I might be worth the risk." His thumb brushed the septum ring, so gently the metal barely stirred. "I intend to be worth it."
+
+Bloof's ears folded flat. "Baz, you can't just *say* stuff like that—"
+
+"I can. I **will.**" His mouth curved. "Especially when it makes you do that."
+
+"Do *what?*"
+
+"Blush down to your collarbone."
+
+Bloof made a strangled noise and flung an arm over their face. Bazemir caught the wrist with a soft laugh and pinned it gently to the pillow beside their head. "No hiding. Not tonight. I should like to see all of you."
+
+His other hand slid under their shirt, and the scales along their ribs burned warm under his palm. He took his time, mapping them like a text he intended to memorize. When his thumb brushed the base of their horn, Bloof arched off the mattress, a sharp breath tearing out of them, and every ember along their spine flared at once.
 
 "There," Bazemir murmured, entirely too pleased with himself. "I had wondered."
 
@@ -337,7 +392,7 @@ Lightning prickled along his fingertips, faint and controlled, a fine, delicate 
 
 "Allow me to suggest." His mouth moved lower, and his voice moved with it, unhurried and soft. "You want to be looked at. You want to be touched like you are worth the time. And you want to stop being the one who takes care of everyone else, for a few hours." A slow, deliberate kiss to their sternum. "Let me do that. Let me take care of you."
 
-Bloof made a sound they would never admit to. "That's— you can't just *say* that."
+Bloof made a sound they would never admit to. "That's— you can't just say that."
 
 "I have said it. I intend to say a great deal more." His eyes lifted to theirs, dark with want. "You are very beautiful when you stop fighting it, Bloovrn."
 
@@ -351,37 +406,103 @@ Bazemir stilled at once. The lightning in his hands died away to nothing. "I wil
 
 Bloof's eyes stung again, but it felt less like falling and more like being set down. They pulled him back to their mouth and kissed him hard, with the whole of their shaking, grateful heart.
 
-When they broke apart, Bazemir's voice had dropped to something rougher and a good deal less formal.
+The kiss changed.
 
-"I want you," he said. "I will say it plainly, since I have spent far too long being polite about it. I want to feel you against me, every inch of you. I want to hear what you sound like when you stop holding back." His forehead rested against theirs. "But only if you want it too."
+It was Bazemir who changed it. His lips parted, and the tip of his tongue slid across Bloof's lower lip, warm and slow and golden, a thin, forked thing that flickered once, tasting. Bloof gasped. Their own tongue answered before they could think, deep purple and just as slender, and the two of them tangled in the heat of their mouths, sinuous and unhurried, curling around each other like they'd been made to fit. A spark leapt between them with a tiny, bright *snap.* Bloof moaned into his mouth, helpless, and felt Bazemir's low answering hum all the way down their spine.
 
-Bloof stared at him, wide-eyed, breathing hard. Every witty deflection they owned had burned away. What was left came out small and certain.
+When he finally drew back, a thread of gold light still clung between them, and Bloof's whole body was trembling.
 
-"Yes," they whispered. "Yeah. I want that. I want *you.*"
+"Oh my *god,*" they breathed.
 
-"Then say my name."
+"That is a good sign, I think."
 
-"Baz."
+"You're— that's not— **how** are you that good at that?"
 
-"Again."
+"Over a hundred years of studying," Bazemir said gravely, "and very little else to do."
 
-"*Baz.*"
+Bloof barked a startled laugh, and he swallowed it with another kiss.
 
-The sound he made was low and ragged, and sparks leapt from his horns to the headboard.
+He took their shirt next, easing it up over their head with the same careful attention he gave everything. Then he simply stopped and looked, and Bloof felt every second of it. The dark scales across their shoulders glimmered with ember-light. The red chevrons marked across their chest rose and fell with their breath. Bloof's ears flattened, and their arms started to cross over themself.
 
-What came after was heat and breath and skin. Bloof's chains slid off the edge of the bed with a soft clatter, and the black-and-red jacket vanished somewhere into the dark. Bazemir's hands found their hips and Bloof's hands found his back, and every touch left a trail behind it, warm where Bloof's palms had passed and tingling where his fingers had been. They moved together, slow and then not slow at all. The bed creaked under them, and the sheets whispered, and neither of them seemed to care how much noise they were making. Bloof's tail wound tight around his leg, and the feathered tip of his own wrapped around theirs as if it had a mind of its own. His mouth was at their ear the whole time, and the things he said there made Bloof's claws dig into his shoulders and their breath stutter out in broken pieces.
+"Do not." Bazemir caught their wrists and drew them gently aside. "Please. Let me look."
+
+"There's not— I'm not—" Their voice cracked. "There's a lot of scars, and the scales are weird, and—"
+
+"I think you are *extraordinary*." He said it so simply that Bloof stopped breathing. "I think every mark on you is the record of someone who survived what should have ended them. I think the red here—" his fingers followed a chevron, light as breath "—is the most beautiful thing I have seen in four hundred years." His voice dropped. "And I should like to say so with my mouth."
+
+Bloof's heart slammed against their ribs. "*Baz*—"
+
+"May I?"
+
+"*Yes.* Yes, please, I—"
+
+He bent, and kissed the center of their chest.
+
+It was slow. It was devastatingly slow. His lips traced each red chevron in turn, soft and warm, and the tip of his forked tongue followed after, a hot, flickering line of gold across dark scale and warm skin. Bloof's back arched off the bed. A broken sound tore out of them, and their hands flew to his hair and fisted in the pale silk of it, tangled in that long lavender mane. They felt the soft rumble of his approving hum against their ribs.
+
+"Beautiful," he murmured against their skin. "Every inch. **Every** inch."
+
+His mouth moved lower. He kissed the hard line of their abdomen, then the hollow beside each hip, pausing to nip lightly at the sharp ridge of bone and soothe it with his tongue. Bloof gasped and kicked, and he laughed softly, a puff of warm breath that made them shiver. His hand wrapped around one ankle, the thumb stroking slow circles into the inside of it, and he guided their leg over his shoulder.
+
+"Easy," he said. "I have you."
+
+He kissed the inside of their knee first, so tender it hurt. Then his lips drifted down their thigh, open-mouthed and unhurried, each kiss warmer than the last. The tip of his tongue slid along the sensitive skin of the inner thigh, a long, wet, golden line, and Bloof's whole body clenched and shuddered. Their claws shredded the pillow beneath them. Static crawled up their leg in tiny, bright threads, and Bloof's head fell back, their mouth open in a soundless cry.
+
+"Ah— *Baz*— that's— oh my *god*—"
+
+"Good?" His voice was dark velvet, rough with want.
+
+"**Too** good! It's too— I can't—"
+
+"You can." He pressed a kiss to the tender skin just below their hip, then dragged his teeth across it, very lightly. "You are doing so well. Let me hear you."
+
+"I'm— *hnn*— I'm trying, I don't— I never—"
+
+"I know." His hand came up to cradle their face, thumb brushing the corner of their trembling mouth. "I know, little ember. You have never had anyone take care of you. That is all right. I will teach you. We have all night."
+
+Bloof's eyes squeezed shut, and a tear slid down their temple into their dreads, a hot, helpless thing. He wiped it away with his thumb and kissed the place it had been.
+
+"Too much?" he asked softly.
+
+"No." Their voice was wrecked. "No. It's just— nobody's ever— I didn't know it could feel like this."
+
+"Like what?"
+
+"Like I'm—" They couldn't say it. Their face crumpled, and they pulled him up and into a kiss that tasted of salt. "Like I matter."
+
+"You do," Bazemir said against their lips, fierce and quiet. "You **do.** And I will spend every hour I have left proving it."
+
+He returned to his work with a vengeance.
+
+He kissed the length of one thigh and then the other, lavishing attention on every inch. He mouthed along the ridge of their hip, then traced it with the flat of his tongue, and then the inside of their knee again, and the soft, hidden skin behind it. He worshipped their calves and the high arches of their feet. He kissed each claw-tip in turn, silver as moonlight on a blade, and Bloof let out a high, startled laugh that melted into a moan halfway through. Everywhere his mouth passed, lightning followed in a soft, humming thread, and everywhere it touched, heat answered. The sheet beneath them began to smolder at the edges. The air tasted of smoke and rain.
+
+"I can't," Bloof gasped, writhing, hands knotted in the headboard now, their tail lashing against his back. "I can't, I can't, Baz, *please*, I need— I need—"
+
+"I know what you need." He rose over them, pale and gleaming, his mane wild, his eyes blown wide and burning gold. "Say it for me. Tell me."
+
+"You," Bloof sobbed. "I need **you.** Please. I'm yours. I'm— I'll be anything, just—"
+
+"You need not be anything." His forehead dropped to theirs, and his voice broke. "You only need to be here. With me. Exactly as you are."
+
+"I'm here." They wrapped their arms around his neck, trembling. "I'm right here."
+
+"Then I am yours as well," Bazemir whispered, "for as long as you will have me."
+
+He lowered himself against them, and the world narrowed to heat and breath and skin. Bloof's legs wound around his waist. His hands cradled their face, their ribs, their hips, their tail, the base of their horns, wherever they would lift into his touch. Their mouths met again and again, deep and slow and desperate, gold tongue tangling with purple. Bloof's claws scored lines down his back and he groaned into their neck, a rough, thrilling sound. His tail wrapped tight around theirs, pale scales and soft feathered tip twined with dark ones, and for a moment they were locked together at every point they could be.
+
+Words fell apart. There was only breath, a rising tide of low sounds, the creak of the bed, the hiss of scorched sheets, the soft crackle of lightning. Bloof felt every pulse of it. They felt Bazemir shaking against them, hungry and tender and reverent all at once, every touch asking and every answer given. He murmured their name against their throat, over and over, in a rough, unsteady litany, and each time it landed like a blessing.
 
 "Look at you," he murmured. "So warm. So perfect. You feel like the sun, do you know that?"
 
-"Baz— *please*—"
+"Baz— please—"
 
 "Please what?" he asked, wicked and tender at once. "Tell me. I want to hear you ask."
 
-"*More,*" Bloof gasped, and they hated how wrecked it sounded and loved it all at once. "Please, just— more."
+"**More,**" Bloof gasped, and they hated how wrecked it sounded and loved it all at once. "Please, just— more."
 
 "Yes," Bazemir breathed. "Yes. Anything."
 
-Heat built between them like a storm front. Every breath he took was a little ragged, and every one of Bloof's came out as a low, helpless sound. The room blazed red along the ceiling and flashed blue-white along the walls, and the air tasted of smoke and rain. Bazemir pressed his face into Bloof's neck and finally let go of the last of his control. His voice broke over their name, a name and a prayer. "Bloof. Bloovrn. *Mine*— oh, forgive me, I did not mean—"
+Heat built between them like a storm front. Every breath he took was a little ragged, and every one of Bloof's came out as a low, helpless sound. The room blazed red along the ceiling and flashed blue-white along the walls, and the air tasted of smoke and rain. Bazemir pressed his face into Bloof's neck and finally let go of the last of his control. His voice broke over their name, a name and a prayer. "Bloof. Bloovrn. ***Mine***— oh, forgive me, I did not mean—"
 
 "Don't take it back," Bloof said, shaking, clinging to him. "Please. I'm yours. I've got you. I'm right here."
 
