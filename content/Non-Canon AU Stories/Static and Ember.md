@@ -43,9 +43,6 @@ created: 2026-10-18
 
 # Static and Ember
 
-
----
-
 The door was shut, the lights were off, and Bloof had not moved in a long time.
 
 They sat on the floor at the foot of the bed with their back against the frame and their knees pulled up to their chest. Their tail was wound around their legs, the red-tipped end tucked under one arm like something they were trying to keep from escaping. The jacket was still on. It still smelled of smoke and iron. Every chain on their pants was still clipped where it belonged, because taking anything off would have meant admitting the mission was over.
