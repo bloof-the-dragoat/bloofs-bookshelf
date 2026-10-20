@@ -31,7 +31,7 @@ created: 2026-10-18
 ---
 
 > [!warning] Content warning
-Themes of self-harm, hurt-comfort, and trauma.
+> Themes of self-harm, hurt-comfort, and trauma.
 
 > [!warning] Non-canon AU
 > This story is an alternate-universe fanfic set near the end of Act 2. Events, relationships, and characterization here (including the romance, Bazemir's softened stance, and the cause of the enemy's grief) are **not canon**.
