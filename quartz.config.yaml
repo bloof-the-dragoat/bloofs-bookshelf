@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: The Bloof Archive
+  pageTitle: Bloof's Bookshelf
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
