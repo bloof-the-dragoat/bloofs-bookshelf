@@ -272,6 +272,8 @@ Spade looked down at Voeren, at the black hair stuck to her cheek, at the smear 
 
 "Yeah," they said. "I'll do it. Tell them to hold."
 
+Before they touched the drag sheet, Spade crawled back to the railing and worked the knife free of the base. The blade had gone gritty with rust flakes. They wiped it down the length of their thigh and slid it into the sheath behind their right hip, where it had lived every day since basic. It wasn't issue. It was theirs, and it was the one thing in this whole mess they had actually chosen.
+
 ---
 
 The drag sheet was strapped to Voeren's pack like every other team member's, a rolled square of tough gray polymer with webbing loops along the edges. Spade had never used one for anything but training. They unrolled it beside her, knelt, and rolled her onto it, an inch at a time, gritting their teeth against the fire in their back.
