@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bloof-the-dragoat.github.io/torn-usunder
+  baseUrl: bloof-the-dragoat.github.io/bloofs-bookshelf
   ignorePatterns:
     - private
     - templates
