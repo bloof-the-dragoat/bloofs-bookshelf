@@ -2,28 +2,28 @@
 type: chapter
 chapter: 2
 title: Dead Weight
-title_status: Working title
-status: First draft
-draft_version: 1
+title_status: working title
+status: Polished -pending final review
+draft_version: 2
 pov_character: "[[Ranelle Spade]]"
 pov_style: Close third person, past tense
 characters:
   - "[[Ranelle Spade]]"
   - "[[Aeirith Voeren]]"
 supporting_characters:
-  - Kestrel Control radio operator (unnamed, voice only)
   - Medics (unnamed)
-  - Enemy soldier (unnamed, killed by Voeren)
-location: The Salt Yards, from the depot gantry to Pier Four
+  -   - Enemy soldier (unnamed; killed by Voeren)
+  -   - Kestrel Control radio operator (unnamed; voice only)
+location: The Salt Yards — loading bay, rail bridge, canal-side lane, quay, and Pier Four
 location_status: Provisional
 timeframe: Late night into dawn, immediately after Chapter 1
 story_order: 2
 follows: "[[Chapter 1 - Contact]]"
-precedes: "[[Chapter 3 - Bastard]]"
-opens_with: "Voeren breaks the strangler's neck; 'The pressure vanished.'"
-closes_with: "Extraction; Spade passes out holding Voeren's hand"
+precedes: "[[Chapter 3 - Low Tide]]"
+opens_with: Voeren breaks the strangler's neck; 'The pressure vanished.'
+closes_with: Extraction; Spade passes out holding Voeren's hand
 source_notes:
-  - "[[Opening Ambush]]"
+  - "[[1 - Opening Ambush]]"
   - "[[Copy from Written Notes(ROUGH NOTES)]]"
 outcome: Both protagonists extracted alive
 word_count:
@@ -33,6 +33,9 @@ content_warnings:
   - Injury and blood
   - Suspected character death (Voeren, briefly)
   - Medical emergency
+  - Fear of losing an injured companion
+  - Loss of consciousness
+  - Character deaths
 relationship_stage: Acquaintances to mutual debt and first real closeness
 key_beats:
   - Voeren kills the strangler and says "You stayed"
@@ -42,7 +45,7 @@ key_beats:
   - Spade drags Voeren toward Pier Four
   - Voeren wakes and says "Not anyone"
   - Tilt-rotor MEDEVAC extraction
-canon_status: Draft prose — not approved canon
+canon_status: polished — pending approval
 tags:
   - chapter
   - chapter-2
@@ -52,392 +55,1188 @@ tags:
   - extraction
 ---
 > [!warning] Content Note  
-> Graphic violence, strangulation aftermath.
+> Content note: Graphic violence, strangulation aftermath, injury and blood.
 
 The pressure vanished.
 
-The man's face went slack. A sound came out of him, a wet, startled grunt, and his hand fell away from Spade's throat. Then there was a sharp crack, like a dry branch broken over a knee, and his head turned in a direction heads are not meant to turn.
+For a second, Spade couldn’t understand what had changed. The hand was still there. The man was still above them.
 
-He toppled sideways, and the blood on his neck flew in a red arc across Spade's cheek.
+Then his fingers loosened.
 
-Behind him, swaying, stood Voeren.
+Air scraped into their throat.
 
-Spade lay gasping on the floor and stared up at her. She was shaking. Her left arm hung stiff. Her face had gone a strange gray under the dirt and blood, and a muscle in her jaw jumped like a fish. But she was upright, and she was looking down at Spade with an expression Spade couldn't read.
+His face went slack. A wet, startled sound escaped him, followed by a sharp crack, and his head turned farther than it should have.
+
+He toppled sideways.
+
+Spade flinched as blood struck their cheek.
+
+Behind him stood Voeren.
+
+Swaying.
+
+They dragged in another breath. Coughed it out. Tried again.
+
+Her left arm hung close to her side. A muscle jumped in her jaw. Under the dirt and blood, her face had gone a color Spade didn’t like.
+
+But she was standing.
+
+She was looking at them.
 
 Then she smiled.
 
-It wasn't the savage grin from the pump house. This one was smaller and tired, but it reached her eyes.
+Not the grin from the pump house. This one was smaller, tired at the edges.
 
-"Hey," she said, and her voice shook. "You okay?"
+“Hey.” Her voice shook. “You okay?”
 
-Spade coughed. Their throat felt like it had been packed with gravel. "I'm—" It came out in a wheeze. "I'm alive."
+Spade tried to answer.
 
-"Good." She lowered herself, stiffly, onto one knee. The wound at her flank had stopped bleeding freely, the edges already knitting into raw pink flesh, but Spade could see how her hand trembled when she pressed it there. She was in pain, and she didn't let any of it reach her face. "You put my shooter down. And you dropped a crane on his friend."
+The first sound was a cough.
 
-Spade managed a weak laugh. "You saw that?"
+“I’m—”
 
-"I was lying on the floor listening. A horn, a chain, a lot of screaming. I put it together." Her eyes were very bright. "Most people can't think while somebody's trying to kill them. You can."
+Their throat closed around the word. They swallowed and regretted it.
 
-Spade tried to answer and couldn't.
+“I’m alive.”
 
-"You could've left," Voeren said. "There was a hatch. I saw it before they hit me."
+“Good.”
 
-It wasn't a question, so Spade didn't answer it. The horn kept screaming, far off. The strobes kept flashing.
+Voeren lowered herself onto one knee. Slowly. One hand went to her flank.
 
-"You stayed," Voeren said quietly.
+Blood no longer flowed freely from the wound, but the fabric around it was soaked. Where the shirt had torn away, Spade could see raw pink tissue gathering along the burned edges.
 
-Something in Spade's chest went tight. They turned their face away. "I just—" They swallowed. "Didn't want you to die."
+Her fingers trembled against it.
 
-"I know." Her hand touched Spade's shoulder, careful, warm even through the vest. "Thank you."
+“You put my shooter down,” she said. “And dropped half the depot on his friend.”
 
-Spade could not recall the last time anyone had said that and meant it.
+A laugh caught painfully in Spade’s throat.
 
-_Get it together,_ they ordered themself. _You're lying on a floor. Your knee is wrecked. There could be more of them. Think about something that isn't her hand._
+“You saw that?”
 
-They sat up, which made the world tilt. The knee protested, but when they pushed against it, it held. The pain was awful, but it was the dull, ordinary kind, the kind that meant a sprain and not a break. Their lower back felt like someone had hammered a nail into it. They tested their neck and winced.
+“Heard enough.” The corner of her mouth lifted. “Horn. Chain. A lot of screaming. Put it together.”
 
-"Knee's twisted," Spade reported, because reporting was easier than feeling. "Back's bad. I can walk. Barely." They tried the weight. "I think the jammer's leaving a gap along the south wall. The canal drops the noise floor, and if we cross the rail bridge by the old pump station—" They paused. "What?"
+Spade stared at her.
 
-Voeren was looking at them with such open, startled warmth that Spade forgot what they were saying.
+A minute ago, they had been certain she would never speak again.
 
-"You're doing it again," she said.
+“Most people can’t think with somebody trying to kill them,” Voeren said. “You can.”
 
-"Doing what?"
+They opened their mouth.
 
-"Planning. Right in the middle of this." Something at the corner of her mouth twitched.
+Nothing useful came.
 
-Spade felt their face go hot. "It's just—"
+Her gaze moved over their face, then toward the tool crib.
 
-"It's not just anything." She pushed herself to her feet, swayed, and caught herself on a pillar. Then she looked at Spade with a slow, wicked smirk. "Come on. We're moving."
+“There was a hatch,” she said. “I saw it before I went down.”
 
-"I can walk—"
+Spade looked at the floor.
 
-"Sure you can."
+The alarm was still sounding. The strobes still flashed across the fallen man’s boots.
 
-Before Spade could say another word, she bent, slid one arm under their knees and the other behind their back, and lifted them like a sack of laundry.
+“You could’ve left.”
 
-"What—Voeren! I said I could—"
+They rubbed a hand over their mouth and felt blood that wasn’t theirs.
 
-"You said you could walk _barely._" She settled them against her chest. "Barely's not fast enough."
+“You stayed,” Voeren said.
 
-Spade's mind went completely, humiliatingly blank.
+Something tightened beneath Spade’s ribs.
 
-She was _warm_. That was the first thing, absurdly. Warm, solid, and broad as a wall. The muscle under the torn sleeve flexed against Spade's ribs as she shifted her grip. She smelled like gun oil and sweat and iron, and under it was something fainter, a clean, sharp scent Spade couldn't name and wanted very badly to. Their cheek was pressed against the curve of her shoulder. Their legs hung over her arm. Her heartbeat thudded against their side, steady and strong.
+“I just—”
+
+Swallowing hurt.
+
+“Didn’t want you to die.”
+
+For a moment she said nothing.
+
+Then her hand settled on their shoulder.
+
+“I know.”
+
+Warmth through the fabric. A careful pressure.
+
+“Thank you.”
+
+Spade nodded at the concrete.
+
+They could deal with orders. Questions. A problem that needed an answer.
+
+They had no idea where to put the way she was looking at them.
+
+_Get it together._
+
+Their knee throbbed. Their back hurt. There could still be more people coming.
+
+_Something that isn’t her hand. Think about something else._
+
+They pushed themself upright.
+
+The room tipped.
+
+Voeren’s grip tightened just enough to steady them.
+
+Spade waited for the floor to settle, then drew their left foot closer. The knee protested. They tested it carefully, taking some weight through their other leg.
+
+It held.
+
+That didn’t tell them what was damaged. Only that it held.
+
+“Knee’s twisted,” they said. Reporting was easier. “Back’s bad.”
+
+They took another breath.
+
+“I can walk. Barely.”
+
+Their eyes found the southern doorway.
+
+“The canal. I think we can get a better signal there. If we cross the rail bridge by the old pump station—”
+
+They stopped.
+
+Voeren was watching them.
+
+“What?”
+
+“You’re doing it again.”
+
+“Doing what?”
+
+“Planning.”
+
+Spade glanced toward the doorway, confused.
+
+“Someone has to.”
+
+“Yeah.” Her expression softened. “Someone does.”
+
+Their face warmed.
+
+“It’s just—”
+
+“It’s not just anything.”
+
+Voeren pushed herself upright, caught a pillar when she swayed, and waited a beat before letting go.
+
+“Come on. We’re moving.”
+
+Spade braced a hand against the shelving.
+
+“I can walk—”
+
+“Sure you can.”
+
+She bent before they could finish, slid an arm beneath their knees and the other behind their back, and lifted.
+
+Spade caught her shoulder.
+
+“What—Voeren!”
+
+“You said barely.” She adjusted them against her chest. “Barely’s not fast enough.”
+
+Their mind went blank.
+
+Not usefully blank. Not the clear space that sometimes opened around a technical problem.
+
+Blank in the specific, humiliating way of discovering that the woman they had spent eight months trying not to stare at was holding them against her.
+
+She was warm.
+
+That was the first thing.
+
+Warm through the damp uniform, through their vest, through everything. Her forearm shifted beneath their knees. The torn sleeve brushed their wrist. They could smell gun oil and sweat and blood, and beneath it something clean they couldn’t identify.
+
+Their cheek was much too close to her shoulder.
+
+They didn’t move it.
 
 _Oh, no._
 
-_Oh, no, no, no, I can feel her heartbeat._
+“Comfortable?”
 
-"Comfortable?" Voeren asked innocently.
+“Fine.”
 
-"Fine," Spade croaked.
+It came out as a croak.
 
-"You're blushing."
+Voeren glanced down.
 
-"I'm not."
+“You’re blushing.”
 
-"You're blushing _really_ hard." She was laughing, quiet and low, and Spade could feel it in the chest they were pressed against. "It's cute."
+“I’m not.”
 
-Spade buried their face against the nearest available surface, which was her shoulder, and prayed for a mortar.
+Her mouth twitched.
 
-Then she was running.
+“Really?”
+
+Spade looked anywhere else.
+
+The ceiling. The door. A dead light fitting.
+
+“You’re blushing pretty hard.”
+
+“Can we please move?”
+
+A quiet laugh shifted through the chest beneath their hand.
+
+“It’s cute.”
+
+Spade shut their eyes.
+
+_Absolutely not. We are not doing this right now._
+
+Then she started running.
 
 ---
 
-She ran the way she fought, with a loose, easy power. The yard jolted past in strobing gray. Pipes and containers slid by, and the rail bridge loomed, a sagging iron arch over black water. She took it without slowing, boots drumming on old planks, and Spade watched the world bounce in and out of focus over her shoulder. Cold air whipped across their face. Behind them the horn was still wailing, faint now, like a distant siren.
+Every footfall travelled through her arms into Spade’s back.
 
-It should have felt safe. In some deep, stupid way it did.
+They clenched their teeth and tried not to make it obvious.
 
-_She's carrying me,_ Spade thought. _She just killed a man to save me. She's carrying me across a bridge in the middle of the worst night of my life, and I'm only thinking about how strong her arms are._
+Voeren moved quickly between the buildings, shoulders turned to clear a narrow passage, boots splashing through shallow water. The loading-bay alarm faded behind them.
 
-_What's wrong with me?_
+Ahead, the rail bridge rose out of the dark.
 
-They felt the hitch before they understood it.
+Black water moved beneath its old planks.
 
-It was small. A half-step that came a fraction late, a catch in her breath. Her arm shook once, then steadied. She muttered something under her breath that might have been a curse.
+Spade looked back over her shoulder, watching the route they had come from.
 
-"Voeren?"
+No movement.
 
-"Fine." Her voice was tight. "I'm good."
+No one following that they could see.
 
-"You're not—"
+Their hand rested against the back of her neck.
 
-"I said I'm _good._" She pushed on. But her stride had gone uneven, and Spade could feel her heart racing now, too fast, too hard, thundering against their ribs.
+They noticed.
 
-_She's hurt. She's been fighting for hours, alone, against other enhanced soldiers. And then she picked me up._
+Tried to decide where else to put it.
 
-Spade pushed at her shoulder. "Put me down. I can walk. I can—"
+Failed.
 
-"No."
+_She’s carrying me._
 
-The word came out ragged. They were off the bridge now, in a narrow canal-side lane with brick walls close on both sides and a black waterline below. A line of ancient bollards marched along the edge. Beyond them the sky had started to lighten, a thin gray at the horizon.
+The thought was absurdly simple.
 
-Voeren took three more steps. A fourth.
+After the pump house, the rifle, the man on top of them, there was this: her arm beneath their legs, the firm hold behind their back, the terrible ease with which their body wanted to believe they were safe.
 
-On the fifth, her knee gave.
+Her next step landed late.
 
-She didn't fall straight. She pitched forward, still trying to protect Spade in her arms, twisting her body to take the impact on her own back, and it didn't work. Her grip failed and Spade came out of her arms in a long, awful tumble, hit the brick lane on their already ruined back, and rolled to a stop against a bollard in a blaze of white-hot pain.
+Spade felt it before they saw it.
 
-For a moment Spade couldn't hear anything.
+A hitch. A short catch in her breathing.
 
-Then they dragged in a breath, rolled over, and saw Voeren lying face-up on the stones ten feet away, eyes closed, mouth slightly open, one arm flung out.
+“Voeren?”
 
-"Voeren?"
+“Fine.”
 
-She didn't move.
+She reached the bridge.
 
-"Voeren?"
+The planks drummed beneath her boots.
 
-Spade crawled. The knee wouldn't take weight, so they dragged themself across the bricks on their elbows, leaving a long smear in the damp. They got to her side and pressed two fingers to her throat.
+Her grip shifted. One arm trembled, then steadied.
 
-A pulse. Weak, quick, but there.
+Spade lifted their head.
 
-"Oh, thank God." The breath shuddered out of them. "Okay. Okay. You're alive."
+“You’re hurt.”
 
-Her skin was clammy. Her wound had begun to ooze again where the fall had torn it open, dark red against the pale, burned edges. Spade pulled the first-aid pouch off her belt, ripped it open with their teeth, and packed the wound with hemostatic gauze, pressing hard. She didn't flinch. That scared them more than anything yet.
+“Noticed.”
 
-_She pushed herself too far._ The thought came with a lurch. _She was already hurt when she picked me up. She kept going because I couldn't._
+It might have been a joke if she’d had enough breath for it.
 
-They sat back on their heels, shaking, with her blood on their hands.
+“Put me down.”
+
+“We’re almost across.”
+
+The dark line of the far bank drew closer.
+
+Voeren’s breathing had changed. Shorter now. More deliberate. Her jaw was tight.
+
+_She was hurt when she reached me._
+
+Spade looked at the blood along her side.
+
+_Before she picked me up._
+
+“Voeren. Put me down. I can—”
+
+“No.”
+
+The word came out ragged.
+
+They cleared the bridge and entered a narrow lane between the warehouse wall and the canal. Bollards lined the water’s edge. Farther along, a railing caught the first gray light above the roofs.
+
+Voeren took another step.
+
+Then another.
+
+Her knee folded.
+
+Spade felt her arms tighten.
+
+She twisted as she fell, trying to keep them against her, but the grip failed.
+
+The ground came up sideways.
+
+Their back struck the bricks.
+
+For a moment, pain erased everything.
+
+They rolled into the base of a bollard and stopped.
+
+No sound.
+
+Then a thin ringing.
+
+Then their own breath, broken and much too loud.
+
+Spade opened their eyes.
+
+Voeren lay several feet away, one arm outstretched.
+
+“Voeren?”
+
+Nothing.
+
+Spade tried to get up.
+
+Their left knee gave before they could straighten it.
+
+They caught themself on both hands.
+
+“Voeren.”
+
+They crawled.
+
+The bricks scraped their palms. Their back seized every time they moved a leg.
+
+They reached her and pressed two fingers beneath her jaw.
+
+Waited.
+
+There.
+
+Fast. Faint beneath their shaking hand.
+
+“Oh, thank God.”
+
+The words fell apart on the way out.
+
+“Okay. Okay.”
+
+Her chest moved.
+
+Spade watched it happen again.
+
+“You’re alive.”
+
+Blood had started seeping from her flank.
+
+They pulled the medical pouch from her belt and opened it with clumsy fingers. Tore the dressing packet. Pressed the gauze against the wound and held it there.
+
+Voeren didn’t react.
+
+Spade looked at her face.
+
+“Come on,” they whispered.
+
+Nothing.
+
+They secured the dressing as well as they could, checked that she was still breathing, and sat back on their heels.
+
+Their hands were red.
+
+_She kept going._
+
+The thought turned in them.
+
+_She should’ve stopped._
+
+They looked toward the bridge.
+
+No one.
+
+Toward the lane ahead.
+
+Too far to see where it ended.
 
 _The radio._
 
-It was the only plan they had. Spade dug the cracked handset out of their cargo pocket, laid it on the stones, and looked at it with the clear, cold attention they gave to any machine that was not working.
+Spade pulled the cracked handset from their pocket.
 
-The housing was shattered. The screen was dead. But the battery contacts weren't corroded. The transceiver looked intact. The antenna jack was bent but whole. Spade's hands, which had been trembling for an hour, stopped trembling.
+Set it on the bricks.
 
-_Okay. Okay, I know you._
+Something they understood.
 
-They popped the spent battery, flipped it, and checked the terminals. They pulled a spare out of their own pouch, a dented little pack they'd been saving, and jammed it into place with the heel of their palm. The board gave a faint, sad blip of light, then went dark again.
+Not easy. Not certain.
 
-_Come on._
+But something.
 
-They pried open the casing, found the loose ribbon cable that had been jarred out of its socket, and pressed it home with a thumbnail. The board lit.
+---
 
-For a moment, Spade felt joy so sharp it hurt.
+The screen was dead.
 
-The static filled their ear like a living thing. They thumbed the key. "Kestrel Control, Kestrel Control, this is Echo Three-One, how copy, over."
+Spade turned the radio in their hands, checking the broken casing, the battery mount, the antenna connection.
 
-Nothing. Just the hiss.
+Damage to the outside didn’t mean everything inside was gone.
 
-"Kestrel Control, Echo Three-One, how copy? Any station, any station—"
+They released the battery.
 
-Nothing. They were still too deep inside the jammer's radius. Spade stared at the handset, then at the canal, then at the long steel railing running along the water's edge, rusted, grounded, thirty meters of metal.
+A corner of the housing had caught against one of the contacts. Spade worked it free, checked the terminals, and reached into their own pouch for the spare pack.
 
-_A big metal antenna,_ they thought, _if I'm clever._
+They fitted it.
 
-They clipped the handset's flexible whip to the flat of their combat knife, jammed the blade against the base of the railing, and made a rough ground plane. Then they crawled to the edge of the lane, wedged themself between two bollards, and pressed the handset to the highest rung of the rail.
+A light flickered.
 
-"Kestrel Control, Echo Three-One. Kestrel Control, Echo Three-One. Please. Please."
+Went out.
 
-Voeren lay behind them, unmoving. Gray light crept over the roofs. The canal lapped quietly against the stone.
+“Come on.”
 
-"Any station on this net," Spade said. Their voice cracked. "I have a Staff Sergeant down. I have a casualty. I'm the only—" They stopped. They tried again. "Any station—"
+They eased the split casing apart.
 
-The hiss wavered.
+The movement tugged at their back. They stopped until the worst of it passed, then bent over the board again.
 
-A faint, brittle voice cut through it, riding on a sliver of signal like a thread. "—_Three-One, Kestrel._ —_say again_—"
+A connector had worked loose.
 
-Spade's breath stopped.
+Spade pressed it home.
 
-"Kestrel Control, Echo Three-One!" It came out in a shout. "I read you weak, how do you read me, over?"
+The light returned.
 
-"—_Echo Three-One, Kestrel, we've been trying to raise you for_— —_sitrep_—"
+Stayed.
 
-"Two survivors, Kestrel. Staff Sergeant Voeren and myself. Voeren's down, wounded, unconscious, flank wound, she's breathing. I'm injured but mobile. We need MEDEVAC. Request immediate extract." They realized they were crying and didn't care. "Repeat, we need—"
+They stared at it.
 
-"—_Copy, Echo. Stand by._"
+For one brief, ridiculous moment, they wanted to laugh.
 
-The wait was the longest of Spade's life. Their knee throbbed in time with their pulse. Water slapped the wall. Across the lane, a gull sat down on a bollard and stared at them with bright, dispassionate eyes.
+Instead they keyed the handset.
 
-The voice came back clearer, a little more composed. "_Echo Three-One, Kestrel. Be advised the jamming radius is eight hundred meters from the depot. Your current position is inside it. Aircraft cannot land here. Can you move?_"
+“Kestrel Control, Kestrel Control, this is Echo Three-One. How copy, over?”
 
-"Say again, Kestrel?"
+Static.
 
-"_Pier Four. Old ferry slip, southwest, along the canal wall. Approximately five hundred meters from your position. Dustoff is wheels-up now, twenty-five minutes out. It can hold ten minutes after that, no more. We can't come to you._"
+They adjusted their position and tried again.
 
-Five hundred meters.
+“Kestrel Control, Echo Three-One.”
 
-Spade looked at the lane, at the broken pavement and the sagging fence, at the knee that wouldn't bend, at the woman on the stones who weighed more than anyone Spade had ever tried to move.
+Nothing.
 
-"Kestrel," they said. "Say again the distance."
+Voeren breathed behind them.
 
-"_Five hundred. Follow the railing. You'll see a blue light on the pier._" A pause. "_Echo, can you do it?_"
+Spade looked back.
+
+Still breathing.
+
+They turned toward the canal.
+
+The railing ran along the lane ahead: steel, weathered, bolted into the masonry. Spade studied the damaged antenna connection, then the metalwork.
+
+_Maybe._
+
+They drew their knife.
+
+Worked at the connection.
+
+Their hands shook badly enough that they had to stop, brace their wrist against a knee, and start again.
+
+It was ugly. They knew it was ugly.
+
+But between the handset, the knife, and the railing, they might get enough improvement to make themselves heard.
+
+They shifted between two bollards and lifted the radio.
+
+“Kestrel Control. Echo Three-One. How copy?”
+
+The hiss thickened.
+
+Spade changed the angle.
+
+Tried again.
+
+“Any station on this net, this is Echo Three-One.”
+
+Water lapped against the canal wall.
+
+Behind them, fabric stirred in the wind.
+
+“I have a casualty. Staff Sergeant down. Request—”
+
+Their voice cracked.
+
+Spade stopped.
+
+Swallowed against the pain in their throat.
+
+“Any station. Echo Three-One.”
+
+The static broke.
+
+“—Three-One—Kestrel—say again—”
+
+Spade froze.
+
+For a second they were afraid to move anything, even their mouth.
+
+Then they pressed the key.
+
+“Kestrel, Echo Three-One. I read you weak. How do you read me?”
+
+“—trying to raise you—sitrep—”
+
+“Two survivors. Staff Sergeant Voeren and myself. She’s wounded, unconscious, breathing. Flank wound.”
+
+The words began coming too fast.
+
+Spade forced them apart.
+
+“I’m injured but mobile. Request immediate MEDEVAC.”
+
+“—Copy. Stand by.”
+
+They lowered their forehead toward the cold railing.
+
+Someone had heard them.
+
+Somewhere beyond the buildings, beyond the reach of this awful night, someone knew they were alive.
+
+Spade’s eyes burned.
+
+They wiped at them with a sleeve and left a smear across their face.
+
+“Kestrel?”
+
+No answer.
+
+They looked back at Voeren.
+
+“Kestrel, she’s—”
+
+The handset crackled.
+
+“Echo Three-One. Kestrel. Interference still heavy at your position. We can’t bring the aircraft in there. Can you move?”
+
+Spade stared down the lane.
+
+“How far?”
+
+“Pier Four. Old ferry slip, southwest along the canal. Approximately five hundred meters.”
+
+Five hundred.
+
+“Dustoff is airborne. Twenty-five minutes out. Ten-minute holding window after that.”
+
+Spade looked at their knee.
+
+At the blood on Voeren’s dressing.
+
+“Say again the distance.”
+
+“Five hundred meters. Follow the canal wall. Blue light on the pier.”
+
+A pause.
+
+“Echo, can you move?”
 
 _No._
 
-_No, of course I can't. She's too heavy. I can barely stand. It's impossible._
+The answer came instantly.
 
-Spade looked down at Voeren, at the black hair stuck to her cheek, at the smear of someone else's blood across her jaw.
+They could barely stand.
 
-"Yeah," they said. "I'll do it. Tell them to hold."
+They had needed both hands and everything in their back to drag her across a room.
 
-Before they touched the drag sheet, Spade crawled back to the railing and worked the knife free of the base. The blade had gone gritty with rust flakes. They wiped it down the length of their thigh and slid it into the sheath behind their right hip, where it had lived every day since basic. It wasn't issue. It was theirs, and it was the one thing in this whole mess they had actually chosen.
+Five hundred meters might as well have been another city.
+
+Spade looked at Voeren.
+
+A strand of hair had stuck to her mouth.
+
+They reached back and moved it away.
+
+“Yeah,” they said into the radio.
+
+Their voice sounded steadier than they felt.
+
+“I’ll move her. Tell them to hold.”
 
 ---
 
-The drag sheet was strapped to Voeren's pack like every other team member's, a rolled square of tough gray polymer with webbing loops along the edges. Spade had never used one for anything but training. They unrolled it beside her, knelt, and rolled her onto it, an inch at a time, gritting their teeth against the fire in their back.
+The drag sheet was strapped to Voeren’s pack.
 
-It took them nearly six minutes. When they finally finished, they sat for a moment with their head hanging, dripping sweat in the cold air, trying not to throw up.
+Spade had passed casualty drills with one. Clean floor. Cooperative partner. Someone standing nearby to tell them what they’d done wrong.
 
-_Okay._
+They had never hated a memory so much.
 
-They wrapped the webbing straps around both wrists, braced their good foot against the stones, and pulled.
+First, the knife.
 
-The sheet moved a foot. A foot and a half. Spade made it to the next bollard and collapsed against it, gasping.
+They worked it free of the railing, wiped the rust and grit against their trouser leg, and returned it to the sheath behind their right hip.
 
-_Four hundred and ninety-eight meters._
+Then they unfastened the sheet.
 
-They stood up.
+Gray polymer. Webbing loops.
 
-They hauled.
+Familiar.
 
-It became a rhythm. It had to. Pull, step, drag, rest. The sheet slid over the bricks with a rasp like a broom. Every step lit a flare in their knee, and every swing of their hips set their spine on fire. Their hands went numb and then burned. Sweat poured down their face and into their eyes.
+They spread it beside her.
 
-_One more. One more. Just to the next post._
+Moving Voeren onto it took nearly six minutes.
 
-Behind them, Voeren's head rolled slightly with each jolt, her hair spilling across the gray polymer. Her face was slack. She looked very young like that, which struck Spade as unfair. In the half-light they could see the line of her jaw, the curve of her throat, the hard slope of her shoulders. They could see the long, defined muscle of her forearm where the sleeve was torn, and the old white scars crossing it like lines on a map.
+Spade worked in small increments, stopping when their back locked or their knee threatened to fold. They checked the dressing. Checked her face. Apologized once when her shoulder struck the bricks, though she gave no sign of hearing.
 
-_She's so strong._
+At last she lay on the sheet.
 
-It wasn't a new thought, but it had sharpened. For months Spade had watched her from a distance and known the broad outline. Up close, dragging her like a dead weight, they saw it all. The thickness of her thighs. The ridges of her abdomen under the damp shirt. The raw, restrained power in every limb, even asleep. She looked like something carved. Like a statue of a war goddess pulled off a temple wall and laid out on the ground, ruined and perfect.
+Spade stayed crouched beside her, head hanging.
 
-_Stop it._
+Sweat dripped from their nose.
 
-Spade yanked their eyes away. They hated war. They hated everything it stood for. They didn't even _like_ soldiers, not the way everyone else seemed to. So why couldn't they stop looking at the way her chest rose and fell?
+_Get up._
 
-_Pull. Focus. Don't think about her ribs._
+They gathered the webbing.
+
+_Get up._
+
+Their good leg straightened.
+
+The other followed badly.
+
+Spade leaned into the straps.
+
+The sheet scraped forward.
+
+A foot.
+
+Another.
+
+They reached the next bollard and stopped, breathing through their mouth.
+
+Behind them lay a short, pale scrape across the wet bricks.
+
+That was all.
+
+_Four hundred and ninety-eight._
+
+They shut their eyes.
+
+Then opened them.
+
+_Next post._
 
 They pulled.
 
-_Her collarbone. Stop it. Her—_
+---
 
-They stumbled, caught themself on a bollard, and went red to the ears. In that moment of absurd, mortifying embarrassment they realized they had been moving for a long time without feeling much of the knee.
+It became a sequence small enough to obey.
 
-_Huh._
+Pull.
 
-The pain was still there, but distant, like a sound from the next room. Adrenaline, maybe, or just a brain too busy being flustered to keep complaining. Spade stared at the stones for a second.
+Step.
 
-_Don't question it._ _Just keep going._
+Set the foot.
 
-A hundred meters. Two hundred. The railing slid by. Across the water, headlights swept over the far bank and Spade froze, heart in their throat, until the beams swung away and the engine noise faded. The pale sky behind the roofs went yellow. Spade's world narrowed to the sheet, the straps, the bricks, and the faint, fierce hum of their own thoughts, which kept running back to a pair of broad shoulders, a crooked grin, the weight of an arm under their knees.
+Pull again.
 
-_She said thank you._
+When the knee flared, they stopped putting weight through it for a moment. When their back seized, they leaned against the railing and waited until they could straighten.
 
-_Idiot. She was being nice. She was just—_
+Then they moved.
 
-Three hundred meters. Spade's lungs were on fire. Their vision had begun to swim. The last stretch of lane ran along an open quay with no cover, and a thin wind came off the water, and the sky was all pearl and rose now, shockingly pretty.
+The webbing rubbed their hands raw.
 
-Three hundred and fifty. Three hundred and seventy-five.
+They changed their grip.
 
-They had to stop. They had to. Their legs were shaking, and the straps had cut red grooves into their hands. They sank to their good knee, head down, breath rasping.
+Changed it again.
 
-_Just a minute._
+Voeren shifted on the sheet behind them.
 
-"Hey."
+Spade turned immediately.
 
-The voice was a croak.
+Her head had rolled a little to one side.
 
-Spade looked up.
+Still breathing.
 
-Voeren's eyes were open.
+They could see it in the movement beneath her shirt.
 
-She was lying on the drag sheet looking up at them, her face pale and smeared with grime. Her gaze was unfocused for a moment, then sharpened, and moved from Spade's face to the straps in their fists, to the long scraped track on the stones behind them, and back.
+They watched another breath.
 
-For a long moment neither of them said a word.
+Then, despite themself, the line of her shoulder. The exposed length of her forearm, scarred and heavy with muscle.
 
-It was a strange kind of silence. Spade's heart did something complicated. They had been alone for so long, hauling, thinking, hoping. Now there was somebody looking back, and they didn't know what to do with their face.
+It was strange seeing her hand open.
 
-"You—" Voeren's voice cracked. She swallowed. "You dragged me."
+They had watched it tear a door aside.
 
-"Yeah." Spade's throat hurt. "Sorry. I—it's been a while. Pier Four's about a hundred and twenty meters ahead. We're almost—"
+Now the fingers lay loose against the gray polymer.
 
-"How far did you come?"
+Spade remembered that same hand on their shoulder.
 
-Spade glanced back. "Three-seventy-ish."
+_Thank you._
 
-Voeren stared at them.
+Their face warmed.
 
-"I wasn't going to leave you," Spade said, feeling stupid. The words came out in a rush. "I know that's a dumb thing to say. Obviously I wasn't. I just—you're really heavy, I mean, I'm not saying that to be rude, it's, you've got a lot of—" They stopped, mortified. "I'm gonna stop talking."
+Here, with their back on fire and blood drying between their fingers.
 
-For a moment, Voeren just looked at them, her lips parted.
+_Seriously?_
 
-Then she laughed.
+They turned away and pulled.
 
-It started small and cracked, a dry rasp that turned into something more. It was the same laugh Spade had heard across a mess hall a dozen times, but different, gentler, with all the edges sanded off. She laughed until it hurt, and winced, and kept laughing anyway, and Spade started to laugh too, helplessly, until tears ran down their cheeks.
+For months she had existed in fragments.
 
-"You carried me almost four hundred meters," Voeren said at last, breathless. She turned her head on the sheet. Her eyes, dark and steady, found theirs, and held. "On a bad knee. With a busted back."
+A laugh across a room.
 
-Spade's heart stumbled.
+A broad back disappearing through a doorway.
 
-"It's—" Spade shook their head. "It's what anyone would—"
+A glance Spade had looked away from too quickly.
 
-"No." She said it flatly. Her hand reached up, slowly, and wrapped around Spade's, still gripping the webbing. Her palm was rough and hot. "Not anyone."
+Now they knew the weight of her arm beneath their knees. The roughness in her voice when she was hurt. That she would make a joke when she could barely stand.
 
-Neither of them spoke. The wind pushed at the loose strands of her hair. A gull cried somewhere over the water. Spade couldn't look away. They tried, and they couldn't.
+That she knew their name.
 
-"I'm not going to forget this," Voeren said softly. "Okay? I mean it. Not a damn minute of it."
+The sheet rasped over the bricks.
 
-Spade nodded. It was all they could do.
+Spade reached another bollard.
 
-She held their gaze for a second longer. Then she grinned, the small crooked one from before, and pushed herself up on her elbow with a hiss of effort.
+Then another.
 
-"All right, Sergeant," she said. "Let's get the hell out of here."
+When the pain forced its way back to the center of their attention, they realized they had covered more ground than they’d expected.
 
-"You can't—you shouldn't be—"
+Not enough.
 
-"Watch me." She got one boot under her, then the other, and stood, swaying. Blood had soaked her bandage through, but she held herself upright. She turned and held out a hand. "Come on. Up."
+But more.
 
-Spade took it. She pulled them to their feet, gently, and then draped Spade's arm across her shoulders and wrapped her own arm around their waist. They both swayed. Neither of them could hold the other up alone, but it turned out they didn't have to.
+_Keep going._
 
-They went forward like that, slowly, a lurching three-legged creature moving down the quay, with the sun coming up over the roofs behind them.
+Across the canal, headlights swept the far bank.
+
+Spade stopped.
+
+Their hands tightened on the straps.
+
+The beams passed over a warehouse wall, swung away, and vanished.
+
+An engine faded into the distance.
+
+Spade waited another breath.
+
+Then hauled.
+
+The lane began to open ahead. The buildings fell back from the water, leaving a stretch of quay exposed to the wind.
+
+No shelter.
+
+No easy place to stop.
+
+The sky above the roofs had turned pale.
+
+Spade looked back the way they had come.
+
+A long way.
+
+They tried to estimate it from the buildings, the gaps between access lanes.
+
+Two hundred meters, perhaps.
+
+Their throat hurt too much to swallow properly.
+
+They kept moving.
+
+At the next rough patch, the sheet caught.
+
+Spade pulled harder.
+
+Nothing.
+
+They looked down.
+
+A broken edge of paving had folded beneath the front of the sheet.
+
+For a moment they simply stared at it.
+
+Then they went back, freed the corner, and returned to the straps.
+
+Another task.
+
+Another thing done.
+
+Three hundred meters.
+
+Maybe.
+
+Their left leg trembled whenever they asked it to bear weight.
+
+The webbing had cut grooves across their palms. They could feel wetness there and didn’t look to see what it was.
+
+Ahead, the canal wall bent.
+
+Pier Four should be beyond it.
+
+_To the bend._
+
+They pulled.
+
+_Just to the bend._
+
+By the time they stopped again, their breathing had become an ugly, scraping sound.
+
+They sank onto their good knee.
+
+The straps remained clenched in both hands.
+
+A minute.
+
+They needed a minute.
+
+“Hey.”
+
+Spade lifted their head.
 
 ---
 
-The pier jutted out into the canal like a gray finger, a rotting wooden deck over black water. A blue strobe pulsed from the end of it, soft and steady. Spade saw it from fifty meters and almost wept.
+Voeren was looking at them.
 
-"There," Voeren breathed. "That's us."
+Her eyes were open.
 
-They were close enough now to hear the thing in the sky. It came as a low, rhythmic thrum at first, felt in the chest before the ears, and then it was overhead, a vast, dark shape with rotors tilted high, blasting the water into white spray. The aircraft was nothing like the old transport helicopters Spade had trained on. It had two enormous engine nacelles at the wingtips, swiveled up for the landing, and a flat storm-gray body with a faded red cross on the tail. The downwash hit them like a wave.
+Spade stared.
 
-"Tilt-rotor," Voeren shouted over the noise. "Fancy."
+They had imagined this often enough along the lane that, for a second, they didn’t trust it.
 
-Spade tried to answer. Their legs wouldn't work anymore. They'd given everything they had on the quay, and now there was nothing left to give. The deck tilted. The edges of the world went gray.
+Then she blinked.
+
+Her gaze moved from their face to the webbing in their hands.
+
+Past them.
+
+Along the scraped track on the bricks.
+
+Back.
+
+“You—”
+
+Her voice failed.
+
+She swallowed.
+
+“You dragged me?”
+
+“Yeah.”
+
+Spade’s own voice barely worked.
+
+They glanced toward the bend.
+
+“Pier Four’s ahead. Hundred and twenty meters. Maybe a bit more.”
+
+Voeren didn’t look toward it.
+
+“How far?”
+
+“From where you—”
+
+“How far did you come?”
+
+Spade looked back again.
+
+“Three-seventy-ish.”
+
+She went quiet.
+
+The wind lifted a few strands of hair from her cheek.
+
+Spade became suddenly aware of everything: the way they were kneeling, the shaking in their arms, their face, which must have looked terrible.
+
+“I wasn’t going to leave you.”
+
+It sounded obvious once they said it.
+
+They tried to explain anyway.
+
+“I just—it took longer than I thought. You’re really heavy. Not—”
+
+Voeren’s eyebrows moved.
+
+“Not like that. I mean, you’ve got a lot of—”
+
+Spade stopped.
+
+Closed their eyes.
+
+“I’m going to stop talking.”
+
+A small sound escaped her.
+
+They opened their eyes again.
+
+Voeren was laughing.
+
+Not loudly. Not for long before it caught at her side and made her wince.
+
+But laughing.
+
+Spade tried not to.
+
+Failed.
+
+Their own laugh came out broken and breathless, and that made hers worse, and for a few seconds they were both there on the cold quay, hurt and filthy and laughing at something that wasn’t even funny.
+
+It left Spade’s eyes wet.
+
+Voeren breathed carefully until she could speak.
+
+“Almost four hundred meters.”
+
+Spade looked down at their hands.
+
+“On that knee,” she said.
+
+They shifted, suddenly uncomfortable.
+
+“It’s what anyone would—”
+
+“No.”
+
+Her hand rose.
+
+Slowly.
+
+Settled over theirs where they still held the strap.
+
+“Not anyone.”
+
+Spade looked at her.
+
+There was no teasing in her face now.
+
+No easy way to pretend she hadn’t meant it.
+
+Their chest tightened.
+
+Voeren’s fingers closed around their hand.
+
+“I’m not going to forget this,” she said. “Okay?”
+
+Spade nodded.
+
+She held their gaze.
+
+“Not a damn minute of it.”
+
+The water moved against the wall.
+
+Somewhere behind them, the depot alarm still sounded, thin with distance.
+
+For the first time since she had fallen, Spade wasn’t the only person listening to it.
+
+Voeren drew a breath and pushed herself onto one elbow.
+
+“All right, Sergeant.”
+
+She glanced toward the bend.
+
+“Let’s get the hell out of here.”
+
+“Wait. You shouldn’t—”
+
+She stopped halfway upright, jaw tight.
+
+Spade reached toward her.
+
+Voeren caught their arm, steadied herself, and got one boot beneath her.
+
+“Not leaving you to do the rest.”
+
+She stood.
+
+Swayed.
+
+They both waited.
+
+Blood had darkened the dressing at her flank.
+
+She looked down at it, then back at Spade.
+
+“Come on.”
+
+They took her hand.
+
+Getting upright hurt badly enough that Spade couldn’t speak.
+
+Voeren let them set their feet before drawing their arm across her shoulders. Her own settled around their waist.
+
+They tried a step.
+
+Stopped.
+
+Adjusted.
+
+Another.
+
+Neither could carry the other now.
+
+Together, they moved.
+
+---
+
+The blue light appeared beyond the bend.
+
+Small.
+
+Steady.
+
+Spade stared at it.
+
+“There,” Voeren said.
+
+They nodded, though she wasn’t looking at them.
+
+Pier Four extended from the quay over the canal, its weathered decking silver in the dawn.
+
+The last stretch seemed to lengthen as they approached.
+
+Spade watched the light.
+
+Not the distance.
+
+The light.
+
+Then they felt the aircraft.
+
+A low pulse through their chest.
+
+The sound followed, building above the roofs.
+
+Voeren lifted her head.
+
+“There you are.”
+
+The tilt-rotor came over the canal, dark against the pale sky. Its wingtip nacelles were turned upward. The body was storm gray, a faded red cross visible on the tail as it turned.
+
+Downwash struck the water.
+
+Spray raced across the pier.
+
+Spade ducked their face against their shoulder.
+
+Voeren tightened her arm around them.
+
+“Tilt-rotor,” she shouted. “Fancy.”
+
+Spade tried to laugh.
+
+Their legs had stopped cooperating.
+
+The light blurred.
 
 _Almost._
 
-_Almost there._
+The aircraft settled.
 
-Medics were sprinting down the ramp, three of them in helmets and visors, one with a stretcher. Somebody was shouting. "—_Echo Three-One? Identify!_"
+A ramp lowered.
 
-"Sergeant Spade," Spade tried to say. "Signals. Anvil element—" Their tongue felt thick.
+People ran toward them.
 
-"Staff Sergeant Voeren," Voeren called, steady and clear, over the roar. "Anvil Two. We're the two who walked out."
+_Just—_
 
-A medic's hands were on Spade's shoulders. Another had Voeren by the arm. Spade felt themself being lowered onto a stretcher, felt cold air and warm hands and a needle pricking the back of their wrist. Someone said _neck brace_ and someone said _possible spinal._ Someone said _Jesus, look at their hands._
+A voice cut through the roar.
 
-Through all of it, one hand was still wrapped around theirs.
+“Echo Three-One? Identify!”
 
-Voeren had refused to let go.
+“Sergeant Spade.”
 
-She was walking beside the stretcher, bleeding, grinning faintly, with a medic hanging off her other arm and practically shouting at her to sit down. She wasn't looking at the medic. She was looking at Spade.
+Too quiet.
 
-"Hey," she said.
+They tried again.
 
-"Hey," Spade whispered.
+“Signals. Anvil—”
 
-"You did good."
+“Staff Sergeant Voeren!” Her voice carried where theirs wouldn’t. “Anvil Two. We’re the two who walked out.”
 
-The sky was spinning. The rotors were a blur of gray. Spade's eyelids felt like lead.
+Hands reached them.
 
-"Staff Sergeant," they managed.
+Spade flinched before they could stop themself.
 
-"Voeren."
+“Easy. We’ve got you.”
 
-"Voeren." The name felt strange and soft in their mouth. "I'm going to... pass out now."
+Someone took their weight.
 
-Her fingers tightened on theirs.
+Voeren’s arm loosened.
 
-"Yeah," she said gently. "I know. I've got you."
+For a second, losing it frightened them more than falling had.
 
-The last thing Spade saw before the dark closed in was her face against the pale sky, tired, bloodied, and smiling. The last thing they felt was her hand, warm and steady, refusing to let go.
+Then a stretcher was beneath them.
+
+They were being lowered.
+
+Their back hurt.
+
+They tried to say so.
+
+“Keep still.”
+
+A hand at their shoulder.
+
+Another beside their head.
+
+“Neck support.”
+
+“Possible spinal.”
+
+“Look at their hands.”
+
+Spade looked down without moving their head.
+
+Voeren was holding one.
+
+They hadn’t seen her take it.
+
+A medic stood at her other side, speaking sharply, trying to get her to sit.
+
+She listened.
+
+Nodded once.
+
+Still looked at Spade.
+
+“Hey.”
+
+Their fingers moved against hers.
+
+“Hey.”
+
+“You did good.”
+
+The words reached them through the rotors, through the pain, through the strange distance opening between their body and everything around it.
+
+They wanted to answer properly.
+
+Wanted to tell her she had too.
+
+“Staff Sergeant.”
+
+“Voeren.”
+
+Spade found the name.
+
+“Voeren.”
+
+Her thumb shifted against their knuckles.
+
+Their eyelids were too heavy.
+
+“I’m going to…”
+
+The rest took effort.
+
+“Pass out now.”
+
+Her fingers tightened.
+
+“Yeah,” she said.
+
+They could barely hear her.
+
+But they could see her mouth, the tired curve of it, the blood drying along her jaw.
+
+“I know. I’ve got you.”
+
+The stretcher moved.
+
+Sky slid above them.
+
+Spade held on as long as they could.
+
+Then there was only the warmth of her hand.
+
+Then nothing.
