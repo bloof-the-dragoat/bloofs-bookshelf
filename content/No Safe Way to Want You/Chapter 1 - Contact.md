@@ -191,7 +191,7 @@ _She’s wounded. She’s covered in blood._
 
 Their gaze caught on the rise and fall of her chest, the torn sleeve stretched around her arm, the hand still resting against the ruined door.
 
-_She’s the most beautiful thing I’ve ever seen._
+_She’s... the most beautiful thing I’ve ever seen._
 
 ---
 
@@ -397,7 +397,7 @@ Her knees folded.
 
 She hit the concrete, the bent rifle clattering beneath its sling.
 
-“No,” Spade said.
+"No."
 
 They fired.
 
@@ -447,7 +447,7 @@ _Do something._
 
 They looked at the wound. At her face. At the blood gathering against the concrete.
 
-_Do something._
+_Do SOMETHING._
 
 Boots sounded beyond the loading doors.
 
