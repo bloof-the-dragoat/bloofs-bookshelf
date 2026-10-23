@@ -56,7 +56,7 @@ tags:
 ---
 ## Chapter 2 — Dead Weight
 
-> _Content note: Graphic violence, strangulation aftermath, injury and blood._
+>_Content note: Graphic violence, strangulation aftermath, injury and blood._
 
 The pressure vanished.
 
@@ -78,7 +78,13 @@ Swaying.
 
 Spade dragged in another breath and coughed until their ribs hurt. Their throat seemed determined to close around every scrap of air they managed to get through it.
 
-Voeren’s left arm hung stiff against her side. A muscle jumped in her jaw. Under the blood and grime, her face had gone a color Spade didn’t want to recognize.
+A minute ago the dark had been simple. No future in it. No rank, no failed jobs, no ordinary life they were never going to reach. Just the end of the chase.
+
+They had been wrong about that too.
+
+They wanted the next breath. They wanted it badly enough to hate how much it hurt.
+
+Voeren’s left arm hung stiff against her side. A muscle jumped in her jaw. Under the blood and grime, her face had gone a color Spade didn’t want to recognize. Lighter than theirs, even now. Golden where the strobe caught her, and wrong with it.
 
 But she was upright.
 
@@ -114,7 +120,11 @@ Spade didn’t know whether to laugh or be sick.
 
 “Most people can’t think with somebody trying to kill them,” Voeren continued. “You can.”
 
-They opened their mouth, then closed it. Anything they might have said felt embarrassingly small beside the way she was looking at them.
+They opened their mouth, then closed it.
+
+Praise sat wrong when it was about the part of them that worked after everything else had gone quiet. They almost said it wasn’t like that. They almost apologized for needing her to finish what they couldn’t.
+
+Anything they might have said felt embarrassingly small beside the way she was looking at them.
 
 Her gaze moved toward the tool crib.
 
@@ -129,6 +139,8 @@ They wiped a hand across their mouth. Someone else’s blood came away on their 
 “You stayed,” Voeren said, more quietly.
 
 Something tightened beneath Spade’s ribs.
+
+People said things like that and then moved on. _It’ll be fine. You worry too much._ This didn’t sound like that. She had heard the horn and the chain and still come back to the part where Spade had not gone through the hatch.
 
 “I just—” Swallowing hurt. “Didn’t want you to die.”
 
@@ -147,6 +159,8 @@ _Get it together. You’re still on the floor._
 Their knee throbbed. Their back hurt. Neither of them knew who else might come through those doors.
 
 _Think about that. Not her hand._
+
+The hand stayed anyway. Warm. Specific. Not safety. They knew better than to call it that, and their body tried to anyway.
 
 Spade pushed themself upright.
 
@@ -186,6 +200,8 @@ Their face warmed.
 
 “It’s not just anything.”
 
+They had no answer that wouldn’t sound like they were asking her to keep looking at them.
+
 Voeren pushed herself upright, swayed, and caught a pillar. She stayed there for a beat, fingers spread against the concrete, before letting go.
 
 “Come on. We’re moving.”
@@ -210,11 +226,13 @@ That was the situation.
 
 Apparently, this was something Spade now had to survive as well.
 
-She was warm through the damp uniform and the bulk of their vest. Her forearm shifted beneath their knees. A torn edge of sleeve brushed their wrist, and their cheek hovered close enough to her shoulder that they could smell gun oil, sweat, blood—and something clean beneath it all.
+She was warm through the damp uniform and the bulk of their vest. Her forearm shifted beneath their knees, scarred where their own arm was only ink under a sleeve. A torn edge of cloth brushed their wrist. Their cheek hovered close enough to her shoulder that they could smell gun oil, sweat, blood—and something clean beneath it all.
 
 Spade’s hand tightened against the back of her shirt.
 
 _Oh, no. Oh god._
+
+Not hollow. Not logical. If the flat had been going to save them from this, it would have started already.
 
 “Comfortable?” Voeren asked.
 
@@ -244,8 +262,6 @@ _Absolutely not. We are not doing this right now._
 
 Then she started running.
 
----
-
 Each footfall travelled through Voeren’s arms into Spade’s back. They clenched their teeth and tried to make themself easier to carry, though they had no idea how to do that without moving something that hurt.
 
 She turned her shoulders to clear a narrow passage. Pipes slid past overhead. Water splashed beneath her boots.
@@ -271,6 +287,10 @@ Couldn’t find anywhere less intimate to put it.
 _She’s carrying me._
 
 After the pump house and the rifle and the man kneeling on their chest, there was this: an arm beneath their legs, a secure hold behind their back, and the terrible ease with which their body wanted to mistake being held for being safe.
+
+They had wanted, for months, for someone to actually see them. This was not that. This was weight and blood and a woman who might fall if they asked the wrong thing.
+
+It still felt like a light had been set down in the middle of the yard.
 
 Then Voeren’s next step landed late.
 
@@ -342,6 +362,8 @@ Voeren lay several feet away with one arm outstretched.
 
 She didn’t move.
 
+The wanting didn’t leave. It just had nowhere to go.
+
 Spade tried to stand. Their left knee gave before they could straighten it, and they caught themself hard on both hands.
 
 “Voeren!”
@@ -392,6 +414,10 @@ No one.
 
 Ahead, the lane disappeared beyond the buildings.
 
+The panic was still there. Under it, something else arrived, and they hated the shape of it.
+
+Quiet. Not peace. The part of them that showed up when there was nothing left to feel with. Work, stripped to the next true thing.
+
 _Shit. Focus._
 
 There had to be something.
@@ -406,11 +432,13 @@ Something they understood. Not easy. Not certain.
 
 But something.
 
----
-
 The screen was dead.
 
 Spade turned the handset in their hands, examining the cracked casing, the battery mount, the antenna connection. Damage to the outside didn’t mean everything inside was gone.
+
+Their hands had stopped shaking as much as they should have.
+
+They noticed. Filed it. Did not thank it.
 
 They released the battery.
 
@@ -436,7 +464,7 @@ Stayed.
 
 Spade stared at it, afraid to trust something so small.
 
-Then they keyed the handset.
+Then they keyed the handset. Their voice came out flat, exact, the cordial lift gone. Better for a net. Worse as a person.
 
 “Kestrel Control, Kestrel Control, this is Echo Three-One. Do you copy, over?”
 
@@ -450,11 +478,13 @@ Nothing.
 
 Behind them, Voeren drew a shallow breath.
 
+The flat cracked.
+
 Spade looked back.
 
 Still breathing.
 
-They turned toward the canal. The railing ran along the lane ahead: weathered steel bolted into the masonry. Their gaze moved between it and the damaged antenna connection.
+They turned toward the canal before the crack could widen. The railing ran along the lane ahead: weathered steel bolted into the masonry. Their gaze moved between it and the damaged antenna connection.
 
 _Maybe._
 
@@ -467,6 +497,10 @@ It was ugly.
 They knew it was ugly.
 
 But between the handset, the knife, and the railing, they might get enough improvement to make themselves heard.
+
+Sequence. Angle. Key. Listen.
+
+This was the version of them the army kept promoting. Empty enough to be useful.
 
 Spade shifted between two metal posts and raised the radio.
 
@@ -483,6 +517,8 @@ Water lapped against the canal wall. Somewhere behind them, loose fabric stirred
 “I have a casualty. Staff Sergeant down. Request—”
 
 Their voice cracked.
+
+There she was again, even unconscious. A fact that would not stay a fact.
 
 Spade stopped. Swallowed against the pain.
 
@@ -504,7 +540,7 @@ Then they pressed the key.
 
 “Two survivors. Staff Sergeant Voeren and myself. She’s wounded, unconscious, breathing. Flank wound.”
 
-The words were crowding together.
+The words were crowding together. Logic tried to space them. Her name would not stay in its slot.
 
 Spade forced a breath between them.
 
@@ -519,6 +555,8 @@ Someone had heard.
 Beyond the warehouses, beyond the interference and the blood and this endless fucking night, someone knew they were alive.
 
 Their eyes burned.
+
+Not the hollow. The hollow didn’t do this.
 
 Spade wiped at them with a sleeve and left a smear across their face.
 
@@ -564,13 +602,17 @@ _No._
 
 They could barely stand. Moving Voeren across the loading bay had taken everything they had, and now their knee was worse and their back—
 
-_How the FUCK am I supposed to—_
+_How the fuck am I supposed to—_
+
+The clean answer was no. A logical sergeant would have said the casualty could not be moved that far by one injured soldier and asked for another window.
 
 Spade looked at her.
 
 A strand of hair had caught against her mouth.
 
 They reached back and brushed it away.
+
+The flat did not survive the touch.
 
 “Yeah.”
 
@@ -579,8 +621,6 @@ Their own voice startled them.
 Spade pressed the key more firmly.
 
 “I’ll move her. Tell them to hold.”
-
----
 
 The drag sheet was strapped to Voeren’s pack.
 
@@ -646,8 +686,6 @@ _Next post._
 
 They pulled.
 
----
-
 Pull. Step. Set the foot.
 
 Pull again.
@@ -660,6 +698,8 @@ Then they moved.
 
 The webbing rubbed their hands raw. They changed their grip, then changed it back when the new position hurt worse.
 
+This was the closest the hollow could get while she was still the reason for the work. Not gone. Narrowed. Next post, next breath, next check that the dressing had not slipped.
+
 Behind them, Voeren shifted.
 
 Spade turned immediately.
@@ -670,7 +710,7 @@ Still breathing.
 
 They watched the movement beneath her shirt until the next breath came.
 
-Their gaze lingered on the line of her shoulder. Her exposed forearm, scarred and heavy with muscle. The fingers resting loose against the polymer.
+Their gaze lingered on the line of her shoulder. Her exposed forearm, scarred and heavy with muscle, lighter than the hands pulling her. The fingers resting loose against the polymer.
 
 It was strange seeing her hand open.
 
@@ -678,7 +718,7 @@ They had watched it tear a door aside.
 
 Then it had settled on their shoulder, gentle enough to make them forget where they were.
 
-_"Thank you."_
+_Thank you._
 
 Spade’s face warmed.
 
@@ -750,9 +790,11 @@ Such a small thing.
 
 A stupid piece of brick.
 
-For a moment, they wanted to sit down beside it and stay there.
+For a moment, they wanted to sit down beside it and stay there. Not die. Just stop. The old math: not enough left to want the next thing, and not enough force to quit.
 
-Instead, they went back, freed the corner, and returned to the straps.
+Voeren’s chest lifted.
+
+Spade went back, freed the corner, and returned to the straps.
 
 Another task.
 
@@ -786,9 +828,9 @@ They needed a minute.
 
 Voeren’s voice was barely more than breath.
 
-Spade lifted their head.
+The sequence broke.
 
----
+Spade lifted their head.
 
 Her eyes were open.
 
@@ -806,7 +848,7 @@ Back to their face.
 
 “Yeah.”
 
-Spade’s own voice barely worked. They glanced toward the bend.
+Spade’s own voice barely worked. They glanced toward the bend, because looking at her was already too much feeling for a body that had just been counting posts.
 
 “Pier Four’s ahead. Hundred and twenty meters. Maybe a bit more.”
 
@@ -829,6 +871,8 @@ The wind lifted a strand of hair from her cheek.
 Under her attention, Spade became painfully aware of their own body: kneeling badly, arms shaking, mouth hanging open because they couldn’t get enough air through their nose.
 
 They must have looked terrible.
+
+The flat was gone. They missed its usefulness and not the rest of it.
 
 “I wasn’t going to leave you.”
 
@@ -860,6 +904,10 @@ Their laugh came out broken and breathless. That made hers worse. For a few seco
 
 Spade’s eyes watered.
 
+This did not fix the night. It did not fix the years under it. It was only her, awake, trying.
+
+That was already more than they had thought they would get.
+
 Voeren took a careful breath.
 
 “Almost four hundred meters.”
@@ -882,9 +930,13 @@ Spade looked up.
 
 Voeren held their gaze without a trace of teasing.
 
-They could have managed a joke. Something cocky, something easy to dismiss once the heat left their face.
+They could have managed a joke. Something easy to dismiss once the heat left their face.
 
 There was nowhere to put this.
+
+Most people did not try. The ones who tried a little still missed. She was looking at the drag, the knee, the stupid apology, and refusing the smaller version.
+
+Spade did not know what to do with being known for three minutes on a quay. They wanted it anyway.
 
 Her fingers closed around their hand.
 
@@ -937,8 +989,6 @@ Another.
 Neither could carry the other now.
 
 But together, they moved.
-
----
 
 The blue light appeared beyond the bend.
 
@@ -1012,6 +1062,10 @@ Spade flinched.
 
 A medic took their weight. Voeren’s arm loosened, and for a second, losing it frightened Spade more than falling had.
 
+Not because she had made them well.
+
+Because the dark was still there, and she had been the only warm thing in it.
+
 Then there was a stretcher. Hands guiding them down.
 
 Their back hurt. They tried to explain, but their throat failed them.
@@ -1050,7 +1104,9 @@ The words reached them through the rotors, through the pain, through the strange
 
 They wanted to answer properly.
 
-Tell her she had too. Tell her they were glad.
+Tell her she had too. Tell her they were glad. Tell her not to make a life out of one clean report and a drag sheet.
+
+Their mouth wouldn’t hold that many words.
 
 “Staff Sergeant.”
 
@@ -1087,5 +1143,3 @@ Spade held on as long as they could.
 Then there was only the warmth of her hand.
 
 Then nothing.
-
----

@@ -49,235 +49,237 @@ tags:
 
 _Shit. I’m gonna die._
 
-The thought was calm, almost polite. No rush of memories. No sudden revelation. Just Spade crouched in the corner of a flooded pump house, an empty carbine across their knees, realizing they had run out of places to go.
+Calm. Almost polite. No reel of my life, no sudden opinion about God. Just me in the corner of a flooded pump house, empty carbine across my knees, and the clean little fact that I had run out of places to go.
 
-Water seeped through the seams of their boots. Their left foot had gone numb. They shifted it, felt pins and needles crawl up their ankle, and stopped.
+Water had found the seams in my boots. My left foot was numb. I shifted it, got pins and needles up the ankle, and stopped. No point spending the last minute of my life on a foot.
 
 On the other side of the room, someone hit the door.
 
-The bulkhead shuddered in its frame. A tool locker scraped backward through the shallow water, catching against the valve wheel Spade had wedged beneath the handle twenty minutes ago.
+The bulkhead shuddered. The tool locker I’d wedged under the handle scraped backward through the shallow water and caught on the valve wheel.
 
 Not a kick. Not a shoulder.
 
 A fist.
 
-Spade knew the sound by now: the flat, ugly _whump_, followed by the drawn-out complaint of steel giving way. The third strike had left a dent shaped like knuckles. The fourth had pushed the door inward a finger’s width.
+I knew the sound by then. Flat, ugly _whump_, then steel complaining. The third hit had left a dent shaped like knuckles. The fourth had opened the door a finger’s width. This one cracked something in the frame.
 
-This one cracked something in the frame.
-
-Dust sifted through the red glow of the emergency lamp and settled on the water.
+Dust came down through the red emergency lamp and settled on the water.
 
 _They’re not even in a hurry._
 
-Whoever was outside had stopped trying to be fast. The attackers knew the room had one door.
+Of course they weren’t. One door. They had all night, and I had a rifle that was a very expensive stick.
 
-Spade looked down at the carbine. The bolt was locked back on an empty magazine, the fourth they had emptied since the first shots at the east gate. They checked it again anyway, thumb brushing the follower, as though ammunition might have grown while they weren’t looking.
+The bolt was locked back on an empty magazine. Fourth one since the east gate. I checked it anyway, thumb on the follower, as if ammunition might have grown while I was being pathetic.
 
 Nothing.
 
-Their sidearm holster was empty too.
+Holster empty too.
 
 _Fuck._
 
-Spade had thrown the pistol at a man’s face an hour ago. It had bounced off his jaw as though he’d been hit by a moth.
+I’d thrown the pistol at a man’s face an hour ago. It bounced off his jaw like I’d hit him with a moth. Great throw. Historic. I’d think about it at my funeral, which was apparently going to be a pump house.
 
-That left the knife behind their hip, a plate carrier with one cracked plate, and a field relay pack lying beside their boots with a hole punched through its casing. Water lapped against the exposed wiring.
+Knife behind my hip. One cracked plate. Field relay on its side with a hole through the casing, water licking the wires. My earpiece still hissed. I’d stopped hearing it as static a while ago. It was just there, dry and steady, under everything else. A dead net, still polite enough to make noise.
 
-Their earpiece still hissed.
-
-They had stopped hearing it as static some time ago. It was just there now, a dry, steady sound beneath everything else.
-
-Twenty-six hours ago, Sergeant Ranelle Spade of Columbian Army Signals had been assigned to a raid they didn’t fully understand because the enhanced team’s regular comms specialist had come down with a fever.
+Twenty-six hours ago I was Sergeant Ranelle Spade, Columbian Army Signals, available because the enhanced team’s actual comms specialist had a fever.
 
 “You’re available,” the lieutenant had said.
 
-Spade had nodded, because that was what you did.
+I nodded. That’s the job. You nod, and then the job is your life.
 
 “You’ll sit in the back. Keep the relay up. It’s a milk run.”
 
-The relay had stayed up for eleven minutes.
+Eleven minutes. The relay got eleven minutes.
 
-Spade closed their eyes.
+I closed my eyes.
 
-The east-gate charge flashed behind their eyelids. Rail cars. Wet gravel. Reyes saying, “Contact, contact,” then nothing. Chen laughing once, a startled sound that changed before it ended.
+East gate. Rail cars. Wet gravel. Reyes: “Contact, contact,” and then Reyes was gone out of the channel like someone had cut the wire in him. Chen laughed once. Startled. The laugh changed before it finished, and I still didn’t know what I had heard, only that I was not going to play it back if I could help it.
 
-Every channel had gone quiet at the same instant.
+Every channel died at the same instant. Not faded. Cut.
 
-After that, running. Hiding. Trying the net again. Trying a different position. Trying anything.
+Then running. Hiding. Trying the net again because trying the net was the one thing I was for. Different roof. Different wall. Same silence.
 
-Every enhanced soldier on Spade’s team was dead or somewhere Spade couldn’t see. The enemy wasn’t. The attackers had followed Spade through three buildings, and the only reason Spade was still alive was that a man strong enough to punch through a wall still had to find them first.
+Every enhanced soldier on my team was dead, or somewhere I couldn’t see, which in this yard was the same courtesy. The people hunting me were not dead. They’d followed me through three buildings. The only reason I was still breathing was that a man who could punch through a wall still had to guess which wall.
 
 The door buckled.
 
-A narrow seam of blue-white light appeared along its edge. Beyond it, a work lamp swung in the corridor, making the light slide across the floor.
+Blue-white light opened along the edge. A work lamp swung in the corridor and dragged itself across the floor.
 
-Spade pressed farther into the corner.
+I pressed farther into the corner.
 
 _I didn’t even want to be here._
 
-Not in the pump house. Not on the raid. Not in the army.
+Not the pump house. Not the raid. Not the army. Not the rank somebody waived into my hands because I was good at a job I hated, and good was apparently a kind of consent.
 
-They hadn’t wanted the rank either, or the responsibility that came with it, or the way everyone assumed being good at something meant you wanted to keep doing it.
+Most mornings there wasn’t anything ahead of me I particularly wanted. Next task. Next shift. I’d called that indifference. It had felt like nothing, and nothing had seemed close enough to fine.
 
-Most mornings there was nothing ahead of them they particularly wanted. Just the next thing they had to do. They had mistaken that emptiness for indifference.
+I had thought dying might not bother me.
 
-They had thought dying might not bother them.
-
-Their hands were shaking so badly that the carbine rattled against a buckle on their vest.
+My hands were shaking so hard the carbine rattled against a buckle.
 
 _Of course._
 
-A laugh caught behind their teeth.
+A laugh caught behind my teeth. Stupid. Late. Mine.
 
 _Of course I find out now._
 
-Something struck the door.
+The body wanted to live. The body had not gotten the memo about how tired I was of the whole arrangement. My chest was doing that bright, animal thing, and all the polished nothing I’d practiced for years had nowhere to sit.
 
-Not a fist this time.
+Something hit the door.
 
-Something heavy and soft hit the other side with a wet thud, and the locker jumped. Another impact followed. Then a crack, sharp enough to carry through the steel.
+Not a fist.
+
+Heavy. Soft. Wet. The locker jumped. Another impact. Then a crack that came through the steel like it had been aimed at my teeth.
 
 A man screamed.
 
 The sound stopped halfway through a word.
 
-Spade lifted their head.
+I lifted my head.
 
-There were other noises now. Boots scraping concrete. A grunt of effort. A fist landing in flesh. Someone shouted in a language Spade didn’t recognize, and another voice answered.
+Boots. A grunt. A fist going into a person and the person not liking it. Somebody shouted in a language I didn’t have, and somebody else answered, short, pleased.
 
 Then laughter.
 
-Loud. Rough around the edges. Delighted.
+Loud. Rough at the edges. Delighted, which was a deranged choice of emotion for a corridor full of murder.
 
-Spade knew that laugh.
+I knew that laugh.
 
-They couldn’t place it—not here, not with their knees drawn up in filthy water and their fingers locked around an empty rifle—but they knew it.
+I couldn’t place it. Not from here, knees up, fingers locked on an empty rifle, brain kind enough to hand me a laugh and not a name. But I knew it. I’d spent eight months pretending I didn’t.
 
 The fighting stopped.
 
-Water dripped from a pipe overhead.
+Water ticked off a pipe.
 
 One drop.
 
 Another.
 
-The valve wheel jerked beneath the handle.
+The valve wheel jerked under the handle.
 
-Spade flinched as the locker screamed across the floor. The bulkhead tore loose from its upper hinge, and a hand curled around the edge and pulled.
+I flinched. The locker screamed across the floor. The bulkhead tore off its upper hinge. A hand curled around the edge and pulled, and the steel folded out with a shriek that went straight into my fillings.
 
-Steel folded outward with a shriek.
+She was almost too tall for the doorway.
 
-The woman in the doorway was almost too tall for it.
+Shoulders ate the corridor light. Black hair stuck to her forehead and the side of her neck. Blood on her jaw, her throat, the front of her vest. Some of it drying brown. Some of it still doing the bright, wet thing blood does when it hasn’t decided to be over.
 
-She blocked the corridor light with her shoulders. Black hair clung to her forehead and the side of her neck. Blood covered her jaw, her throat, the front of her vest—some drying brown, some still bright and wet.
+One sleeve torn open over a long cut in her forearm. A scorched strip of plate carrier hanging loose on the left. Behind her shoulder, a rifle barrel bent at an angle rifle barrels do not survive.
 
-One sleeve was torn open over a long cut in her forearm. A scorched strip of her plate carrier hung loose on the left. Behind her shoulder, the barrel of a slung rifle bent at an angle no rifle barrel should.
+Knife loose at her side.
 
-She held a knife loosely at her side.
-
-Staff Sergeant Aeirith Voeren looked at Spade.
+Staff Sergeant Aeirith Voeren looked at me.
 
 Then she grinned.
 
-Wide. Crooked. As though finding them alive in this room had genuinely improved her evening.
+Wide. Crooked. Like finding me alive in a foot of filthy water had genuinely improved her evening, and she was not going to pretend otherwise.
 
 “HAH! Need help, Spade?”
 
-Spade opened their mouth.
+I opened my mouth.
 
-Nothing happened.
+Nothing came out. Excellent. Twenty-four years of practice speaking like a person, and the first time she said my name I turned into a broken handset.
 
-_She’s wounded. She’s covered in blood._
+_She’s wounded. She’s covered in blood. Those are the facts. Start with the facts._
 
-Their gaze caught on the rise and fall of her chest, the torn sleeve stretched around her arm, the hand still resting against the ruined door.
+My eyes did not start with the facts. They caught on her chest moving, the torn sleeve tight around her arm, the hand still on the ruined door. Light skin, blood, that grin. She looked like the raid had tried to kill her and she had found it funny.
 
-_She’s... the most beautiful thing I’ve ever seen._
+_She’s… the most beautiful thing I’ve ever seen._
 
----
+Wrong time. Wrong room. Wrong everything. The thought didn’t care. It had been waiting in stairwells and chow lines for eight months, and a woman folding a steel door in half was apparently the permission slip.
 
-Spade had known Voeren for eight months in the limited, humiliatingly specific way you knew someone you tried not to stare at.
+I knew her the way you know someone you’ve tried not to stare at. Which is to say: too well, and not at all.
 
-The chow line. The arms room. A stairwell where they had pressed themself against the wall to let her pass.
+Chow line. Arms room. A stairwell where I’d put my back to the wall so she could pass, because taking up space near Aeirith Voeren felt like a tactical error.
 
-“’Scuse me,” she had said that day, with a grin Spade had remembered for an unreasonable amount of time.
+“’Scuse me,” she’d said, and grinned, and I had remembered it for an unreasonable amount of time. Not the words. The fact that she’d bothered.
 
-Her laugh carried across the mess hall. She usually ate alone.
+Her laugh carried in the mess. She usually ate alone. I had noticed that too, and then I had told myself enhanced soldiers preferred their own company, or each other’s. Cleaner than the other thought, which was that I wanted to sit there and didn’t have a single excuse that wouldn’t sound like I’d lost my mind.
 
-Spade had noticed that too.
+People like her moved through a different army. I saw it from the edge. I fixed what they broke. I did not get looked at like this.
 
-They had assumed enhanced soldiers preferred their own company, or one another’s. That people like Voeren moved through a different version of the army, one Spade occasionally glimpsed from the edge.
+She had never said my name before.
 
-She had never said their name before.
+I hadn’t known she knew it.
 
-They hadn’t known she knew it.
+“Staff Sergeant.” My voice scraped. “How—”
 
-“Staff Sergeant.” Spade’s voice scraped. “How—”
+“Later.”
 
-“Later.” Voeren stepped over the broken door and took their forearm. Her grip was firm, but she adjusted it when Spade’s fingers tightened reflexively around her wrist.
+She stepped over the broken door and took my forearm. Firm. Then my fingers locked around her wrist on their own, and she adjusted. Not a flinch. A correction, like she’d felt the panic and decided not to make it worse.
 
-Then she pulled them upright.
+_She felt that. Great. Add it to the list of things I will be thinking about if I live._
 
-Spade’s numb foot hit the floor badly. They caught themself.
+She pulled me up.
 
-“You hurt?” Voeren asked.
+My numb foot hit wrong. I caught myself. Pride, or what was left of it, did most of the work.
 
-“No.” Spade glanced down, checking as though the answer might be written on their uniform. “Not yet.”
+“You hurt?”
 
-“Good place to be.” Her eyes moved to the relay pack. “Comms?”
+“No.” I looked down, as if the uniform might have a note. “Not yet.”
+
+“Good place to be.” Her eyes went to the relay. “Comms?”
+
+There. A question with an answer. My mouth remembered how to be a sergeant.
 
 “Gone. Jammer. Probably centered on the main depot. It’s wiping everything from the east gate to the—”
 
-Voeren was still smiling.
+She was still smiling.
 
-Spade stared at her. “Why are you smiling?”
+I stared at her. Blood on her teeth, and she was smiling at me like I’d handed her good news. “Why are you smiling?”
 
-“Because you’re alive.” She said it without hesitation, as though it were obvious. Then her gaze flicked toward the corridor. “And because there’s more of them.”
+“Because you’re alive.” No hesitation. Like it was obvious, like my being alive was a fact worth stating out loud. Then her eyes cut to the corridor. “And because there’s more of them.”
 
-Spade followed her eyes.
+I followed her look.
 
-Three soldiers lay outside the door in gray gear with no patches or flags. One had folded against the wall at an angle Spade couldn’t make sense of. Another’s head rested too far around on his shoulders. The third—
+Three soldiers in gray. No patches. No flags. One folded against the wall at an angle that didn’t belong to a person. Another’s head had gone too far around. The third—
 
-Spade looked at the floor.
+I looked at the floor.
 
-Their stomach contracted.
+My stomach pulled in on itself.
 
-These were the men who had been punching through steel.
+These were the men who had been punching through steel. She had turned them into a mess on the concrete, and some part of me that was not the tactical part had gone warm and horrified at the same time.
+
+_Don’t do that. Don’t be grateful like that. She didn’t do it for you. She did it because this is what she is._
+
+I didn’t know that. I wanted it to be for me anyway. That was worse.
 
 “Don’t look at the mess,” Voeren said. “Look at the gear. Take what’s useful.”
 
 Right.
 
-A task. They could do a task.
+A task. I could do a task. Tasks were the only room in my head where the noise sat down.
 
-Spade left the carbine beside the ruined relay and crouched next to the nearest body. Their fingers slipped on the pistol holster at his hip. They wiped them against their trousers and tried again.
+I left the carbine by the dead relay and crouched by the nearest body. Fingers slipped on the holster. I wiped them on my trousers and tried again, because shaking was allowed and failing a simple motion was not.
 
-Compact sidearm. Familiar controls.
+Compact sidearm. Controls I knew. Chamber. Magazine.
 
-They checked the chamber, then the magazine.
+Four rounds.
 
-Four rounds total.
+I seated it, chambered one, and put the pistol where mine should have been.
 
-Spade reseated the magazine, chambered a round, and put the pistol in their empty holster.
+“Four rounds.” My tongue felt thick. “That’s it.”
 
-“Four rounds.” Their tongue felt thick. “That’s it.”
-
-“Then don’t waste them.” Voeren checked the corner, rolled one shoulder, and stopped halfway through the movement. “The east-gate rally point’s a wash. Everybody’s dead or running. We’re going south.”
+“Then don’t waste them.” She checked the corner, rolled one shoulder, and stopped halfway. Hurt. She didn’t offer me the information. “East-gate rally point’s a wash. Everybody’s dead or running. We’re going south.”
 
 “Toward the canal?”
 
 “Past it. Bird can’t land under the jam.” She glanced back. “How far did you say it reaches?”
 
-“Seven, eight hundred meters, if the signal’s behaving. I won’t know until I try.” Spade rubbed water and grit from their face. “If we can get out from under it, I can— Is your radio working?”
+She had been listening. While smiling. While bleeding. I filed that somewhere dangerous.
 
-“Took a round on the way in.” Voeren tapped her chest rig. A cracked handset shifted in its mount, its screen black. “Eaten.”
+“Seven, eight hundred meters, if the signal’s behaving. I won’t know until I try.” I scrubbed water and grit off my face. “If we can get out from under it, I can— Is your radio working?”
 
-Spade caught it before she could drop it. “I’ll hold onto this.”
+“Took a round on the way in.” She tapped her chest rig. The handset shifted, screen black. “Eaten.”
 
-Her eyebrow lifted. “You think you can fix it?”
+I caught it before she could drop it. “I’ll hold onto this.”
 
-“Maybe.” Spade turned it once in their hands. Cracked housing. Damaged display. Not necessarily a dead transceiver. “It’s all I have.”
+Her eyebrow went up. “You think you can fix it?”
 
-Voeren watched them put it in their cargo pocket.
+“Maybe.” Cracked housing. Dead display. Not automatically a dead radio. I turned it once, because my hands needed the shape of a problem. “It’s all I have.”
+
+_And if I put it down, I am only a person you have to drag._
+
+She watched me shove it into a cargo pocket. I couldn’t tell if she was deciding I was useful or deciding I was funny. Both made my ears hot.
 
 “Stay on my left,” she said. “Watch the high ground. Anything you see that I don’t, you say it. You hear me?”
 
@@ -285,247 +287,233 @@ Voeren watched them put it in their cargo pocket.
 
 “Voeren. Just Voeren.”
 
-She turned toward the corridor.
+She turned into the corridor.
 
-Spade followed before their legs could remember how frightened they were.
+I followed before my legs could hold a vote.
 
 ---
 
-The Salt Yards had once supplied a city with drinking water.
+The Salt Yards used to make a city drinkable.
 
-Now pipes wider than trucks crossed the ground in rusted bundles, their joints crusted white. Rail spurs disappeared between warehouses. Gantry cranes leaned over loading bays, their cables stirring in the wind.
+Now the pipes were wider than trucks, joints crusted white, rail spurs vanishing between warehouses. Gantry cranes leaned over the bays. Cables moved when the wind bothered them.
 
-A corporate sign hung crookedly above a service road.
+A corporate sign hung crooked over the service road.
 
 COVERAGE IS A PRIVILEGE.
 
-Someone had painted over the second word.
+Somebody had painted out the second word. Funny. I’d think it was funny tomorrow, if tomorrow was a thing I got.
 
-Spade caught pieces of the place between movements: a yellow handrail, a puddle filmed with oil, a bootprint in wet salt. They couldn’t afford to look at the whole yard. Every doorway needed checking. Every roof edge might hold a rifle.
+I took the yard in pieces. Yellow handrail. Oil on a puddle. A bootprint in wet salt. Looking at the whole place was how you missed the doorway with the rifle in it.
 
-The air smelled of brine, diesel, and hot metal.
+Brine. Diesel. Hot metal.
 
-Something sweeter lay beneath it.
+Something sweeter under it.
 
-They didn’t think about that.
+I didn’t think about that. I knew what sweet meant out here. My brain could shut up and keep the roofs.
 
-Voeren moved ahead in short, economical bursts. Spade stayed on her left, watching above her shoulder.
+Voeren moved in short bursts, nothing wasted. I stayed on her left and watched over her shoulder, which was a professional arrangement and also an excuse. She was huge even from behind. Lighter than me where the blood hadn’t covered her, golden under the work lamps, and still the brightest thing in a yard built out of rust. Not a cure. A light. I hated that I had the thought while counting catwalks. I hated that it was accurate.
 
-A glint on a catwalk.
+A glint, high.
 
-“High, eleven—” Spade began.
+“High, eleven—”
 
-Voeren’s knife left her hand.
+Her knife left her hand.
 
-The man above them jerked back before he could bring his weapon to bear.
+The man jerked back before his weapon finished the trip to his shoulder.
 
-Voeren was already moving.
+She was already moving.
 
-Spade went with her.
+I went with her. Not because I was brave. Because she had told me left, and left was a direction, and directions were easier than the rest of it.
 
-They saw a shape slip between containers and called it. She changed direction before they finished speaking, taking them through a gap between a wall and a row of broken pumps.
+A shape between containers. I called it. She turned before I finished the sentence and took us through a gap, wall on one side, broken pumps on the other. She used my voice like it was part of her kit. I felt that in my chest and told it to wait its turn.
 
-A loading bay opened ahead.
+Loading bay.
 
 Three men.
 
-Voeren met the first before he could get clear of the doorway.
+She met the first before he cleared the doorway.
 
-His punch struck her ribs with a hard crack.
+His punch cracked into her ribs.
 
 She laughed.
 
-Spade felt the sound in their own stomach.
+I felt it in my own stomach. Not fear. Not only fear. The sound was happy. Actually happy. Reyes was dead, Chen was dead, I had four rounds and a borrowed radio, and Aeirith Voeren was having a better time than she’d had at breakfast.
 
-She caught the second man’s arm, turned beneath it, and forced it behind him. His elbow gave. Before his knees could, she drove him into the third attacker and followed them in.
+She caught the second man’s arm, turned under it, forced it back. His elbow went. She didn’t wait for his knees. She put him into the third and followed them in.
 
-There was nothing wild about it.
+Nothing wild about it.
 
-That was what Spade couldn’t stop watching.
+That was the problem. That was the thing I couldn’t stop watching.
 
-The placement of her feet. The way she turned her hips. How little movement she wasted even when she was hitting someone hard enough to lift him off the floor.
+Feet. Hips. How little she wasted, even when she hit someone hard enough to take him off the floor. I knew competence. I was competence, on a good day, with a panel in front of me. This was competence that liked itself.
 
-The first man staggered toward her again.
+The first man came back.
 
-She put him against the wall.
+She put him into the wall.
 
-The other two folded together near the loading doors, one trying to get an arm beneath himself, the other dragging him back down. Neither stood.
+The other two folded near the doors. One tried to get an arm under himself. The other dragged him down. Neither stood.
 
-Voeren turned, blood shining on her teeth.
+Voeren turned. Blood on her teeth.
 
 _She likes this._
 
-Not the way someone liked doing a difficult job well.
+Not the way I liked closing a fault. Not pride in a dirty job done clean.
 
-She liked the fighting.
+She liked the fight.
 
-Spade hated violence. Four years in the army had done nothing to change that.
+I hated violence. The army had not fixed that. It had only taught me to keep moving while I hated it.
 
-But the torn fabric shifted across her back as she moved, and she looked so completely certain of herself that something in Spade’s chest tightened.
+Torn fabric shifted across her back. She looked so certain of her own body that something in my chest pulled tight enough to hurt. I was a person who had to think about where to put my hands. She inhabited hers.
 
-They wanted to look away.
+I wanted to look away.
 
-They wanted her to turn around again.
+I wanted her to turn around again.
 
 _What is wrong with me?_
 
-“Spade! Left!” Voeren shouted.
+Plenty. A list. None of it was useful, and none of it stopped.
 
-They turned.
+“Spade! Left!”
 
-A fourth man stood beyond the loading doors.
+I turned.
 
-Spade brought up the pistol and saw the rifle in his hands: long, heavy, a bulky housing along the stock, copper around the muzzle.
+A fourth man, past the doors.
+
+Pistol up. Then I saw the rifle. Long. Heavy. Bulky housing on the stock. Copper at the muzzle.
 
 _Charged rifle._
 
-A briefing room came back in a flash. A grainy image on a screen. Someone joking that if you saw one pointed at an enhanced operator, you should start looking for cover.
+Briefing room. Grainy picture. Somebody joking that if you saw one pointed at an enhanced operator, you should already be looking for cover, because the joke was the last comfortable thing you were going to get.
 
 “Voeren, DOWN—”
 
 Blue-white light split the bay.
 
-The report struck Spade in the chest. Ozone burned the back of their nose.
+The report hit me in the chest. Ozone crawled up the back of my nose.
 
-Voeren stopped mid-stride.
+She stopped mid-stride. One foot still up. Mouth open, like the laugh hadn’t gotten the news.
 
-For an instant she remained upright, one foot lifted, her mouth open.
+Then the shudder went through her, violent, wrong, and her knees folded.
 
-Then a violent shudder ran through her.
+She hit the concrete. The bent rifle clattered under the sling.
 
-Her knees folded.
+“No.”
 
-She hit the concrete, the bent rifle clattering beneath its sling.
+I fired.
 
-"No."
+He jerked.
 
-They fired.
+I fired again.
 
-The rifleman jerked.
+He turned halfway and dropped facedown into the oil.
 
-They fired again.
-
-He turned halfway around and dropped facedown into the oil.
-
-Spade kept the pistol pointed at him.
+I kept the pistol on him.
 
 He didn’t move.
 
 _Two._
 
-Their ears rang.
+My ears were a high, thin room.
 
-_Two left._
+_Two left. You had four. You have two. Do not spend them on a corpse because you are angry._
 
-“No, no, no—” Spade was beside Voeren before they remembered crossing the floor.
+“No, no, no—”
 
-She lay on her back, staring upward. Small tremors moved through her limbs. Blood ran from a burned opening below her left ribs and spread beneath the edge of her armor.
+I was beside her before I remembered crossing the floor. My knee complained. I didn’t care. Caring was for later, if later existed, if she existed in it.
 
-“Voeren.” Spade touched her shoulder. “Voeren, can you hear me?”
+On her back. Staring up. Little tremors in her arms and legs. Blood from a burned opening under her left ribs, spreading past the edge of the armor. The smell of it cut through the ozone.
+
+“Voeren.” I touched her shoulder. Too light. I didn’t know where I was allowed to touch a person who had just been shot with a weapon designed to put her down. “Voeren, can you hear me?”
 
 Her eyes moved.
 
-Slowly.
+Slow.
 
-They found Spade’s face.
+They found my face.
 
-Relief struck so hard Spade nearly laughed.
+Relief hit so hard I almost laughed. She was in there. Staff Sergeant Aeirith Voeren, who ate alone, who had said my name like it was easy, was still in there looking at me.
 
-Then Voeren’s jaw clenched. She tried to speak, and a sound caught in her throat.
+Then her jaw locked. She tried to speak. The sound died in her throat.
 
 “Voeren?!”
 
 _She’s dying._
 
-Spade pressed two fingers against her neck.
-
-A pulse. Fast. Difficult to hold beneath their shaking fingertips.
-
-Her breathing was shallow.
+Two fingers on her neck. Pulse, fast, hard to keep under my hand because my hand was useless. Breathing shallow. The great certain body from a minute ago had become weight and blood and a look she couldn’t finish.
 
 _Do something._
 
-They looked at the wound. At her face. At the blood gathering against the concrete.
+Wound. Face. Blood on the concrete, finding the low places the way water had in the pump house.
 
-_Do SOMETHING._
+_Do something. You are the comms sergeant. You are not allowed to just kneel here and feel this._
 
-Boots sounded beyond the loading doors.
+Boots beyond the doors.
 
-Spade turned.
+I turned.
 
-Two men in gray gear came through side by side.
+Two men. Gray gear. Side by side. Not hurrying. One of them said something, and the other laughed, and the laugh was ordinary, which made me want to put the last two rounds into the sound.
 
-Neither hurried.
+Maintenance hatch by the wall. Rusted grate. Crawlspace.
 
-One said something to the other and laughed.
+I would fit.
 
-Spade’s gaze snapped toward a maintenance hatch near the wall. Rusted grate. Crawlspace beneath the floor.
-
-They could fit.
-
-She couldn’t.
+She would not.
 
 _Go._
 
-The thought was immediate and brutally clear.
+Clear. Immediate. The same voice that counted rounds and read a jammer’s radius. Logical. Cruel. Correct, if the only mission left was me.
 
 _You can still go._
 
-Voeren’s fingers twitched beside their knee.
+Her fingers twitched beside my knee.
 
-Spade put the pistol away, caught the collar of her armor in both hands, and pulled.
+No.
+
+I didn’t decide it in a speech. The logical voice offered me a life, and I put the pistol away, got both hands in the collar of her armor, and pulled. If I lived, I was going to have to admit I’d chosen her over the exit. If I died, at least I wouldn’t die as the person who left her on the floor after she tore a door off to get to me.
 
 ---
 
 She barely moved.
 
-Spade reset their feet and tried again.
+I reset my feet and pulled again.
 
-The armor creaked. Their boots slipped. Voeren shifted across the floor by inches.
+Armor creaked. Boots slipped. She traveled inches. Enhanced, even half-dead, was a different category of weight. My shoulders already knew they were going to hate me.
 
-Behind them, the footsteps continued.
+Footsteps behind us. Still coming. Still not rushing. Men who thought the dangerous one was down.
 
 _Come on._
 
-There was a tool crib against the wall: steel mesh, shelving, a door standing half open. Cover. Not much, but enough to break the line of sight.
+Tool crib against the wall. Mesh, shelves, door half open. Not cover. A suggestion of cover. Enough to ruin a sightline if they were arrogant, and they were arrogant.
 
-Spade hauled again.
-
-Pain caught beneath their shoulder blades.
+I hauled. Pain set up under my shoulder blades and started charging rent.
 
 Again.
 
-The heel of Voeren’s boot scraped over a seam in the concrete.
+Her boot heel scraped a seam in the concrete. A small, ugly victory. I took it.
 
-One of the men spoke.
+One of them spoke. Closer.
 
-Closer now.
-
-Spade backed through the crib doorway and pulled until her shoulders cleared it. They got her behind the shelves, lowered her head as carefully as their trembling arms allowed, and crouched beside her.
+I backed through the crib door and pulled until her shoulders cleared it. Got her behind the shelves. Lowered her head, because slamming Staff Sergeant Voeren’s skull into a parts bin felt like a line I could still refuse to cross. My arms shook the whole way down.
 
 Her chest moved.
 
-They watched it happen twice.
+I watched it twice. Superstition. If I saw it twice, it would do it a third time.
 
-Then they looked up.
+Then I looked up.
 
 _Think._
 
-Cable. Chain. Pry bars. Shelves of parts in boxes softened by damp.
+Cable. Chain. Pry bars. Boxes gone soft with damp. None of it was a weapon I could use before those boots arrived. My pistol had two rounds. Two rounds was a plan only if I enjoyed losing.
 
-A gray panel beside the door.
+Gray panel by the door. Green light behind a dirty cover.
 
-A green light blinked behind its dirty cover.
-
-Spade stared at it.
+I stared at it.
 
 FIRE ALARM.
 
 _Wired._
 
-They pulled the cover free.
-
-The inside smelled of dust and warm insulation. Faded labels divided the panel into zones.
+The cover came off in my hand. Dust. Warm insulation. Old labels, the kind of system nobody upgrades because it still works and nobody important walks through this bay.
 
 EAST WING.
 
@@ -533,277 +521,207 @@ LOAD BAY.
 
 ADMIN.
 
-The controls were old. Simple.
+Simple. Thank God for simple. My head went quiet in the way it did when a panel was telling the truth.
 
-Spade selected the east-wing test.
+East-wing test.
 
-Somewhere across the depot, a horn sounded.
+A horn went off somewhere across the depot.
 
 The footsteps stopped.
 
-Spade held their breath.
+I held my breath like that would help the electronics.
 
-A voice barked from the bay.
+A voice barked in the bay.
 
-They interrupted the test, started it again, then brought the loading-bay strobes online.
+I killed the test, started it again, then brought the loading-bay strobes up. If they wanted a direction, I would give them three.
 
-White light flashed through the mesh.
+White through the mesh.
 
 Dark.
 
 White.
 
-The men’s shadows broke across the floor.
+Their shadows broke apart on the floor. One set of boots turned toward the horn. The other didn’t.
 
-One set of boots turned away.
+Of course. One professional in every pair.
 
-The other kept coming.
+“Okay,” I whispered, which was a lie I told my hands.
 
-“Okay,” Spade whispered.
+Back to her.
 
-They went back to Voeren.
+Eyes half closed. I touched her cheek. Her gaze shifted to me, slow, stubborn. Still here. Still choosing to look at me when looking had to cost her.
 
-Her eyes were half closed. When Spade touched her cheek, her gaze shifted toward them.
+“I’m not going anywhere,” I said.
 
-“I’m not going anywhere,” Spade said.
-
-They hadn’t planned to say it.
+I hadn’t planned the sentence. It came out anyway, too honest for a loading bay, too large for what I was. I meant the next minute. I also meant it worse than that, and this was not the time to audit myself.
 
 “Just stay with me. I’ll be right back.”
 
-Her fingers moved against the floor.
+Her fingers moved on the floor. Not a grip. An answer, maybe. I was going to take it as an answer.
 
-Spade took out the pistol.
+Pistol out.
 
-The first man approached the crib with his shoulders loose.
+The one who hadn’t left came toward the crib like his shoulders had never met a consequence. Broad face. Hair cut close. Old scar dragging one side of his mouth down. He glanced through the shelves and saw her.
 
-Broad face. Close-cropped hair. An old scar drawing one side of his mouth slightly downward.
+_No you don’t._
 
-He glanced through the shelving toward Voeren.
+I got behind the open door.
 
-Spade pressed themself behind the open door.
+Waited. Counted his steps because counting was cleaner than praying.
 
-Waited.
+He came through.
 
-He stepped through.
+I fired close.
 
-They fired from close range.
+He staggered into the mesh, and the sound he made was almost surprise, like the evening had been going so well.
 
-He staggered into the mesh with a sound that was almost surprise.
+Then he turned.
 
-Then he turned toward them.
+His hand came out. Enhanced, or close enough that the difference didn’t matter to my bones.
 
-His hand came out.
+I ducked it and fired the last round.
 
-Spade ducked beneath it and fired again.
-
-He dropped to his knees.
-
-One hand struck the floor.
-
-Blood spilled through his fingers.
-
-Spade backed away, pistol held out in both hands.
-
-The man sagged sideways.
+He dropped to his knees. One hand hit the floor. Blood ran through his fingers. He sagged sideways.
 
 Didn’t rise.
 
 _Nobody gets up from that._
 
-Their finger tightened again.
+My finger tightened on nothing.
 
-Nothing.
+_Empty. You knew it was empty. Say it again until you believe it._
 
-_Empty._
+Footsteps hammered back from the east wing. The horn had bought me a minute, not a miracle. A man shouted a name. Once. Again. His friend’s name, probably. I had just made him grief and a problem.
 
-Footsteps hammered back from the east wing.
+I dropped the pistol. Dead weight. Ran for the ladder.
 
-A man shouted a name.
-
-Once.
-
-Again.
-
-Spade dropped the pistol and ran for the ladder.
-
-The rungs were slick. Their boot skidded off one, and they caught themself hard enough to wrench their shoulder.
+Rungs slick. My boot skipped one, and I caught myself hard enough to wrench the shoulder that was already filing a complaint.
 
 _Up._
 
-They hauled themself onto the gantry.
+Gantry. Four meters over the bay. A walkway built for one person and a bad idea. Dead lamps. Loose cable. Hoist cab on the overhead beam.
 
-Four meters above the bay. A walkway barely wide enough for one person. Dead lamps. Loose cable. A hoist cab hanging from the overhead beam.
+Under it, a cargo net. Steel rail plates. Heavy enough to matter.
 
-Below it, a cargo net held a stack of steel rail plates.
+I looked down.
 
-Spade looked down.
+The second man had reached the crib. He stopped by his friend. Saw the blood. Then he looked up, and looking up was the first smart thing either of them had done in my presence.
 
-The second man had reached the crib.
+I flattened behind the hoist cab. Hand on the release. I pulled, testing. It resisted. Of course it resisted. Nothing in this yard wanted to help me except, apparently, Aeirith Voeren, who was on the floor because I had seen the rifle a half-second late.
 
-He stopped beside his friend.
+He shouted again.
 
-Looked at the blood.
+I braced a boot on the cab and got both hands on the lever.
 
-Then up.
+_Not yet. If you drop it on the crib you drop it on her. You are not that kind of stupid. Be the other kind._
 
-Spade flattened behind the hoist cab.
+He stepped away from the shelves.
 
-Their hand found the release lever.
+Strobe on his face.
 
-They pulled experimentally.
+Dark.
 
-It resisted.
-
-Below, the man shouted again.
-
-Spade braced one boot against the cab and tightened both hands around the lever.
-
-_Not yet._
-
-The man stepped away from the crib.
-
-White light caught his face.
-
-Then darkness.
-
-He moved beneath the load.
+He walked under the load like the bay owed him a straight line.
 
 _Now._
 
-Spade hauled back.
+I hauled.
 
-The lever gave.
+The lever gave. Chain screamed. The plates hit, and the gantry kicked under my boots hard enough that I flinched behind the cab like the impact might come back up for me.
 
-Chain screamed through the mechanism.
-
-The plates struck with a crash that shook the gantry beneath Spade’s boots.
-
-They flinched behind the cab.
-
-A scream rose through the noise.
+A scream came through the crash.
 
 Then nothing.
 
-Spade stayed crouched, hands still locked around the lever.
+I stayed crouched. Hands still locked around the lever. Breath in short, ugly pieces.
 
-Their breath came in short, ugly pulls.
+Rifleman.
 
-The rifleman.
-
-The man at the crib.
+The man in the crib.
 
 This one.
 
 _That’s all of them._
 
-They looked toward the corner where Voeren lay hidden.
+I looked toward the corner where she was hidden. Still hidden. Still, if the world had any decency left, breathing.
 
 _I can get her. We can—_
 
-A ladder rung rang behind them.
+A ladder rung rang behind me.
 
-Spade turned.
+I turned.
 
 Another rung.
 
-A hand appeared over the edge of the platform.
-
-Bloody fingers tightened around the steel.
+A hand came over the edge. Bloody fingers. Tight on the steel.
 
 The man from the crib pulled himself into view.
 
-For a moment Spade couldn’t understand what they were seeing.
+For a second my brain refused the delivery. I had watched him go down. I had spent the last round on him. There were rules. You shot a man twice at that range and he stayed where you put him.
 
-His face had gone gray. Blood soaked the front of his vest. One hand remained pressed to his neck while the other hauled him upward, rung by rung.
+His face was gray. His vest was soaked. One hand stayed on his neck. The other dragged him up, rung by rung, breath wet and wrong.
 
-His breath came wet and ragged.
-
-His eyes found Spade.
+His eyes found me.
 
 _He’s dead._
 
-Spade took a step back.
+I stepped back.
 
 _I watched him die._
 
-They had been certain.
+I had been certain. Certainty was another thing the night was taking off me at a discount.
 
-He dragged himself onto the platform and stood.
+He got onto the platform and stood. Free hand to his belt. Knife.
 
-His free hand went to his belt.
+I ran.
 
-Came back with a knife.
+The catwalk shook. Ahead it ended at a vertical support, and past that was air. No second ladder. No door. A beam below the edge. A cable by the upright. My whole life, lately: a problem, a bad option, and the hope that I was slightly faster than the person trying to close my throat.
 
-Spade ran.
+He came after me slowly. He knew where the walkway ended. He could afford slow. I had spent my speed already.
 
-The catwalk shook beneath their boots. Ahead, it ended at a vertical support. Beyond that, open air.
+I reached the support and caught the cable.
 
-No second ladder.
+_Around him. Don’t fight the knife. Fight the place he’s standing._
 
-No door.
+I swung past the upright and dropped onto the lower beam.
 
-Just a narrow beam below the edge and a cable hanging beside the support.
+The knife cut the air where my shoulder had been. Close enough that I felt the miss as a cold line.
 
-Behind them, the man advanced.
+I crouched. One hand on the cable. One on the steel. The floor was too far. Jumping was just a quicker way to lose.
 
-Slowly.
-
-He knew where the walkway ended too.
-
-Spade reached the support and caught the cable.
-
-_Around him._
-
-They swung past the upright and dropped onto the lower beam.
-
-The knife cut through the space their shoulder had occupied.
-
-Spade crouched, one hand gripping the cable, the other pressed against cold steel.
-
-The floor was too far below.
-
-The man leaned over the rail.
+He leaned over the rail.
 
 Reached.
 
-Spade pushed off.
+I pushed off.
 
-They swung around the support, planted a foot against a pipe, and drove both boots into his back.
+Around the support. Foot on a pipe. Both boots into his back.
 
-He lurched forward.
-
-One boot slipped.
-
-For an instant his weight went past the rail.
+He lurched. One boot slipped. For an instant his weight went past the rail, and the instant was so clean I believed in it.
 
 _Yes—_
 
-The knife hit the steel.
+The knife hit steel.
 
-His hand closed around Spade’s ankle.
+His hand closed on my ankle.
 
-Their stomach dropped before the rest of them moved.
+My stomach went first.
 
-Then they were airborne.
+Then the rest of me.
 
-Their shoulder struck a ladder. Metal flashed past their face. Something caught their vest and tore free.
+Shoulder clipped a ladder. Metal flashed past my face. Something caught my vest and tore free, and I didn’t have time to know what I’d lost.
 
-They hit the stacked salt sacks hard enough to burst them.
-
-Dust filled their mouth.
+Salt sacks. I hit them hard enough to burst them. Dust in my mouth, in my eyes, stupid and white.
 
 Then the floor.
 
-Their left knee folded beneath them.
+My left knee folded under me.
 
-Pain went white.
+Pain went white. Not a metaphor. The bay deleted itself.
 
-Spade tried to breathe and couldn’t.
+I tried to breathe. Chest up. Throat open. Nothing. My body kept making the attempt like repetition might embarrass my lungs into working.
 
-Their body kept attempting it: chest lifting, throat opening, nothing coming in.
-
-A strobe flashed overhead.
+Strobe.
 
 White.
 
@@ -811,112 +729,78 @@ Dark.
 
 White.
 
-They made a small, horrible sound.
+A small, horrible sound came out of me. Then air, finally, scraping in. It tasted like salt and blood and the sweet thing I had decided not to name.
 
-Air finally scraped into their lungs.
+Across the bay, a boot found the bottom rung.
 
-Across the bay, a boot touched the bottom rung of the ladder.
+He came down still holding his neck. Looked at me in the spilled salt. Laughed.
 
-The man stepped down.
+I got a hand under me. The shoulder buckled. I tried the other.
 
-He still held his neck.
+_Move. You moved a woman who weighs more than the argument you’re about to lose. Move._
 
-He looked at Spade, lying among the spilled salt, and began to laugh.
-
-Spade planted a hand.
-
-Their shoulder buckled.
-
-They tried the other.
-
-_Move._
-
-The man stopped beside them.
+He stopped beside me.
 
 _Get up._
 
-He caught the front of their vest and lifted.
+He caught the front of my vest and lifted.
 
-For one absurd instant, the pain eased.
+For one absurd second the pain eased. Being off the floor felt like mercy. I knew better. I knew better, and I was still grateful for the second.
 
-Then he slammed them down.
+He slammed me down.
 
-Something flared across their lower back.
+Something flared across my lower back. My mouth opened. No sound. The sound was busy being pain.
 
-Spade’s mouth opened.
+“Look at you.” Wet voice. Rough. He knelt on my chest, and the air I’d just won left again. “All that trouble. All that running.”
 
-No sound came out.
-
-“Look at you.” His voice was rough and wet. He knelt on their chest, and what little air Spade had managed to drag in left them again. “All that trouble. All that running.”
-
-Blood dripped from his wrist onto Spade’s cheek.
+Blood from his wrist tapped my cheek. Warm. I was going to be thinking about that drop if I got a later.
 
 “For a little tech rat.”
 
-His hand closed around their throat.
+His hand closed on my throat.
 
-Spade caught his wrist with both hands.
+I caught his wrist with both hands and pulled. Nothing. I might as well have been pulling on a pipe. Heel against the floor. Knee screaming. His weight didn’t negotiate.
 
-Pulled.
-
-Nothing.
-
-They drove a heel against the floor, trying to shift beneath him. Their knee screamed. His weight stayed where it was.
-
-He watched them work.
+He watched me work. Interested. I hated him for having the spare attention.
 
 Then his fingers tightened.
 
 “I could crush it now,” he said. “One squeeze.”
 
-Spade struck his face with the heel of their hand.
+I hit his face with the heel of my hand. His nose shifted. He blinked. Smiled.
 
-His nose shifted.
+“But you made me chase you.” More pressure. The world narrowed around the place his thumb dug in. “So I think I’ll take my time.”
 
-He blinked.
-
-Smiled.
-
-“But you made me chase you.” He increased the pressure. “So I think I’ll take my time.”
-
-Spade tried to turn their chin. To get an elbow between his arm and their chest. To find leverage, space, anything.
-
-His wrist might as well have been bolted in place.
+I tried to turn my chin. Tried to get an elbow between his arm and my chest. Leverage. Space. A dirty trick from a class I had actually stayed awake in. His wrist might as well have been bolted to the floor.
 
 _I can’t breathe._
 
-They kicked.
+I kicked. My boot scraped concrete and accomplished biography, not escape.
 
-Their boot scraped uselessly across the concrete.
+Strobe.
 
-The strobe flashed again.
+His face.
 
-His face appeared.
+Gone.
 
-Vanished.
-
-Appeared.
+His face.
 
 _Voeren._
 
-They couldn’t turn far enough to see the crib.
+I couldn’t turn far enough to see the crib. I couldn’t hear her. I couldn’t hear anything but the pulse in my skull, huge and stupid and desperate to keep being a pulse. She was ten meters and a set of shelves away, and she might already be gone, and I had told her I wasn’t going anywhere.
 
-They couldn’t hear anything beyond the pulse beating inside their skull.
-
-Their fingers were slipping.
+My fingers slipped.
 
 _I’m so weak._
 
-The thought came with a bitter certainty that left no room for the alarm panel, the hoist, any of it.
+It landed with a bitter, total certainty. No room left for the alarm panel. The hoist. The four rounds. The door she had torn open. I had done all of that, and I was still a person under a knee, ordinary, unenhanced, out of tricks.
 
-They had done all that.
+Not enough.
 
-It still wasn’t enough.
-
-Their body demanded air. Every part of it. Their chest strained beneath his knee, and their mouth opened against a hand that would not move.
+My body wanted air the way it had wanted to live in the pump house. Every part of it. Chest straining under his knee. Mouth open against a hand that would not move. All that emptiness I’d mistaken for being ready, and here was the truth, late again: I wasn’t ready. I wasn’t done. I hadn’t even gotten the small life. A job that wasn’t this. Someone who stayed. An evening with a guitar and a stupid story and no one timing how long I talked.
 
 _Damn it._
 
-The edges of the room darkened.
+The edges of the bay went dark.
 
 _Damn all of it. I didn’t even get to—_
