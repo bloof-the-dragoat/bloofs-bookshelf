@@ -43,8 +43,9 @@ tags:
   - reciprocal-rescue
   - dark-romance
 ---
-> [!warning] Content Note  
-> Graphic violence, strangulation, and character death.
+## Chapter 1 — Contact
+
+> _Content note: Graphic violence, strangulation, and character death._
 
 _Shit. I’m gonna die._
 
@@ -68,7 +69,7 @@ Dust sifted through the red glow of the emergency lamp and settled on the water.
 
 _They’re not even in a hurry._
 
-Whoever was outside had stopped trying to be fast. They knew the room had one door.
+Whoever was outside had stopped trying to be fast. The attackers knew the room had one door.
 
 Spade looked down at the carbine. The bolt was locked back on an empty magazine, the fourth they had emptied since the first shots at the east gate. They checked it again anyway, thumb brushing the follower, as though ammunition might have grown while they weren’t looking.
 
@@ -78,7 +79,7 @@ Their sidearm holster was empty too.
 
 _Fuck._
 
-They had thrown the pistol at a man’s face an hour ago. It had bounced off his jaw as though he’d been hit by a moth.
+Spade had thrown the pistol at a man’s face an hour ago. It had bounced off his jaw as though he’d been hit by a moth.
 
 That left the knife behind their hip, a plate carrier with one cracked plate, and a field relay pack lying beside their boots with a hole punched through its casing. Water lapped against the exposed wiring.
 
@@ -88,23 +89,23 @@ They had stopped hearing it as static some time ago. It was just there now, a dr
 
 Twenty-six hours ago, Sergeant Ranelle Spade of Columbian Army Signals had been assigned to a raid they didn’t fully understand because the enhanced team’s regular comms specialist had come down with a fever.
 
-_You’re available,_ the lieutenant had said.
+“You’re available,” the lieutenant had said.
 
 Spade had nodded, because that was what you did.
 
-_You’ll sit in the back. Keep the relay up. It’s a milk run._
+“You’ll sit in the back. Keep the relay up. It’s a milk run.”
 
 The relay had stayed up for eleven minutes.
 
 Spade closed their eyes.
 
-The east-gate charge flashed behind their eyelids. Rail cars. Wet gravel. Reyes saying _contact, contact_, then nothing. Chen laughing once, a startled sound that changed before it ended.
+The east-gate charge flashed behind their eyelids. Rail cars. Wet gravel. Reyes saying, “Contact, contact,” then nothing. Chen laughing once, a startled sound that changed before it ended.
 
 Every channel had gone quiet at the same instant.
 
 After that, running. Hiding. Trying the net again. Trying a different position. Trying anything.
 
-Every enhanced soldier on Spade’s team was dead or somewhere Spade couldn’t see. The enemy wasn’t. They had followed Spade through three buildings, and the only reason Spade was still alive was that a man strong enough to punch through a wall still had to find them first.
+Every enhanced soldier on Spade’s team was dead or somewhere Spade couldn’t see. The enemy wasn’t. The attackers had followed Spade through three buildings, and the only reason Spade was still alive was that a man strong enough to punch through a wall still had to find them first.
 
 The door buckled.
 
@@ -186,7 +187,7 @@ Spade opened their mouth.
 
 Nothing happened.
 
-_She’s wounded,_ they thought. _She’s covered in blood._
+_She’s wounded. She’s covered in blood._
 
 Their gaze caught on the rise and fall of her chest, the torn sleeve stretched around her arm, the hand still resting against the ruined door.
 
@@ -210,41 +211,27 @@ She had never said their name before.
 
 They hadn’t known she knew it.
 
-“Staff Sergeant.” Their voice scraped. “How—”
+“Staff Sergeant.” Spade’s voice scraped. “How—”
 
-“Later.”
-
-She stepped over the broken door and took their forearm. Her grip was firm, but she adjusted it when Spade’s fingers tightened reflexively around her wrist.
+“Later.” Voeren stepped over the broken door and took their forearm. Her grip was firm, but she adjusted it when Spade’s fingers tightened reflexively around her wrist.
 
 Then she pulled them upright.
 
-Their numb foot hit the floor badly. They caught themself.
+Spade’s numb foot hit the floor badly. They caught themself.
 
-“You hurt?”
+“You hurt?” Voeren asked.
 
 “No.” Spade glanced down, checking as though the answer might be written on their uniform. “Not yet.”
 
-“Good place to be.”
-
-Her eyes moved to the relay pack.
-
-“Comms?”
+“Good place to be.” Her eyes moved to the relay pack. “Comms?”
 
 “Gone. Jammer. Probably centered on the main depot. It’s wiping everything from the east gate to the—”
 
-She was still smiling.
+Voeren was still smiling.
 
-Spade stared at her.
+Spade stared at her. “Why are you smiling?”
 
-“Why are you smiling?”
-
-“Because you’re alive.”
-
-She said it without hesitation, as though it were obvious.
-
-Then her gaze flicked toward the corridor.
-
-“And because there’s more of them.”
+“Because you’re alive.” She said it without hesitation, as though it were obvious. Then her gaze flicked toward the corridor. “And because there’s more of them.”
 
 Spade followed her eyes.
 
@@ -258,7 +245,7 @@ These were the men who had been punching through steel.
 
 “Don’t look at the mess,” Voeren said. “Look at the gear. Take what’s useful.”
 
-_Right._
+Right.
 
 A task. They could do a task.
 
@@ -274,11 +261,7 @@ Spade reseated the magazine, chambered a round, and put the pistol in their empt
 
 “Four rounds.” Their tongue felt thick. “That’s it.”
 
-“Then don’t waste them.”
-
-Voeren checked the corner. Rolled one shoulder. Stopped halfway through the movement.
-
-“The east-gate rally point’s a wash. Everybody’s dead or running. We’re going south.”
+“Then don’t waste them.” Voeren checked the corner, rolled one shoulder, and stopped halfway through the movement. “The east-gate rally point’s a wash. Everybody’s dead or running. We’re going south.”
 
 “Toward the canal?”
 
@@ -286,27 +269,15 @@ Voeren checked the corner. Rolled one shoulder. Stopped halfway through the move
 
 “Seven, eight hundred meters, if the signal’s behaving. I won’t know until I try.” Spade rubbed water and grit from their face. “If we can get out from under it, I can— Is your radio working?”
 
-“Took a round on the way in.”
+“Took a round on the way in.” Voeren tapped her chest rig. A cracked handset shifted in its mount, its screen black. “Eaten.”
 
-She tapped her chest rig. A cracked handset shifted in its mount, its screen black.
+Spade caught it before she could drop it. “I’ll hold onto this.”
 
-“Eaten.”
+Her eyebrow lifted. “You think you can fix it?”
 
-Spade caught it before she could drop it.
+“Maybe.” Spade turned it once in their hands. Cracked housing. Damaged display. Not necessarily a dead transceiver. “It’s all I have.”
 
-“I’ll hold onto this.”
-
-Her eyebrow lifted.
-
-“You think you can fix it?”
-
-“Maybe.”
-
-They turned it once in their hands. Cracked housing. Damaged display. Not necessarily a dead transceiver.
-
-“It’s all I have.”
-
-She watched them put it in their cargo pocket.
+Voeren watched them put it in their cargo pocket.
 
 “Stay on my left,” she said. “Watch the high ground. Anything you see that I don’t, you say it. You hear me?”
 
@@ -342,9 +313,9 @@ Voeren moved ahead in short, economical bursts. Spade stayed on her left, watchi
 
 A glint on a catwalk.
 
-“High, eleven—”
+“High, eleven—” Spade began.
 
-Her knife left her hand.
+Voeren’s knife left her hand.
 
 The man above them jerked back before he could bring his weapon to bear.
 
@@ -398,7 +369,7 @@ They wanted her to turn around again.
 
 _What is wrong with me?_
 
-“Spade! Left!”
+“Spade! Left!” Voeren shouted.
 
 They turned.
 
@@ -426,9 +397,9 @@ Her knees folded.
 
 She hit the concrete, the bent rifle clattering beneath its sling.
 
-“No.”
+“No,” Spade said.
 
-Spade fired.
+They fired.
 
 The rifleman jerked.
 
@@ -446,17 +417,11 @@ Their ears rang.
 
 _Two left._
 
-“No, no, no—”
+“No, no, no—” Spade was beside Voeren before they remembered crossing the floor.
 
-They were beside her before they remembered crossing the floor.
+She lay on her back, staring upward. Small tremors moved through her limbs. Blood ran from a burned opening below her left ribs and spread beneath the edge of her armor.
 
-Voeren lay on her back, staring upward. Small tremors moved through her limbs. Blood ran from a burned opening below her left ribs and spread beneath the edge of her armor.
-
-“Voeren.”
-
-Spade touched her shoulder.
-
-“Voeren, can you hear me?”
+“Voeren.” Spade touched her shoulder. “Voeren, can you hear me?”
 
 Her eyes moved.
 
@@ -464,11 +429,11 @@ Slowly.
 
 They found Spade’s face.
 
-Relief struck so hard they nearly laughed.
+Relief struck so hard Spade nearly laughed.
 
-Then her jaw clenched. She tried to speak, and a sound caught in her throat.
+Then Voeren’s jaw clenched. She tried to speak, and a sound caught in her throat.
 
-“Voeren?”
+“Voeren?!”
 
 _She’s dying._
 
@@ -600,7 +565,7 @@ They went back to Voeren.
 
 Her eyes were half closed. When Spade touched her cheek, her gaze shifted toward them.
 
-“I’m not going anywhere.”
+“I’m not going anywhere,” Spade said.
 
 They hadn’t planned to say it.
 
@@ -664,7 +629,7 @@ Spade dropped the pistol and ran for the ladder.
 
 The rungs were slick. Their boot skidded off one, and they caught themself hard enough to wrench their shoulder.
 
-Up.
+_Up._
 
 They hauled themself onto the gantry.
 
@@ -882,13 +847,7 @@ Spade’s mouth opened.
 
 No sound came out.
 
-“Look at you.”
-
-His voice was rough and wet.
-
-He knelt on their chest, and what little air they had managed to drag in left them again.
-
-“All that trouble. All that running.”
+“Look at you.” His voice was rough and wet. He knelt on their chest, and what little air Spade had managed to drag in left them again. “All that trouble. All that running.”
 
 Blood dripped from his wrist onto Spade’s cheek.
 
@@ -918,11 +877,7 @@ He blinked.
 
 Smiled.
 
-“But you made me chase you.”
-
-The pressure increased.
-
-“So I think I’ll take my time.”
+“But you made me chase you.” He increased the pressure. “So I think I’ll take my time.”
 
 Spade tried to turn their chin. To get an elbow between his arm and their chest. To find leverage, space, anything.
 
