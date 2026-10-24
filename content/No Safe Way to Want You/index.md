@@ -31,6 +31,8 @@
 
 - [[No Safe Way to Want You/Chapter 1 - Contact|Chapter 1: Contact]]
 - [[No Safe Way to Want You/Chapter 2 - Dead Weight|Chapter 2: Dead Weight]]
+- [[No Safe Way to Want You/Chapter 3 - The Harbor Master's Daughter|Chapter 3 - The Harbor Master's Daughter]]
+
 
 ---
 
