@@ -47,7 +47,7 @@ tags:
 
 > _Content note: Graphic violence, strangulation, and character death._
 
-Shit. I’m gonna die.
+*Shit. I’m gonna die.*
 
 That’s the clean version. The one I can stand to start with. No reel of my life, no sudden opinion about God, no speech about what any of it meant. Just me in the corner of a flooded pump house, empty carbine across my knees, and the small polite fact that I had run out of places to go.
 
@@ -67,9 +67,9 @@ Dust came down through the red emergency lamp and settled on the water.
 
 _They’re not even in a hurry._
 
-Of course they weren’t. One door. They had all night, and I had a rifle that was a very expensive stick.
+Shit. Of course they weren’t. One door. They had all night, and I had a rifle that was a very expensive stick.
 
-The bolt was locked back on an empty magazine. Fourth one since the east gate. I checked it anyway, thumb on the follower, as if ammunition might have grown while I was being pathetic.
+The bolt was locked back on an empty magazine. Fourth one since the east gate. I checked it anyway, thumb on the follower, as if the ammunition might have come back while I was being pathetic.
 
 Nothing.
 
@@ -77,19 +77,19 @@ Holster empty too.
 
 _Fuck._
 
-I’d thrown the pistol at a man’s face an hour ago. Not a plan. A plan would have been to keep the only weapon that still had a round in it. My hand had decided the argument was over and my arm had agreed, and the pistol had bounced off his jaw like I’d hit him with a moth. Great throw. Historic. I’d think about it at my funeral, which was apparently going to be a pump house.
+I’d thrown the pistol at a man’s face an hour ago. Not a plan. A plan would have been to keep the only weapon that still had a round in it. My hand had decided the argument was over and my arm had agreed, and the pistol had bounced off his jaw like I’d hit him with a moth. Great throw. *Fuckin historic*. I’d think about it at my funeral, which was apparently going to be a pump house.
 
 That was the first time the night split me in two. The part of me that counts magazines had said _don’t_. The other part had already let go.
 
 Knife behind my hip. One cracked plate. Field relay on its side with a hole through the casing, water licking the wires. My earpiece still hissed. I’d stopped hearing it as static a while ago. It was just there, dry and steady, under everything else. A dead net, still polite enough to make noise.
 
-Twenty-six hours ago I was Sergeant Ranelle Spade, Columbian Army Signals, available because the enhanced team’s actual comms specialist had a fever.
+Twenty-six hours ago, I was Sergeant Ranelle Spade, Columbian Army Signals, available because the enhanced team’s actual comms specialist had a fever. A damn *fever*.
 
 “You’re available,” the lieutenant had said.
 
 I nodded. That’s the job. You nod, and then the job is your life.
 
-I was angry even then. Not the kind of angry that gets you written up. The kind you can keep behind your teeth while you say _yes, sir_ and mean _I hate that good at this counts as volunteering_. I’d called it nothing for years. Nothing was safer. Nothing didn’t pick fights with lieutenants.
+I was angry even then. Not the kind of angry that gets you written up. The kind you can keep behind your teeth while you say _yes, sir_ and mean _I hate that "good at this" counts as volunteering_. I’d called it nothing for years. Nothing was safer. Nothing didn’t pick fights with lieutenants.
 
 “You’ll sit in the back. Keep the relay up. It’s a milk run.”
 
@@ -97,13 +97,13 @@ Eleven minutes. The relay got eleven minutes.
 
 I closed my eyes.
 
-East gate. Rail cars. Wet gravel. Reyes: “Contact, contact,” and then Reyes was gone out of the channel like someone had cut the wire in him. Chen laughed once. Startled. The laugh changed before it finished, and I still don’t know what I heard. I am not going to play it back if I can help it.
+East gate. Rail cars. Wet gravel. Reyes had yelled, “Contact, contact,” and then was gone out of the channel like someone had cut the wire in him. Chen laughed once. Startled. The laugh changed before it finished, and I still don’t know what I heard. I am not going to play it back if I can help it.
 
 Every channel died at the same instant. Not faded. Cut. I knew that sound the way other people know a door slam in their own house. Somebody had put a jammer on us and done it clean.
 
-Then running. Hiding. Trying the net again because trying the net was the one thing I was for. Different roof. Different wall. Same silence. My hands wanted a panel so badly I caught myself tracing imaginary controls on a brick wall. Stupid. Useful, if I’d had anything left to talk to.
+Then running. Hiding. Trying the net again because trying the net was the one thing I was good for. Different roof. Different wall. Same silence. My hands wanted a panel so badly I caught myself tracing imaginary controls on a brick wall. Stupid. Useful, if I’d had anything left to talk to.
 
-Every enhanced soldier on my team was dead, or somewhere I couldn’t see, which in that yard was the same courtesy. The people hunting me were not dead. They’d followed me through three buildings. The only reason I was still breathing was that a man who could punch through a wall still had to guess which wall.
+Every enhanced soldier on my team was dead, or somewhere I couldn’t see, which in that yard was the same courtesy. The people hunting me were **not** dead. They’d followed me through three buildings. The only reason I was still breathing was that a man who could punch through a wall still had to guess *which* wall.
 
 The door buckled.
 
@@ -111,7 +111,7 @@ Blue-white light opened along the edge. A work lamp swung in the corridor and dr
 
 I pressed farther into the corner.
 
-_I didn’t even want to be here._
+_Shit. SHIT. I didn’t even want to be here._
 
 Not the pump house. Not the raid. Not the army. Not the rank somebody waived into my hands because I was good at a job I hated, and good was apparently a kind of consent.
 
@@ -127,7 +127,7 @@ A laugh caught behind my teeth. Stupid. Late. Mine.
 
 _Of course I find out now._
 
-The body wanted to live. The body had not gotten the memo about how tired I was of the whole arrangement. My chest was doing that bright, animal thing, and all the polished nothing I’d practiced for years had nowhere to sit. I was furious at it. I was grateful to it. Both at once, which is a rotten way to spend your last minute.
+My body wanted to live. It had not gotten the memo about how tired I was of the whole arrangement. My chest was doing that bright, animal thing, and all the polished nothing I’d practiced for years had nowhere to sit. I was furious at it. I was grateful to it. Both at once, which is a rotten way to spend your last minute.
 
 Something hit the door.
 
@@ -167,7 +167,7 @@ One sleeve torn open over a long cut in her forearm. A scorched strip of plate c
 
 Knife loose at her side.
 
-Staff Sergeant Aeirith Voeren looked at me.
+*Staff Sergeant Aeirith Voeren*. It was really her. Here. As I was about to die.
 
 Then she grinned.
 
@@ -185,7 +185,7 @@ My eyes did not start with the facts. They caught on her chest moving, the torn 
 
 _She’s… the most beautiful thing I’ve ever seen._
 
-Wrong time. Wrong room. Wrong everything. The thought didn’t care. It had been waiting in stairwells and chow lines for eight months, and a woman folding a steel door in half was apparently the permission slip.
+Nope. Not now. Wrong time. Wrong room. Wrong everything. The thought didn’t care. It had been waiting in stairwells and chow lines for eight months, and a woman folding a *steel door* in half was apparently the permission slip.
 
 I knew her the way you know someone you’ve tried not to stare at. Which is to say: too well, and not at all.
 
@@ -195,7 +195,7 @@ Chow line. Arms room. A stairwell where I’d put my back to the wall so she cou
 
 Her laugh carried in the mess. She usually ate alone. I had noticed that too, and then I had told myself enhanced soldiers preferred their own company, or each other’s. Cleaner than the other thought, which was that I wanted to sit there and didn’t have a single excuse that wouldn’t sound like I’d lost my mind.
 
-People like her moved through a different army. I saw it from the edge. I fixed what they broke. I did not get looked at like this.
+People like her moved through a different army. I saw it from the edge. I fixed what they broke. I did not get looked at like, well, *this*.
 
 She had never said my name before.
 
@@ -207,7 +207,7 @@ I hadn’t known she knew it. That landed somewhere under my ribs and stayed the
 
 She stepped over the broken door and took my forearm. Firm. Then my fingers locked around her wrist on their own, and she adjusted. Not a flinch. A correction, like she’d felt the panic and decided not to make it worse.
 
-_She felt that. Great. Add it to the list of things I will be thinking about if I live._
+_She felt that. Great. Fuck. Add it to the list of things I will be thinking about if I live._
 
 She pulled me up.
 
@@ -307,7 +307,7 @@ A corporate sign hung crooked over the service road.
 
 COVERAGE IS A PRIVILEGE.
 
-Somebody had painted out the second word. Funny. I’d think it was funny tomorrow, if tomorrow was a thing I got. The anger under the joke was older than the raid. Coverage, rank, a seat in the back of somebody else’s mission. Privilege, if you were the kind of person the yard had been built to serve. I was the kind of person who kept their signal up until it didn’t.
+Somebody had painted out the second word. Funny. Maybe I’d think it was funny tomorrow, if tomorrow was a thing I got. The anger under the joke was older than the raid. Coverage, rank, a seat in the back of somebody else’s mission. Privilege, if you were the kind of person the yard had been built to serve. I was the kind of person who kept their signal up until it didn’t.
 
 I took the yard in pieces. Yellow handrail. Oil on a puddle. A bootprint in wet salt. Looking at the whole place was how you missed the doorway with the rifle in it.
 
@@ -331,7 +331,7 @@ She was already moving.
 
 I went with her. Not because I was brave. Because she had told me left, and left was a direction, and directions were easier than the rest of it. The counting part of me wanted a sector sketch. The other part just wanted to stay where she had put me.
 
-A shape between containers. I called it. She turned before I finished the sentence and took us through a gap, wall on one side, broken pumps on the other. She used my voice like it was part of her kit. I felt that in my chest and told it to wait its turn. It did not wait. It sat there, warm and humiliating, while I checked the next corner.
+A shape between containers. I called it. She turned before I finished the sentence and took us through a gap, wall on one side, broken pumps on the other. She used my voice like it was part of her kit. I felt that in my chest and told it to wait its turn. It did not. It sat there, warm and humiliating, while I checked the next corner.
 
 Loading bay.
 
@@ -351,7 +351,7 @@ Nothing wild about it.
 
 That was the problem. That was the thing I couldn’t stop watching.
 
-Feet. Hips. How little she wasted, even when she hit someone hard enough to take him off the floor. I knew competence. I was competence, on a good day, with a panel in front of me. This was competence that looked like it liked itself. I am not inside her head. I can only tell you what I saw, and what I saw made my hands useless at my sides.
+Feet. Hips. How little she wasted, even when she hit someone hard enough to take him off the floor. I knew competence. I was competence, on a good day, with a panel in front of me. This was competence that looked like it liked itself. 
 
 The first man came back.
 
@@ -363,7 +363,7 @@ Voeren turned. Blood on her teeth.
 
 _She likes this._
 
-That was the thought. I don’t know if it was fair. I know I believed it, standing there with a pistol I was afraid to waste, watching her breathe like the fight had fed her.
+I don’t know if it was fair. I know I believed it, standing there with a pistol I was afraid to waste, watching her breathe like the fight had fed her.
 
 I hated violence. The army had not fixed that. It had only taught me to keep moving while I hated it. My face stayed quiet. Inside, I wanted the bay to stop being a bay. I also wanted her to turn around again. Those two wants did not speak to each other. They just occupied me.
 
@@ -419,7 +419,7 @@ _Two._
 
 My ears were a high, thin room.
 
-_Two left. You had four. You have two. Do not spend them on a corpse because you are angry._
+_Two left. You had four. You have two. Don't spend them on a corpse._
 
 I was angry. It sat in my jaw hard enough to ache. I did not spend the rounds. That was the logical part winning a small, late argument.
 
@@ -437,7 +437,7 @@ Slow.
 
 They found my face.
 
-Relief hit so hard I almost laughed. She was in there. Staff Sergeant Aeirith Voeren, who ate alone, who had said my name like it was easy, was still in there looking at me. I don’t know what the look cost her. I only know she managed it, and that I would have stayed on that concrete for the look alone, which was not a tactical assessment. It was the other thing. The thing I didn’t have a word for yet, except _don’t go_.
+Relief hit so hard I almost laughed. She was in there. Staff Sergeant Voeren, who ate alone, who had said my name like it was easy, was still in there looking at me. I don’t know what the look cost her. I only know she managed it, and that I would have stayed on that concrete for the look alone, which was not a tactical assessment. It was the other thing. The thing I didn’t have a word for yet, except _don’t go_.
 
 Then her jaw locked. She tried to speak. The sound died in her throat.
 
@@ -449,7 +449,7 @@ I didn’t know that. I knew the wound, the tremor, the blood finding the low pl
 
 _Do something._
 
-_Do something. You are the comms sergeant. You are not allowed to just kneel here and feel this._
+_Do something! You are the comms sergeant. You are not allowed to just kneel here and feel this._
 
 Boots beyond the doors.
 
@@ -473,7 +473,7 @@ Her fingers twitched beside my knee.
 
 No.
 
-I didn’t decide it in a speech. The logical voice offered me a life, and I put the pistol away, got both hands in the collar of her armor, and pulled. The split was clean this time. Thought: _hatch, now, alone, alive._ Body: already committed, already stupid, already hers in a way I had not agreed to out loud.
+I didn’t decide it in a speech. I put the pistol away, got both hands in the collar of her armor, and pulled. The split was clean this time. _Hatch, now, alone, alive. GO._ But my body didn't listen: already committed, already stupid. There was no way I could leave her.
 
 If I lived, I was going to have to admit I’d chosen her over the exit. If I died, at least I wouldn’t die as the person who left her on the floor after she tore a door off to get to me.
 
@@ -499,7 +499,7 @@ Her boot heel scraped a seam in the concrete. A small, ugly victory. I took it.
 
 One of them spoke. Closer.
 
-I backed through the crib door and pulled until her shoulders cleared it. Got her behind the shelves. Lowered her head, because slamming Staff Sergeant Voeren’s skull into a parts bin felt like a line I could still refuse to cross. My arms shook the whole way down.
+I backed through the crib door and pulled until her shoulders cleared it. Got her behind the shelves. Lowered her head, because slamming Voeren’s skull into a parts bin felt like a line I could still refuse to cross. My arms shook the whole way down.
 
 Her chest moved.
 
@@ -519,7 +519,7 @@ FIRE ALARM.
 
 _Wired._
 
-The want hit before the plan did. A live panel. Labels. A system somebody had left alone because it still worked. My head went quiet in the way it only goes quiet for this, and under the quiet was something almost happy, which I hated myself for with a clarity I did not have time to use.
+The want hit before the plan did. A live panel. Labels. A system somebody had left alone because it still worked. My head went quiet in the way it only goes quiet for this, and under it was something almost happy, which I hated myself for with a clarity I did not have time to use.
 
 The cover came off in my hand. Dust. Warm insulation. Old labels, the kind of system nobody upgrades because it still works and nobody important walks through this bay.
 
@@ -565,7 +565,7 @@ I hadn’t planned the sentence either. It came out anyway, too honest for a loa
 
 “Just stay with me. I’ll be right back.”
 
-Her fingers moved on the floor. Not a grip. I was going to take it as an answer. I needed an answer, so I made one. If that’s a lie I told myself, it’s one I’m still willing to keep.
+Her fingers moved on the floor. Not a grip. I took it as an answer. I needed an answer, so I made one. If that’s a lie I told myself, it’s one I’m still willing to keep.
 
 Pistol out.
 
@@ -585,7 +585,7 @@ He staggered into the mesh, and the sound he made was almost surprise, like the 
 
 Then he turned.
 
-His hand came out. Enhanced, or close enough that the difference didn’t matter to my bones. I didn’t know which. I knew the hand was faster than mine and heavier than the argument I had left.
+His hand came out. Enhanced, or close enough that the difference didn’t matter to my bones. I didn’t know which. I knew the hand was faster than mine, and certainly far heavier.
 
 I ducked it and fired the last round.
 
@@ -599,7 +599,7 @@ I needed that to be a rule. I said it like a rule. My finger tightened on nothin
 
 _Empty. You knew it was empty. Say it again until you believe it._
 
-Footsteps hammered back from the east wing. The horn had bought me a minute, not a miracle. A man shouted a name. Once. Again. His friend’s name, probably. I had just made him grief and a problem, and the small mean part of me was glad, and the rest of me did not have time to be decent about it.
+Footsteps hammered back from the east wing. The horn had bought me a minute, not a miracle. A man shouted a name. Once. Again. His friend’s name, probably. I had just made him grieve, and the small mean part of me was glad. The rest of me did not have time to be decent about it.
 
 I dropped the pistol. Dead weight. Ran for the ladder.
 
@@ -615,7 +615,7 @@ I looked down.
 
 The second man had reached the crib. He stopped by his friend. Saw the blood. Then he looked up, and looking up was the first smart thing either of them had done in my presence.
 
-I flattened behind the hoist cab. Hand on the release. I pulled, testing. It resisted. Of course it resisted. Nothing in this yard wanted to help me except, apparently, Aeirith Voeren, who was on the floor because I had seen the rifle a half-second late.
+I flattened behind the hoist cab. Hand on the release. I pulled, testing. It resisted. Of course it resisted. Nothing in this yard wanted to help me except, apparently, Voeren, who was on the floor because I had seen the rifle a half-second late.
 
 He shouted again.
 
@@ -677,9 +677,9 @@ _He’s dead._
 
 I stepped back.
 
-_I watched him die._
+_I watched him die. _
 
-I had been certain. Certainty was another thing the night was taking off me at a discount. The anger that came with it was at myself first. At the rule I’d needed. At the empty pistol. At the part of me that had felt clever on a gantry while he was still alive enough to climb.
+I had been certain. Certainty was another thing that was choosing to fuck me over today. The anger that came with it was at myself first. At the rule I’d needed. At the empty pistol. At the part of me that had felt clever on a gantry while he was still alive enough to climb.
 
 He got onto the platform and stood. Free hand to his belt. Knife.
 
@@ -713,15 +713,13 @@ He lurched. One boot slipped. For an instant his weight went past the rail, and 
 
 _Yes—_
 
-The knife hit steel.
-
-His hand closed on my ankle.
+His knife hit steel. But his hand closed on my ankle.
 
 My stomach went first.
 
 Then the rest of me.
 
-Shoulder clipped a ladder. Metal flashed past my face. Something caught my vest and tore free, and I didn’t have time to know what I’d lost. The radio, maybe. The knife. I didn’t get to check. The not-knowing made me angrier than the fall, which is a ridiculous sentence, and also true.
+Shoulder clipped a ladder. Metal flashed past my face. Something caught my vest and tore free, and I didn’t have time to know what I’d lost. The radio, maybe. The knife. I didn’t get to check. The not-knowing made me angrier than the fall, which ridiculous, and also true.
 
 Salt sacks. I hit them hard enough to burst them. Dust in my mouth, in my eyes, stupid and white.
 
@@ -759,7 +757,7 @@ He caught the front of my vest and lifted.
 
 For one absurd second the pain eased. Being off the floor felt like mercy. I knew better. I knew better, and I was still grateful for the second.
 
-He slammed me down.
+He slammed me down, cruelly, yet inevitable.
 
 Something flared across my lower back. My mouth opened. No sound. The sound was busy being pain.
 
@@ -767,15 +765,15 @@ Something flared across my lower back. My mouth opened. No sound. The sound was 
 
 Blood from his wrist tapped my cheek. Warm. I was going to be thinking about that drop if I got a later.
 
-“For a little tech rat.”
+“All that for a little tech rat.”
 
-The words found the old anger and fed it. Available. Sit in the back. Fix what they break. I would have laughed if I’d had the air. My face didn’t change. I don’t think it changed. Everything I had left was in my hands.
+The words found the old anger and fed it. *"Available". "Sit in the back". "Fix what they break".* I would have laughed if I’d had the air. My face didn’t change. I don’t think it changed. Everything I had left was in my hands.
 
 His hand closed on my throat.
 
 I caught his wrist with both hands and pulled. Nothing. I might as well have been pulling on a pipe. Heel against the floor. Knee screaming. His weight didn’t negotiate.
 
-He watched me work. Interested. I hated him for having the spare attention. I hated him for the name. I hated him for being alive after I had done the clever thing. None of that moved his wrist.
+He watched me work. Interested. I hated him for having the spare attention. I hated him for being alive after I had done the clever thing. I hated myself for betraying my own logic. None of that moved his wrist.
 
 Then his fingers tightened.
 
@@ -789,7 +787,7 @@ I tried to turn my chin. Tried to get an elbow between his arm and my chest. Lev
 
 _I can’t breathe._
 
-I kicked. My boot scraped concrete and accomplished biography, not escape.
+I kicked. My boot scraped concrete and accomplished nothing. 
 
 Strobe.
 
@@ -799,15 +797,17 @@ Gone.
 
 His face.
 
-Voeren.
+*Voeren*.
 
 I couldn’t turn far enough to see the crib. I couldn’t hear her. I couldn’t hear anything but the pulse in my skull, huge and stupid and desperate to keep being a pulse. She was ten meters and a set of shelves away, and she might already have been gone, and I had told her I wasn’t going anywhere. The sentence was still in my mouth with no air under it. Impulsive. Too large. Mine.
+
+*Voeren. Sorry.* 
 
 My fingers slipped.
 
 _I’m so weak._
 
-It landed with a bitter, total certainty. No room left for the alarm panel. The hoist. The four rounds. The door she had torn open. I had done all of that, and I was still a person under a knee, ordinary, unenhanced, out of tricks.
+It landed with a bitter, total certainty. No room left for the alarm panel. The hoist. The four rounds. The door she had torn open. I had done all of that, and I was still a person under a knee, completely ordinary, unenhanced, out of tricks.
 
 _Not enough._
 
@@ -817,4 +817,4 @@ _Damn it._
 
 The edges of the bay went dark.
 
-_Damn all of it. I didn’t even get to—_
+_Damn it all. I didn’t even get to—_

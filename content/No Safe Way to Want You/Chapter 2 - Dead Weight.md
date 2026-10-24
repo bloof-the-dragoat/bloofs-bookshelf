@@ -58,7 +58,15 @@ tags:
 
 > _Content note: Graphic violence, strangulation aftermath, injury and blood._
 
-The pressure vanished.
+Darkness.
+
+Nothingness.
+
+***Death.***
+
+
+
+Then, the pressure vanished.
 
 For a second I couldn’t understand why. The hand was still around my throat. The man was still above me. My body had already started the work of dying, and dying does not like being interrupted. It keeps going for a moment out of spite.
 
@@ -70,9 +78,11 @@ His face went slack. A wet, startled grunt escaped him, followed by a crack so s
 
 He fell sideways and struck the concrete beside me.
 
-Blood spattered my cheek.
+Blood spattered my cheek. 
 
-Voeren stood behind him.
+She stood behind him.
+
+*Voeren—*
 
 Swaying.
 
@@ -90,7 +100,7 @@ She was looking at me.
 
 Then, somehow, she smiled.
 
-Not the grin from the pump house. This one was small and exhausted, and I could have stared at it for the rest of my life. I looked at her collarbone instead, because my face was doing something I did not want her to inventory.
+Not the grin from the pump house. This one was small and exhausted, and I could have stared at it for the rest of my life. I looked at her collarbone instead, because my face was doing something I did not want her to remember.
 
 “Hey.” Her voice shook. “You okay?”
 
@@ -102,7 +112,7 @@ I tried to answer. A cough came first.
 
 She lowered herself onto one knee with the care of someone negotiating a bad landing. Her hand went to her flank.
 
-The bleeding had slowed, though her shirt was soaked. Along the burned edges of the wound, the tissue looked raw and wet, already trying to close in a way ordinary wounds do not. I am not a medic. I can only tell you what I saw, and what I saw made my stomach drop and my chest go stupid-warm at the same time. Her fingers trembled against it. She didn’t offer me the tremble. I took it anyway.
+The bleeding had slowed, though her shirt was soaked. Along the burned edges of the wound, the tissue looked raw and wet, already trying to close in a way ordinary wounds do not. I am not a medic. I can only tell you what I saw, and what I saw made my stomach drop and my chest go stupidly warm at the same time. Her fingers trembled against it. She didn’t offer me the tremble. I took it anyway.
 
 “You put my shooter down,” she murmured. “And dropped half the depot on his friend.”
 
@@ -222,7 +232,9 @@ I grabbed her shoulder.
 
 Every useful thought left my head.
 
-The woman I had spent eight months trying not to stare at was holding me against her.
+The woman I had spent eight months trying not to stare at was holding me against her. 
+
+*The great Staff Sergeant Voeren is holding me in her arms.*
 
 That was the situation.
 
@@ -234,7 +246,7 @@ My hand tightened against the back of her shirt.
 
 _Oh, no. Oh god._
 
-Not hollow. Not logical. If the flat had been going to save me from this, it would have started already. It had not started. I was furious at my own pulse for treating a carry as a personal event. I was also not letting go.
+Not hollow. Not logical.  I was furious at my own pulse for treating a carry as a personal event. I was also not letting go.
 
 “Comfortable?” Voeren asked.
 
@@ -244,7 +256,7 @@ She glanced down, and the corner of her mouth moved.
 
 “You’re blushing.”
 
-“I’m not.”
+“I am not.”
 
 “Really?”
 
@@ -253,6 +265,8 @@ I inspected a dead light fitting above the doorway with desperate concentration.
 “You’re blushing pretty hard.”
 
 “Can we please move?”
+
+*Please.*
 
 Her laugh was quieter this time. I felt it under my palm, and the feeling went straight to the part of me that does not take orders from the part that counts exits.
 
@@ -284,7 +298,7 @@ After the pump house and the rifle and the man kneeling on my chest, there was t
 
 I had wanted, for months, for someone to actually see me. This was not that. This was weight and blood and a woman who might fall if I asked the wrong thing.
 
-It still felt like a light had been set down in the middle of the yard. I hated the metaphor while I was having it. I kept it anyway.
+It still felt like a light had been set down in the middle of the night. I hated the metaphor while I was having it. I kept it anyway.
 
 Then her next step landed late.
 
@@ -330,7 +344,7 @@ Her grip tightened.
 
 Then her knee folded.
 
-I felt her twist, arms drawing me closer as she tried to control the fall. For an instant my face pressed against her shoulder. I wanted to stay there, which is an insane want to have while the ground is coming up. I had it anyway.
+I felt her twist, arms drawing me closer as she tried to control the fall. For an instant my face pressed against her shoulder. I wanted to stay there, which is an insane want to have while the ground is coming up. I had it anyway. Don't judge me. It was a bad day.
 
 Then her hold failed.
 
@@ -448,7 +462,9 @@ The light returned.
 
 Stayed.
 
-I stared at it, afraid to trust something so small. My chest did the animal brightness anyway. Alive. The net might be alive. If the net was alive, she had a chance that did not depend on my knee.
+I stared at it, afraid to trust something so small. 
+
+Alive. The net might be alive. If the net was alive, she had a chance that did not depend on my knee.
 
 Then I keyed the handset. My voice came out flat, exact, the lift gone. Better for a net. Worse as a person.
 
@@ -504,7 +520,7 @@ Water lapped against the canal wall. Somewhere behind me, loose fabric stirred i
 
 My voice cracked.
 
-There she was again, even unconscious. A fact that would not stay a fact.
+There she was again, even unconscious. A fact that would not stay that way.
 
 I stopped. Swallowed against the pain.
 
@@ -578,7 +594,7 @@ At the blood spreading through her dressing.
 
 “Five hundred meters. Follow the canal wall. Blue light on the pier.”
 
-Of course.
+*Of course.*
 
 Of course it couldn’t be here.
 
@@ -628,7 +644,7 @@ I spread the sheet beside her and started moving.
 
 It took nearly six minutes to get her onto it.
 
-I worked in small increments, stopping when my back locked or my knee threatened to fold. Checked the dressing. Checked her face. Apologized when her shoulder struck the bricks, though she gave no sign of hearing. The apology was not procedure. Procedure would have saved the breath. I spent it anyway, because the night had already taught me that the logical voice could win the argument and still lose the hands.
+I worked in small increments, stopping when my back locked or my knee threatened to fold. Checked the dressing. Checked her face. Apologized when her shoulder struck the bricks, though she gave no sign of hearing. The apology was not rational. Being rational would have saved the breath. I spent it anyway, because the night had already taught me that the logical voice could win the argument and still lose the hands.
 
 At last she lay on the sheet.
 
@@ -704,7 +720,7 @@ I had watched it tear a door aside.
 
 Then it had settled on my shoulder, gentle enough to make me forget where I was.
 
-_Thank you._
+_"Thank you."_
 
 My face warmed.
 
