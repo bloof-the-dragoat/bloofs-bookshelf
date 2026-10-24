@@ -54,145 +54,154 @@ tags:
   - dark-romance
   - extraction
 ---
-## Chapter 2 — Dead Weight
+# Chapter 2 — Dead Weight
 
-> _Content note: Graphic violence, strangulation aftermath, injury and blood._
+> [!warning] Content note
+> Graphic violence, strangulation aftermath, injury, and blood.
 
-Darkness.
+The pressure eased.
 
-Nothingness.
+Not enough. His hand was still around my throat, his knee still on my chest. I pulled at his wrist.
 
-***Death.***
+His fingers opened.
 
+I tried to breathe. Something caught in my throat, and the breath came apart.
 
+Above me, his mouth opened. A wet grunt. Then a crack so sharp I felt it in my teeth.
 
-Then, the pressure vanished.
+His head turned farther than it should.
 
-For a second I couldn’t understand why. The hand was still around my throat. The man was still above me. My body had already started the work of dying, and dying does not like being interrupted. It keeps going for a moment out of spite.
+He fell sideways, dragging his knee off my ribs, and struck the concrete beside me.
 
-Then his fingers opened.
+Voeren stood behind him.
 
-Air scraped into my lungs.
+Then she swayed.
 
-His face went slack. A wet, startled grunt escaped him, followed by a crack so sharp I felt it in my teeth. His head turned farther than a head should turn.
+I reached for her before I remembered I couldn’t get up.
 
-He fell sideways and struck the concrete beside me.
+Air scraped into my lungs. I coughed, tried again, coughed harder. My throat hurt all the way down. Each breath felt too small, but I wanted the next one before I had finished the last.
 
-Blood spattered my cheek. 
-
-She stood behind him.
-
-*Voeren—*
-
-Swaying.
-
-I dragged in another breath and coughed until my ribs hurt. My throat seemed determined to close around every scrap of air I managed to get through it. I wanted the next breath anyway. I wanted it badly enough to hate how much it hurt.
-
-A minute ago the dark had been simple. No future in it. No rank, no failed jobs, no ordinary life I was never going to reach. Just the end of the chase.
-
-I had been wrong about that too.
-
-Her left arm hung stiff against her side. A muscle jumped in her jaw. Under the blood and grime her face had gone a color I didn’t want to name. Ashen. Wrong. The strobe kept finding her and losing her, and every time it found her I was afraid the next dark would be the one she didn’t come back from.
+Voeren’s left arm hung close against her side. Her jaw tightened. In the strobe light, I could see blood down her shirt and the effort it took her to stay upright.
 
 But she was upright.
 
-She was looking at me.
+Looking at me.
 
-Then, somehow, she smiled.
+Her mouth lifted.
 
-Not the grin from the pump house. This one was small and exhausted, and I could have stared at it for the rest of my life. I looked at her collarbone instead, because my face was doing something I did not want her to remember.
+Not the grin from the pump house. Barely a smile at all.
+
+I looked down too late.
 
 “Hey.” Her voice shook. “You okay?”
 
-I tried to answer. A cough came first.
+I had been about to ask her the same thing.
 
-“I’m—” Swallowing hurt. I tried again. “I’m alive.”
+“I’m—”
+
+A cough bent me forward. My back caught, and I stopped halfway.
+
+Voeren lowered herself beside me.
+
+“I’m alive,” I managed.
 
 “Good.”
 
-She lowered herself onto one knee with the care of someone negotiating a bad landing. Her hand went to her flank.
+She braced a hand against the floor. The other went to her flank.
 
-The bleeding had slowed, though her shirt was soaked. Along the burned edges of the wound, the tissue looked raw and wet, already trying to close in a way ordinary wounds do not. I am not a medic. I can only tell you what I saw, and what I saw made my stomach drop and my chest go stupidly warm at the same time. Her fingers trembled against it. She didn’t offer me the tremble. I took it anyway.
+Her shirt was soaked. At the burned edges of the wound, the tissue looked raw and wet, drawn closer together than I remembered. I couldn’t tell what that meant for whatever was damaged underneath.
 
-“You put my shooter down,” she murmured. “And dropped half the depot on his friend.”
+Her fingers trembled against it.
 
-A laugh caught in my throat and turned into something painful. “You saw that?”
+“You put my shooter down,” she said. “Dropped half the depot on his friend.”
 
-“Heard enough.” Her mouth tipped at one corner. “Horn. Chain. A lot of screaming. Put it together.”
+“You saw that?”
 
-A minute ago I had been certain she would never speak again.
+“Heard enough.” One corner of her mouth moved. “Horn. Chain. Lot of screaming.”
 
-Now she was kneeling beside me, making jokes.
+A laugh scraped out of me and became another cough.
 
-I didn’t know whether to laugh or be sick. Both wanted the same air.
+“Careful,” she murmured.
 
-“Most people can’t think with somebody trying to kill them,” Voeren said. “You can.”
+I pressed a hand against my ribs.
 
-I opened my mouth, then closed it.
+A minute ago I had thought I would never hear her speak again. Now she was beside me, making jokes badly enough that I wanted her to keep doing it.
 
-Praise sits wrong when it’s about the part of me that works after everything else has gone quiet. I almost said it wasn’t like that. I almost apologized for needing her to finish what I couldn’t. The logical reply was a sitrep. Knee, back, two hostiles down, jammer still up, move. What came out was nothing. My ears were hot. My hands were on the concrete like the concrete might issue an order.
+“Most people can’t think with somebody trying to kill them,” she said. “You can.”
 
-Anything I might have said felt embarrassingly small beside the way she was looking at me.
+I looked at the man beside my leg.
 
-Her gaze moved toward the tool crib.
+I could still feel his hand.
 
-“There was a hatch. I saw it before I went down.”
+Voeren followed my glance, then looked toward the doorway.
 
-I looked at the floor. The alarm was still sounding. With every pulse of the strobes, the dead man’s boots appeared beside my leg.
+“We need to move.”
+
+“Yeah.”
+
+I drew my left foot closer. Pain caught behind the knee and ran up my thigh.
+
+The foot stopped where it was.
+
+Her gaze shifted toward the tool crib.
+
+“There was a hatch,” she said. “Saw it before I went down.”
+
+I kept looking at my boot.
 
 “You could’ve left.”
 
-I wiped a hand across my mouth. Someone else’s blood came away on my fingers.
+The alarm filled the space between us.
 
-“You stayed,” she said, more quietly.
+I wiped my mouth. Blood came away on my fingers.
 
-Something tightened under my ribs.
-
-People say things like that and then move on. _It’ll be fine. You worry too much._ This didn’t sound like that. She had heard the horn and the chain and still come back to the part where I had not gone through the hatch.
-
-The clean answer was tactical. _You were the asset. I was the comms sergeant. Leaving you was a bad trade._ I knew how to say that. I had said versions of it my whole career, usually about equipment.
+“You stayed.”
 
 “I just—” Swallowing hurt. “Didn’t want you to die.”
 
-There it was again. The split. Thought: _make it smaller._ Mouth: already gone.
+I hadn’t meant to say it like that.
 
-Voeren watched me for a moment. Then her hand settled on my shoulder, careful and warm through the uniform.
+There were other answers. Better ones. Things about the mission and not abandoning personnel and her being the person we needed to get out.
+
+None of them arrived in time.
+
+Her hand settled on my shoulder.
+
+I looked up.
 
 “I know.” Her fingers pressed once. “Thank you.”
 
-I nodded at the concrete.
+I nodded.
 
-Orders would have been easier. A question. Something broken that needed fixing.
+Then nodded again, because apparently that was all I had.
 
-Anything but this.
+*Get up. You can feel strange about this somewhere else.*
 
-_Get it together. You’re still on the floor._
-
-My knee throbbed. My back hurt. I didn’t know who else might come through those doors. She might have known. I didn’t ask, because asking meant looking up, and looking up meant her hand was still there.
-
-_Think about the doors. Not her hand._
-
-The hand stayed anyway. Warm. Specific. Not safety. I knew better than to call it that, and my body tried to anyway. I was angry at the trying. I was also leaning into the grip like a person who had decided, without a meeting, to be held.
-
-I pushed myself upright.
+I braced my good hand against the concrete and pushed.
 
 The room tilted.
 
-Her grip tightened until the floor settled under me again. I drew my left foot closer and tested the knee, keeping most of my weight on the other leg.
+Voeren’s grip tightened. I stopped moving until the shelving settled back where it belonged.
+
+“Knee,” I said. “Back. I can walk, but—”
+
+“How well?”
+
+I tested the left leg with most of my weight still on the right.
 
 It held.
 
-That was all I knew. It held, and it hurt, and I couldn’t afford a more complicated answer yet.
+I wished it hadn’t hurt quite so much proving it.
 
-“Knee’s twisted. Back’s bad.” I paused for a breath. The sergeant voice showed up because the other one was busy being grateful, and grateful was not a plan. “I can walk. Barely.”
+“Barely.”
 
-My eyes found the southern doorway.
+Her eyes moved down to my knee.
 
-“The canal. We might get a better signal there. If we cross the rail bridge by the old pump station, the jammer’s null should thin, and if your handset can still—”
+“The canal,” I said. “We might get a better signal there. Cross the rail bridge by the old pump station, get farther from the jammer—”
 
-Voeren was watching my face instead of the route.
+She looked back at my face.
 
-I lost the rest of the sentence. The map had been a gift I was about to hand her with both hands, and she was not looking at the gift.
+I lost the sentence.
 
 “What?”
 
@@ -202,107 +211,107 @@ I lost the rest of the sentence. The map had been a gift I was about to hand her
 
 “Planning.”
 
-I glanced toward the doorway. Safer than her mouth. “Someone has to.”
+I glanced toward the southern doorway. “Someone has to.”
 
-“Yeah.” The amusement softened around her eyes. I saw that and then wished I hadn’t, because once I had seen it I couldn’t put it down. “Someone does.”
+“Yeah,” she said. “Someone does.”
 
-My face warmed.
+There was no joke in it this time.
 
-“It’s just—”
+My ears warmed. *You idiot.*
 
-“It’s not just anything.”
+“The handset might still work,” I added, although neither of us had asked me to continue.
 
-I had no answer that wouldn’t sound like I was asking her to keep looking at me. So I didn’t answer. Blank face. Hot ears. A whole career of that.
+Voeren pushed herself upright. Halfway up, she caught the pillar.
 
-She pushed herself upright, swayed, and caught a pillar. She stayed there for a beat, fingers spread against the concrete, before letting go.
+I watched her fingers spread against the concrete.
 
-“Come on. We’re moving.”
+“Your side—”
 
-I braced a hand against the shelving. “I can walk—”
+“Come on.”
 
-“Sure you can.”
+She let go of the pillar.
 
-She bent before I could explain, slid one arm beneath my knees and the other behind my back, and lifted.
+I reached for the shelving. “I can walk.”
 
-I grabbed her shoulder.
+“You said barely.”
+
+She bent, slid one arm beneath my knees and the other behind my back, and lifted.
+
+My hand closed on her shoulder.
 
 “What—Voeren!”
 
-“You said barely.” She settled me against her chest. “Barely’s not fast enough.”
+“Barely’s not fast enough.”
 
-Every useful thought left my head.
+My back seized. I sucked a breath through my teeth, and she adjusted her hold. A stupid, painful little moan escaped me. At least I think it was just pain. I think. 
 
-The woman I had spent eight months trying not to stare at was holding me against her. 
+*Shut up.* 
 
-*The great Staff Sergeant Voeren is holding me in her arms.*
+“Better?”
 
-That was the situation.
+I nodded against her shoulder.
 
-Apparently this was something I now had to survive as well.
+It took me another second to understand where I was.
 
-She was warm through the damp uniform and the bulk of my vest. Her forearm shifted beneath my knees, scarred where my own arm, under the sleeve, was only ink. A torn edge of cloth brushed my wrist. My cheek hovered close enough to her shoulder that I could smell gun oil, sweat, blood, and something clean beneath all of it. I do not know what the clean thing was. I have thought about it more than is decent.
+Eight months of trying not to stare at this woman, and now I was against her chest with a hand twisted in her shirt.
 
-My hand tightened against the back of her shirt.
+“Comfortable?” she asked.
 
-_Oh, no. Oh god._
+“Fine.”
 
-Not hollow. Not logical.  I was furious at my own pulse for treating a carry as a personal event. I was also not letting go.
+She glanced down.
 
-“Comfortable?” Voeren asked.
+I looked at the light fitting above the doorway.
 
-“Fine,” I croaked.
-
-She glanced down, and the corner of her mouth moved.
+Broken. Unremarkable. An excellent thing to look at.
 
 “You’re blushing.”
 
-“I am not.”
-
-“Really?”
-
-I inspected a dead light fitting above the doorway with desperate concentration. The fitting was a good fitting. It had never embarrassed anyone. I respected it.
-
-“You’re blushing pretty hard.”
+*Oh god.*
 
 “Can we please move?”
 
-*Please.*
+Her laugh was quiet. I felt it beneath my palm.
 
-Her laugh was quieter this time. I felt it under my palm, and the feeling went straight to the part of me that does not take orders from the part that counts exits.
+“Yeah,” she said. “We can move.”
 
-“It’s cute.”
+She turned through the doorway.
 
-I shut my eyes.
+The first few strides jarred my back badly enough to clear my head. I clenched my teeth and tried not to shift in her arms.
 
-_Absolutely not. We are not doing this right now._
+Pipes passed overhead. Her shoulder cleared a narrow gap with very little room to spare.
 
-Then she started running.
+Water splashed under her boots.
 
-Each footfall travelled through her arms into my back. I clenched my teeth and tried to make myself easier to carry, though I had no idea how to do that without moving something that hurt. The logical objection was still available. _Put me down. Your flank is open. I said I could walk._ I did not spend it. My hand had found the back of her neck, and moving it would have required a courage I was using to stay quiet.
+I looked back.
 
-She turned her shoulders to clear a narrow passage. Pipes slid past overhead. Water splashed under her boots.
-
-Behind us, the loading-bay alarm grew faint.
-
-The rail bridge rose out of the dark ahead, old planks suspended over black water.
-
-I looked back over her shoulder.
+The doorway emptied behind us. Beyond it, the strobes still flashed across the loading bay.
 
 No movement.
 
-No one following that I could see. That is not the same as no one following. I knew the difference. I looked anyway, because looking was a job, and a job was the only excuse I had for being awake in her arms.
+I kept watching until the angle took it away.
 
-_She’s carrying me._
+“Anything?” Voeren asked.
 
-After the pump house and the rifle and the man kneeling on my chest, there was this: an arm under my legs, a hold behind my back, and the terrible ease with which my body wanted to mistake being held for being safe.
+“Nothing I can see.”
 
-I had wanted, for months, for someone to actually see me. This was not that. This was weight and blood and a woman who might fall if I asked the wrong thing.
+“Good.”
 
-It still felt like a light had been set down in the middle of the night. I hated the metaphor while I was having it. I kept it anyway.
+She was warm through the damp cloth and the bulk of my vest. There was blood on her collar. Close to her shoulder, I could smell sweat and gun oil and something cleaner beneath them.
 
-Then her next step landed late.
+My hand had found the back of her neck.
 
-A small hitch. A sharp catch in her breathing.
+I noticed.
+
+Considered moving it.
+
+Her next stride jolted my back, and I held on.
+
+The rail bridge rose ahead, old planks stretched over black water.
+
+Voeren’s pace changed.
+
+A short step. Then a longer one to make up for it.
 
 I lifted my head.
 
@@ -310,91 +319,101 @@ I lifted my head.
 
 “I’m fine.”
 
-She reached the bridge. The planks drummed under her boots.
+She reached the bridge. The planks drummed beneath her boots.
 
-One arm trembled before she tightened it again.
+Her arm trembled under my knees.
 
 “You’re hurt.”
 
 “Noticed.”
 
-It might have been funny if she’d had enough breath to spare. I was not laughing. Anger had finally found a clean target, and the target was her refusal, which was also the thing keeping me off the ground. I can hold two true things. I do not enjoy it.
+I looked at her side.
 
-“Put me down. I can—”
+The shirt was dark all the way to her belt.
+
+“Put me down.”
 
 “We’re almost across.”
 
-Her breathing had shortened. Each inhale seemed deliberate now, something she had to remember to do. I looked at the blood along her side.
+“I can walk.”
 
-_She was hurt when she reached me._
+She breathed in through her nose. Let it out too quickly.
 
-Before the charged rifle. Before she picked me up. I had watched her roll a shoulder in the pump house and stop halfway, and I had filed it as not my business because looking at her was already too much business.
+I knew that breath. I had been making it every time I moved.
 
-“Voeren. Put me down. I can walk. You shouldn’t—”
+“Voeren. Stop.”
 
 “No.”
 
-The word came out ragged.
+The word came out rough.
 
-She carried me off the bridge into a narrow lane between the warehouse wall and the canal. Metal posts lined the water’s edge. Farther ahead, a railing caught the first gray light above the roofs.
+She carried me off the bridge into a lane between the warehouse wall and the canal. Metal posts lined the water. Farther ahead, a railing caught the first gray light above the roofs.
 
-She took another step.
+Her stride shortened again.
 
-Her grip tightened.
+I tightened my hand on her shoulder.
 
-Then her knee folded.
+“Please. Just let me—”
 
-I felt her twist, arms drawing me closer as she tried to control the fall. For an instant my face pressed against her shoulder. I wanted to stay there, which is an insane want to have while the ground is coming up. I had it anyway. Don't judge me. It was a bad day.
+Her knee folded.
 
-Then her hold failed.
+She twisted as we fell, drawing me against her.
 
-The ground came up sideways.
+For a moment her arm held.
 
-My back struck the bricks.
+Then my back struck the bricks.
 
-Pain emptied the world.
+I couldn’t hear the impact.
 
-I rolled against the base of a metal post and lay there, unable to understand the ringing in my ears.
+There was only pain, then a high ringing and the sight of the warehouse wall turned sideways.
 
-It thinned.
+I lay against the base of a metal post.
 
-My own breath came through, broken and much too loud.
+My mouth was open.
 
-I opened my eyes.
-
-Voeren lay several feet away with one arm outstretched.
+Eventually I heard myself breathing.
 
 “Voeren?”
 
+She was several feet away, one arm outstretched.
+
+I waited for her to lift her head.
+
+“Voeren.”
+
+I tried to stand. My knee gave before I could straighten it, and I caught myself hard on both hands.
+
 She didn’t move.
-
-The wanting didn’t leave. It just had nowhere to go. I was angry at the bricks, at her knee, at myself for not getting down when the logical voice had still been winning arguments. The anger didn’t stand me up. The want did. That is the part I need you to understand, if I am going to tell this honestly. I did not get up because it was correct. I got up because she was on the ground and I could not stand the shape of the lane without her in it.
-
-I tried to stand. My left knee gave before I could straighten it, and I caught myself hard on both hands.
-
-“Voeren!”
 
 I crawled.
 
-Brick scraped my palms. Each movement pulled at my back, but stopping felt worse. I reached her, pressed two fingers under her jaw, and waited.
+Brick scraped my palms. Each movement pulled at my back. I reached her shoulder and nearly fell across her.
 
-_Come on._
+Two fingers beneath her jaw.
+
+Nothing.
+
+No—my hand was shaking. I moved it. Pressed again.
+
+*Come on.*
 
 There.
 
-Fast. Faint under my shaking hand.
+Fast beneath my fingers.
 
-“Oh, thank God.” My breath fell apart around the words. “Okay. Okay.”
+“Oh, thank God.”
 
 Her chest lifted.
 
-I watched it happen again. Superstition. Same as the crib. If I saw it twice, it owed me a third.
+I watched until it happened again.
 
-“You’re alive.”
+“Okay.” My voice broke. “Okay.”
 
-Blood was seeping from her flank.
+Blood seeped from her flank.
 
-I pulled the medical pouch from her belt and fought the fastening until it came free. Tore open the dressing packet. Pressed gauze against the wound.
+I pulled the medical pouch from her belt and fought the fastening. My thumb slipped. I tried again, got it open, tore the dressing packet apart.
+
+The gauze darkened under my hand.
 
 She didn’t flinch.
 
@@ -404,49 +423,41 @@ I looked at her face.
 
 Nothing.
 
-I secured the dressing as well as I could, checked her breathing again, and sat back on my heels.
+I kept pressure on the wound, then secured the dressing as well as I could. Checked her breathing.
 
-My hands were red.
+Still there.
 
-_She should’ve stopped._
+I sat back on my heels.
 
-The thought went around and around, useless and insistent.
+*She should’ve put me down.*
 
-_She should’ve put me down._
+The thought came again before I had finished thinking it.
+
+*She should’ve stopped.*
 
 I looked toward the bridge.
 
-No one.
+Empty.
 
-Ahead, the lane disappeared beyond the buildings.
+The lane ahead vanished between buildings.
 
-The panic was still there. Under it, something else arrived, and I hated the shape of it.
-
-Quiet. Not peace. The part of me that shows up when there is nothing left to feel with. Work, stripped to the next true thing.
-
-_Shit. Focus._
-
-There had to be something.
+No one was coming from either direction.
 
 The handset pressed against my thigh.
 
-_The radio._
+I pulled it out.
 
-I pulled it from my pocket and set it on the bricks.
+Cracked casing. Dead screen.
 
-Something I understood. Not easy. Not certain.
+Something I could work on.
 
-But something.
+I set it beside her and released the battery.
 
-The want hit the way it had hit on the fire panel, except worse, because this time the want had her name on it. A dead screen is not a dead radio. I have said that to people who looked at me like I’d offered them a religion. I believe it anyway. Damage to the outside doesn’t mean everything inside is gone. I turned the handset in my hands: cracked casing, battery mount, antenna connection. My breathing was still wrong. My hands had stopped shaking as much as they should have.
+A broken corner of the housing had caught against a contact. I worked the fragment free, checked the terminals, and reached into my pouch for the spare pack.
 
-I noticed. Filed it. Did not thank it.
+My fingers were steadier now.
 
-I released the battery.
-
-A broken corner of the housing had caught against a contact. I worked it free, checked the terminals, and reached into my own pouch for the spare pack. The sequence was so clean I almost smiled. I hated that. She was unconscious three feet away, and my head had gone bright because a contact had a burr on it.
-
-I fitted the pack.
+I fitted the battery.
 
 A light flickered.
 
@@ -454,7 +465,15 @@ Went out.
 
 “Come on.”
 
-I eased the split casing apart. The movement pulled at my back, and I had to stop with the radio balanced against my knee until the worst of it passed. Inside, a connector had worked loose. I could see it. That was the whole mercy of the thing. A problem with a shape.
+I eased the split casing apart.
+
+Pain caught across my back. I stopped with the handset balanced against my knee and waited, breathing through my mouth.
+
+Inside, a connector had worked loose.
+
+I could see it.
+
+For the first time since she had fallen, I knew exactly what to do next.
 
 I pressed it home.
 
@@ -462,67 +481,67 @@ The light returned.
 
 Stayed.
 
-I stared at it, afraid to trust something so small. 
+I turned toward Voeren.
 
-Alive. The net might be alive. If the net was alive, she had a chance that did not depend on my knee.
+Her chest rose.
 
-Then I keyed the handset. My voice came out flat, exact, the lift gone. Better for a net. Worse as a person.
+“All right.”
+
+I keyed the handset.
 
 “Kestrel Control, Kestrel Control, this is Echo Three-One. Do you copy, over?”
 
 Static.
 
-I shifted closer to the wall and tried again.
-
-“Kestrel Control, Echo Three-One.”
-
-Nothing.
-
-Behind me, Voeren drew a shallow breath.
-
-The flat cracked.
-
-I looked back.
-
-Still breathing.
-
-I turned toward the canal before the crack could widen. The railing ran along the lane ahead, weathered steel bolted into the masonry. My eyes moved between it and the damaged antenna connection.
-
-_Maybe._
-
-Not a theory I would have briefed. A maybe I could touch.
-
-I drew my knife and worked at the connection.
-
-My fingers wouldn’t stay steady. Twice I missed what I was trying to catch. The third time, I braced my wrist against a knee and made myself slow down.
-
-It was ugly.
-
-I knew it was ugly.
-
-But between the handset, the knife, and the railing, I might get enough improvement to make myself heard. A counterpoise, if I was being generous with the word. A desperate piece of steel, if I wasn’t. The excitement and the shame arrived together. This was the version of me the army kept promoting. Empty enough to be useful. Full enough, tonight, that my hands shook when I thought about whose breathing I was trying to buy.
-
-Sequence. Angle. Key. Listen.
-
-I shifted between two metal posts and raised the radio.
+I shifted closer to the wall.
 
 “Kestrel Control. Echo Three-One. How copy?”
 
-The hiss thickened.
+Nothing.
 
-I changed the angle.
+Behind me, her breathing caught.
+
+I turned so fast my back seized again.
+
+Her chest rose. Fell.
+
+I waited for the next breath before facing the radio.
+
+The antenna connection was damaged. I checked it, then looked at the railing running along the lane.
+
+Weathered steel. Exposed metal where the paint had gone.
+
+Maybe.
+
+I drew my knife.
+
+It took two attempts to catch what I needed at the damaged connection. On the third, I braced my wrist against my knee and made myself slow down.
+
+The arrangement I managed against the railing was ugly. I had to hold the handset at an angle to keep contact, with the knife braced in place.
+
+It only had to work long enough.
+
+“Kestrel Control. Echo Three-One.”
+
+The hiss changed.
+
+I raised the handset a little.
 
 “Any station on this net, this is Echo Three-One.”
 
-Water lapped against the canal wall. Somewhere behind me, loose fabric stirred in the wind.
+Water lapped against the canal wall.
+
+I listened.
 
 “I have a casualty. Staff Sergeant down. Request—”
 
 My voice cracked.
 
-There she was again, even unconscious. A fact that would not stay that way.
+I released the key.
 
-I stopped. Swallowed against the pain.
+Swallowed.
+
+It hurt.
 
 “Any station. Echo Three-One.”
 
@@ -530,9 +549,7 @@ The static broke.
 
 “—Three-One—Kestrel—say again—”
 
-I froze.
-
-For a second I was afraid to move anything, even my mouth. The light on the handset was the best thing I had seen since her eyes found me in the bay. I am including her eyes in that comparison, and I am not taking it back.
+I stopped breathing.
 
 Then I pressed the key.
 
@@ -540,39 +557,35 @@ Then I pressed the key.
 
 “—trying to raise you—sitrep—”
 
-“Two survivors. Staff Sergeant Voeren and myself. She’s wounded, unconscious, breathing. Flank wound.”
+“Two survivors. Staff Sergeant Voeren and myself. She’s wounded. Unconscious, breathing. Flank wound.”
 
-The words crowded. Logic tried to space them. Her name would not stay in its slot. I had to say _myself_ because the net does not want a person, it wants a count, and I was so angry at the count I almost laughed into the carrier.
+Too fast.
 
-I forced a breath between the sentences.
+I forced a breath.
 
 “I’m injured but mobile. Request immediate MEDEVAC.”
 
 “—Copy. Stand by.”
 
-I lowered my forehead toward the cold railing.
+I lowered my forehead toward the railing without changing the handset’s position.
 
-Someone had heard.
+Someone knew.
 
-Beyond the warehouses, beyond the interference and the blood and this endless fucking night, someone knew we were alive.
+We weren’t just two bodies beside a canal anymore. Someone beyond the warehouses knew where to start looking.
 
 My eyes burned.
 
-Not the hollow. The hollow doesn’t do this.
-
-I wiped at them with a sleeve and left a smear across my face.
+I wiped them against my sleeve.
 
 “Kestrel?”
 
 No answer.
 
-I looked back at Voeren. At the hand lying open beside her.
+I looked back at Voeren.
 
-_Please._
+Her hand lay open beside her.
 
 “Kestrel, she’s—”
-
-The handset crackled.
 
 “Echo Three-One. Kestrel. Interference still heavy at your position. We can’t bring the aircraft in there. Can you move?”
 
@@ -580,91 +593,95 @@ I stared down the lane.
 
 “How far?”
 
-“Pier Four. Old ferry slip, southwest along the canal. Approximately five hundred meters.”
+“Pier Four. Old ferry slip. Southwest along the canal. Approximately five hundred meters.”
 
-_No._
+No.
 
-“Dustoff is airborne,” the operator continued. “Twenty-five minutes out. Ten-minute holding window after that.”
+“Dustoff is airborne. Twenty-five minutes out. Ten-minute holding window after that.”
 
 I looked at my knee.
 
-At the blood spreading through her dressing.
+At the dressing on her side.
 
 “Say again the distance.”
 
 “Five hundred meters. Follow the canal wall. Blue light on the pier.”
 
-*Of course.*
-
-Of course it couldn’t be here.
+I shut my eyes.
 
 “Echo, can you move?”
 
-_No._
+The answer was no.
 
-I could barely stand. Moving her across the loading bay had taken everything I had, and now my knee was worse and my back—
+I could tell them that. One casualty unconscious. One unable to walk properly. Request another extraction point. Assistance on the ground. Anything.
 
-_How the fuck am I supposed to—_
+I had the words.
 
-The clean answer was no. A logical sergeant would have said the casualty could not be moved that far by one injured soldier and asked for another window. I had the sentence. I could feel it in my mouth, professional and survivable.
-
-I looked at her.
-
-A strand of hair had caught against her mouth.
+Voeren’s hair had caught against her mouth.
 
 I reached back and brushed it away.
 
-I had not decided to. The hand went. The flat did not survive the touch.
+She didn’t stir.
 
 “Yeah.”
 
-My own voice startled me.
+My voice startled me.
 
-I pressed the key harder, as if pressure could turn the lie into a capability.
+I pressed the key harder.
 
 “I’ll move her. Tell them to hold.”
 
+I worked the knife free, wiped it against my trousers, and returned it to the sheath behind my right hip. Then I closed the handset as securely as I could and stowed it.
+
 The drag sheet was strapped to her pack.
-
-I had passed casualty drills with one. Clean floor. Cooperative partner. Someone nearby to explain what I had done wrong.
-
-I had never hated a memory so much.
-
-First, the knife.
-
-I worked it free of the railing, wiped the rust and grit against my trousers, and returned it to the sheath behind my right hip.
-
-Then the sheet.
 
 Gray polymer. Webbing loops.
 
-Familiar things. I was grateful to them in a way that felt like cheating. Objects do not look at you while you fail.
+I knew how to use one.
 
-I spread the sheet beside her and started moving.
+I had practiced on a clean floor with someone who helped when the instructor wasn’t looking.
 
-It took nearly six minutes to get her onto it.
+I spread it beside her.
 
-I worked in small increments, stopping when my back locked or my knee threatened to fold. Checked the dressing. Checked her face. Apologized when her shoulder struck the bricks, though she gave no sign of hearing. The apology was not rational. Being rational would have saved the breath. I spent it anyway, because the night had already taught me that the logical voice could win the argument and still lose the hands.
+Getting her onto it took nearly six minutes.
+
+Small movements. Stop when my back locked. Start again when I could breathe. Keep her from rolling off. Check the dressing.
+
+Her shoulder struck the bricks.
+
+“Sorry.”
+
+She gave no sign of hearing.
+
+I moved her another few inches.
 
 At last she lay on the sheet.
 
 I crouched beside her with my head hanging.
 
-Sweat dripped from my nose onto the polymer.
+Sweat dropped from my nose onto the polymer.
 
-_Get up._
+Six minutes.
+
+I had spent six minutes before moving her a single meter toward the pier.
+
+*Get up.*
 
 I gathered the webbing.
 
-My body offered no cooperation.
+My good leg straightened.
 
-_Get. Up._
+The left followed badly.
 
-My good leg straightened. The other followed badly.
+I leaned forward.
 
-I leaned into the straps.
+The straps tightened.
 
-The sheet scraped forward.
+Nothing moved.
+
+I set my feet again and pulled.
+
+The sheet scraped across the bricks.
 
 A foot.
 
@@ -672,187 +689,187 @@ Another.
 
 I reached the next post and collapsed against it, breathing through my mouth.
 
-Behind me, a pale scrape marked the wet bricks.
+Behind me, a pale track marked the wet ground.
 
-That was all I had managed.
+Two meters.
 
-_Four hundred and ninety-eight._
+*Four hundred and ninety-eight.*
 
-I shut my eyes.
+I closed my eyes.
 
-For a moment the number was too large to think about.
+I couldn’t do five hundred.
 
-So I stopped thinking about it.
+Not like that.
 
-_Next post._
+I looked at the next post.
+
+I could try for that.
 
 I pulled.
 
-Pull. Step. Set the foot.
+Step. Set the foot.
 
 Pull again.
 
-It became a sequence small enough to obey. The hollow tried to take the whole job. It got the steps. It did not get her. Every time I checked the dressing, the count broke, and I was a person again, angry at the bricks, afraid of the blood, stupidly glad she was heavy because heavy meant she was still here.
+The sheet scraped behind me.
 
-When my knee flared, I shifted weight off it. When my back seized, I leaned against the railing and waited until I could straighten.
+When my knee flared, I shifted off it. When my back seized, I leaned against the railing until I could straighten.
 
-Then I moved.
+Then another post.
 
-The webbing rubbed my hands raw. I changed my grip, then changed it back when the new position hurt worse.
+The webbing rubbed against my palms. I changed my grip, then changed it back.
 
-This was the closest the hollow could get while she was still the reason for the work. Not gone. Narrowed. Next post, next breath, next check that the dressing had not slipped.
-
-Behind me, she shifted.
+Behind me, cloth shifted.
 
 I turned immediately.
 
-Her head had rolled to one side.
+Voeren’s head had rolled to one side.
 
-Still breathing.
+I watched her chest.
 
-I watched the movement under her shirt until the next breath came.
+“Still here?” I whispered.
 
-My eyes stayed on the line of her shoulder. Her forearm, scarred and heavy with muscle. The fingers resting loose against the polymer.
+A breath.
 
-It was strange seeing her hand open.
+“All right.”
 
-I had watched it tear a door aside.
+Her fingers rested loose against the polymer.
 
-Then it had settled on my shoulder, gentle enough to make me forget where I was.
+It was strange seeing that hand open.
 
-_"Thank you."_
+I had watched it tear a door aside. Then it had settled on my shoulder so carefully I had forgotten, for a second, about the dead man beside me.
+
+*"Thank you".*
 
 My face warmed.
 
-Here. With blood drying between my fingers and my back hurting so badly I wanted to fold around it.
+Here, of all places.
 
-_Seriously?_
+I looked away and took up the straps.
 
-I turned away and pulled.
+The sheet caught against a seam. I eased it free without letting myself stop for long.
 
-For months, Voeren had existed in fragments: a laugh across a room, a broad back disappearing through a doorway, a glance I had looked away from too quickly.
+Across the canal, headlights swept a warehouse wall.
 
-Now I knew the weight of her arm under my knees. The roughness in her voice when she was hurt. That she would make a joke when she could barely stand.
+I went still.
 
-That she knew my name.
+The beams slid toward the water, swung away, and vanished behind a building.
 
-_God, she’s—_
+An engine faded.
 
-The sheet caught against a seam.
+I waited.
 
-I stumbled and gripped the railing.
+No voices.
 
-_Alive. She’s alive. Keep it that way._
+No boots on our side.
 
-I reset my feet and pulled again.
+I pulled again.
 
-By the time the pain forced its way back to the center of my attention, I had covered more ground than I expected.
+The lane opened onto a stretch of quay exposed to the wind.
 
-Not enough.
+No doorway to lean into. No shelter.
 
-But more.
+The sky above the roofs was paling.
 
-Across the canal, headlights swept the far bank.
+I looked back, trying to judge the distance by the buildings.
 
-I stopped.
+Two hundred meters.
 
-My hands tightened on the straps. The beams crossed a warehouse wall, swung away, and vanished. An engine faded into the distance.
-
-I waited another breath. No voices. No boots on this side. I did not know who they were. I was not going to invent a rescue out of a pair of lights.
-
-Then I hauled.
-
-The lane opened ahead. Buildings fell back from the water, leaving a stretch of quay exposed to the wind.
-
-No shelter.
-
-No easy place to stop.
-
-The sky above the roofs had turned pale.
-
-I looked back, trying to estimate the distance from the buildings and the gaps between access lanes.
-
-Two hundred meters, perhaps. I hate _perhaps_. The net hates it too. My knee had stopped offering better data.
+Perhaps.
 
 My throat hurt too much to swallow.
 
-I kept moving.
+I had lost track of the minutes.
 
-At the next rough patch, the sheet caught again.
+Six getting her onto the sheet. The stops. The radio before that.
 
-I pulled harder.
+I started pulling before I finished adding.
+
+At the next rough patch, the sheet stopped.
+
+I leaned harder.
 
 Nothing.
 
-A broken edge of paving had folded under the front of the polymer.
+A broken edge of paving had folded beneath the front.
 
 I stared at it.
 
-Such a small thing.
+One piece of brick.
 
-A stupid piece of brick.
+That was all.
 
-For a moment I wanted to sit down beside it and stay there. Not die. Just stop. The old math: not enough left to want the next thing, and not enough force to quit. The logical voice, exhausted, finally agreed with the want. _Sit. You told them you could move her. You were wrong. Wrong is allowed if you report it._
+I wanted to sit beside it.
 
-Her chest lifted.
+Not die. Not disappear.
 
-I went back, freed the corner, and returned to the straps.
+Just put the straps down and stop asking my body for something it didn’t have.
 
-Another task.
+Behind me, Voeren breathed.
 
-Another thing done.
+I let go of the webbing.
 
-The agreement hadn’t lasted a full breath. I am telling you that because later I am going to need to know when the inside of my head stopped arguing with my hands. It had not stopped yet. It was just losing.
+Went back.
 
-Three hundred meters.
+Freed the corner.
 
-Maybe.
+Checked the dressing.
 
-My left leg shook whenever I asked it to bear weight. Wetness gathered inside my grip, and I refused to look at my palms.
+Then returned to the straps.
+
+My palms were wet. I didn’t look.
 
 Ahead, the canal wall bent.
 
-Pier Four should be beyond it. Should. I had not seen the blue light. I was navigating on a stranger’s sentence and a wall.
+Pier Four should be beyond it.
 
-_To the bend._
+I still couldn’t see a blue light.
 
-I leaned forward.
+*To the bend.*
 
-_Just to the bend._
+My left leg shook when I set it down.
 
-When I stopped again, my breathing had become a harsh, scraping sound I barely recognized as my own.
+*Just to the bend.*
 
-I sank onto my good knee, straps clenched in both hands.
+I pulled.
+
+By the next stop, my breathing had become a harsh scraping sound.
+
+I sank onto my good knee.
+
+The straps stayed clenched in my fists.
 
 A minute.
 
-I needed a minute.
+I needed—
 
 “Hey.”
 
-Her voice was barely more than breath.
-
-The sequence broke.
-
 I lifted my head.
 
-Her eyes were open.
+Voeren’s eyes were open.
 
-I stared.
+I stared at her.
 
-I had imagined this often enough along the lane that, for a second, I didn’t trust it. Pain does that. It will hand you the thing you want and then charge you for believing it.
+She blinked.
 
-Then she blinked.
+Her gaze moved from my face to the webbing, then past me.
 
-Her gaze moved from my face to the webbing in my fists, then past me, following the scraped track along the bricks.
+Following the scraped track along the bricks.
 
 Back to my face.
 
-“You—” Her voice failed. She swallowed. “You dragged me?”
+“You—”
+
+She swallowed.
+
+“You dragged me?”
 
 “Yeah.”
 
-My own voice barely worked. I glanced toward the bend, because looking at her was already too much feeling for a body that had just been counting posts.
+My voice barely worked.
+
+I looked toward the bend.
 
 “Pier Four’s ahead. Hundred and twenty meters. Maybe a bit more.”
 
@@ -864,29 +881,27 @@ She didn’t look.
 
 “How far did you come?”
 
-I looked back.
+I glanced back.
 
 “Three-seventy-ish.”
 
 She went quiet.
 
-The wind lifted a strand of hair from her cheek.
+Wind lifted a strand of hair from her cheek.
 
-Under her attention I became painfully aware of my own body: kneeling badly, arms shaking, mouth hanging open because I couldn’t get enough air through my nose.
-
-I must have looked terrible.
-
-The flat was gone. I missed its usefulness and not the rest of it.
+Under her attention, I became aware of my mouth hanging open. My arms shaking. The way I was kneeling because I couldn’t stay upright.
 
 “I wasn’t going to leave you.”
 
-The words sounded obvious once spoken. I tried to make them less so, because obvious was too close to the thing I had said in the bay, and I was not ready to hear it twice.
+She looked at me.
 
 “I just—it took longer than I thought. You’re really heavy. Not—”
 
-Her eyebrows shifted.
+Her eyebrows moved.
 
 “Not like that. I mean, you’ve got a lot of—”
+
+*Ugh. You're an idiot.*
 
 I closed my eyes.
 
@@ -898,89 +913,93 @@ I looked again.
 
 She was laughing.
 
-Quietly, until it caught at her side and made her wince. She pressed a hand against the dressing, shook her head, and laughed anyway.
+It caught at her side. She pressed a hand against the dressing, winced, and tried to stop.
 
-I tried not to join her.
+That made it worse.
 
-Failed immediately.
+I laughed too.
 
-My laugh came out broken and breathless. That made hers worse. For a few seconds both of us were on the cold quay, filthy and hurt and laughing at something that wasn’t even funny.
+It hurt my throat. Hurt my ribs. I couldn’t get enough air for it.
 
-My eyes watered.
+She looked at me and shook her head, still laughing, and for a few seconds I didn’t need anything beyond that.
 
-This did not fix the night. It did not fix the years under it. It was only her, awake, trying.
-
-That was already more than I had thought I would get.
-
-She took a careful breath.
+Then she took a careful breath.
 
 “Almost four hundred meters.”
 
-I looked down at my hands.
+I looked down.
 
 “On that knee.”
-
-I shifted.
 
 “It’s what anyone would—”
 
 “No.”
 
-Her hand rose slowly and settled over mine, where I still gripped the strap.
+Her hand settled over mine.
 
 “Not anyone.”
 
 I looked up.
 
-She held my gaze without a trace of teasing.
+She wasn’t teasing.
 
-I could have managed a joke. Something easy to dismiss once the heat left my face.
+I was still gripping the strap so tightly her fingers couldn’t quite get around mine.
 
-There was nowhere to put this.
+I made myself loosen them.
 
-Most people do not try. The ones who try a little still miss. She was looking at the drag, the knee, the stupid apology, and refusing the smaller version. I don’t know what she was thinking. I know what it did to me. I did not know what to do with being seen for three minutes on a quay. I wanted it anyway. The want was louder than the embarrassment, which was new, and I did not have a procedure for new.
+Her hand closed.
 
-Her fingers closed around my hand.
-
-“I’m not going to forget this.” Her voice had dropped. “Okay?”
+“I’m not going to forget this,” she said. “Okay?”
 
 I nodded.
 
 “Not a damn minute of it.”
 
-Water moved against the canal wall. The depot alarm still sounded somewhere behind us, thin with distance.
+My mouth moved.
+
+Nothing came out.
+
+She didn’t ask me to fix that.
+
+Water shifted against the canal wall. Far behind us, the depot alarm was still sounding.
 
 For the first time since she had fallen, I wasn’t the only person listening.
 
-She drew a breath and pushed herself onto one elbow.
+Voeren pushed herself onto one elbow.
 
-“All right, Sergeant.” She glanced toward the bend. “Let’s get the hell out of here.”
+“All right, Sergeant.” She looked toward the bend. “Let’s get the hell out of here.”
 
 “Wait. You shouldn’t—”
 
-She stopped halfway upright, jaw tight.
+She stopped halfway upright.
 
-I reached for her.
+Her jaw tightened.
 
-She caught my arm, steadied herself, and drew one boot beneath her.
+I reached for her, and she caught my arm.
 
 “Not leaving you to do the rest.”
 
-She stood.
+She drew one boot beneath her.
+
+Stood.
 
 Swayed.
 
-We both waited. I don’t know what she was waiting for. I was waiting to see if the night was going to take her knees again, and I was angry at the waiting, and I did not let go of her arm.
+I held on.
 
-Blood had darkened the dressing at her flank. She looked down at it with an expression I couldn’t read, then offered her hand.
+Neither of us spoke until she steadied.
+
+Blood had darkened the dressing at her side. She looked down at it, then back at me.
 
 “Come on.”
 
-Getting upright hurt badly enough that I couldn’t speak.
+Getting up hurt badly enough that I couldn’t answer.
 
-She waited until I had set my feet, then drew my arm across her shoulders and settled her own around my waist.
+She waited.
 
-I tried a step.
+When I had my feet under me, she drew my arm across her shoulders and put her own around my waist.
+
+We tried a step.
 
 Stopped.
 
@@ -994,55 +1013,59 @@ But together, we moved.
 
 The blue light appeared beyond the bend.
 
-Small. Steady.
+Small.
 
-I had never seen anything so beautiful. That includes the handset light. I am allowed to update a ranking. The blue one meant the sentence on the radio had been true, and truth, that morning, was a kind of mercy.
+Steady.
+
+I stopped looking at my feet.
 
 “There,” Voeren breathed.
 
-I nodded, though she wasn’t looking at me.
+Pier Four stretched over the canal, its decking silver in the dawn.
 
-Pier Four extended over the canal, weathered decking silver in the dawn. The last stretch seemed to lengthen as we approached.
+We kept moving.
 
-I kept my eyes on the light.
+Her grip tightened when my knee faltered. A few steps later, I felt her weight settle harder against me.
 
-Not the distance.
+I held what I could.
 
-The light.
+The light stayed ahead.
 
 Then a low pulse passed through my chest.
 
 Sound followed, building above the roofs.
 
-She lifted her head.
+Voeren lifted her head.
 
 “There you are.”
 
-The tilt-rotor came over the canal, dark against the pale sky. Its wingtip nacelles had turned upward. As it banked, a faded red cross showed against the storm-gray tail.
+The tilt-rotor came over the canal, dark against the pale sky. As it banked, a faded red cross showed against its storm-gray tail.
 
 Downwash flattened the water.
 
-Spray raced across the pier and struck my face. I ducked toward my shoulder.
+Spray raced across the pier and struck my face.
+
+I ducked toward my shoulder.
 
 Voeren tightened her arm around me.
 
 “Tilt-rotor,” she shouted. “Fancy.”
 
-I tried to laugh. It came out as air and pain. My legs weren’t working properly.
+I tried to laugh.
+
+My legs weren’t working properly.
 
 The light blurred.
 
-_Almost._
+*Almost.*
 
-The aircraft settled. A ramp lowered.
+The aircraft settled.
+
+A ramp lowered.
 
 People ran toward us.
 
-_Just—_
-
 “Echo Three-One? Identify!”
-
-The medic’s voice cut through the roar.
 
 “Sergeant Spade.”
 
@@ -1060,35 +1083,49 @@ I flinched.
 
 “Easy. We’ve got you.”
 
-A medic took my weight. Her arm loosened, and for a second, losing it frightened me more than falling had.
+A medic took my weight.
 
-Not because she had made me well.
+Voeren’s arm slipped from my waist.
 
-Because the dark was still there, and she had been the only warm thing in it.
+For a moment I tried to follow it.
 
-Then there was a stretcher. Hands guiding me down.
+“Stay with me,” the medic said. “We’re putting you down.”
 
-My back hurt. I tried to explain, but my throat failed me.
+A stretcher beneath my legs.
 
-“Keep still.” The medic beside my shoulder leaned into view. “We’ve got you. Don’t try to sit up.”
+Hands behind my shoulders.
 
-Another pair of hands steadied my head.
+My back caught.
+
+I tried to tell them.
+
+“Back,” I managed.
+
+“Keep still. Don’t try to sit up.”
+
+Someone steadied my head.
 
 “Neck support.”
 
 “Possible spinal.”
 
-Someone near my feet drew a sharp breath.
+The sky rocked above me.
 
 “Look at these hands.”
 
-I lowered my gaze without moving my head.
+I tried to look down.
 
-Voeren held one of them.
+“Keep your head still.”
 
-I hadn’t noticed her take it.
+Something warm closed around my fingers.
 
-A medic stood at her other side, speaking sharply, trying to get her to sit. She listened. Nodded once.
+Voeren.
+
+I hadn’t seen her take my hand.
+
+A medic stood beside her, speaking sharply, trying to get her to sit.
+
+She nodded.
 
 Kept looking at me.
 
@@ -1100,11 +1137,11 @@ My fingers moved against hers.
 
 “You did good.”
 
-The words reached me through the rotors, through the pain, through the strange distance opening between my body and everything around it.
+I wanted to tell her she had too.
 
-I wanted to answer properly.
+That I was glad she was here.
 
-Tell her she had too. Tell her I was glad. Tell her not to make a life out of one clean report and a drag sheet. The sentences were there. My mouth wouldn’t hold them. Even then, the impulsive part was trying to spend words I didn’t have air for. It lost. That might be the only time that night it lost clean.
+That she needed to sit down before she fell again.
 
 “Staff Sergeant.”
 
@@ -1116,28 +1153,26 @@ I found the name.
 
 Her thumb moved across my knuckles.
 
-I tried to keep my eyes open. It had become difficult in a way that no longer seemed negotiable.
+Keeping my eyes open had become difficult.
 
 “I’m going to…”
 
-I took a breath.
+I stopped for a breath.
 
 “Pass out now.”
 
-Her fingers tightened.
-
 “Yeah.”
 
-I could barely hear her, but her mouth was close enough to read. The tired curve of it. Blood drying along her jaw.
+Her fingers tightened.
 
-“I know. I’ve got you.”
+The stretcher shifted. I held on before I could help it.
 
-The stretcher moved.
+She held on too.
+
+“I know,” she said. “I’ve got you.”
 
 Sky slid above me.
 
-I held on as long as I could.
-
-Then there was only the warmth of her hand.
+For a little longer, there was her hand.
 
 Then nothing.

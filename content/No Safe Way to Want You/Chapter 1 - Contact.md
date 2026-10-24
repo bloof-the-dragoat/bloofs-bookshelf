@@ -45,7 +45,8 @@ tags:
 ---
 ## Chapter 1 — Contact
 
-> _Content note: Graphic violence, strangulation, and character death._
+> [!warning] Content note
+> Graphic violence, strangulation, and character death.
 
 *Shit. I’m gonna die.*
 
@@ -667,154 +668,116 @@ A hand came over the edge. Bloody fingers. Tight on the steel.
 
 The man from the crib pulled himself into view.
 
-For a second my brain refused the delivery. I had watched him go down. I had spent the last round on him. There were rules. You shot a man twice at that range and he stayed where you put him.
+For a second my brain refused the delivery. I had watched him go down. I had spent the last round, **my last round**, on him, and the rules were simple: shoot a man twice at that range and he stays where you put him.
 
-His face was gray. His vest was soaked. One hand stayed on his neck. The other dragged him up, rung by rung, breath wet and wrong.
+The man from the crib pulled himself into view anyway, gray-faced, his vest soaked black. One hand was clamped to his neck. The other hauled him up the ladder rung by rung, and his breathing was wet and wrong.
 
 His eyes found me.
 
-_He’s dead._
+*He's dead. I watched him die.*
 
-I stepped back.
+I stepped back. The empty pistol was dead weight in my hand, and the anger came in under the fear, aimed at me first. I had felt clever up on that gantry while he was still alive enough to climb.
 
-_I watched him die. _
-
-I had been certain. Certainty was another thing that was choosing to fuck me over today. The anger that came with it was at myself first. At the rule I’d needed. At the empty pistol. At the part of me that had felt clever on a gantry while he was still alive enough to climb.
-
-He got onto the platform and stood. Free hand to his belt. Knife.
+He got onto the platform, stood, and put his free hand to his belt. Steel slid out of a sheath.
 
 I ran.
 
-The catwalk shook. Ahead it ended at a vertical support, and past that was air. No second ladder. No door. A beam below the edge. A cable by the upright. My whole life, lately: a problem, a bad option, and the hope that I was slightly faster than the person trying to close my throat.
+The catwalk shook under my boots. It ended ahead at a vertical support, and past it there was only air: no second ladder, no door. There was a beam below the edge and a cable hanging beside the upright. It was a problem, a bad option, and the hope that I was slightly faster than the person trying to close my throat.
 
-He came after me slowly. He knew where the walkway ended. He could afford slow. I had spent my speed already.
+He didn't hurry. He knew where the walkway ended, and he could afford slow. I had already spent my speed.
 
 I reached the support and caught the cable.
 
-_Around him. Don’t fight the knife. Fight the place he’s standing._
+*Don't fight the knife. Fight the place he's standing.*
 
-I swung past the upright and dropped onto the lower beam.
+I swung out around the upright and dropped onto the lower beam, outside the rail. The cable burned through my palm, and the cold of the steel came up through my glove.
 
-The knife cut the air where my shoulder had been. Close enough that I felt the miss as a cold line.
+His knife struck where my shoulder had been, and the whole catwalk rang with it. The miss was close enough that I felt it as a cold line.
 
-I crouched. One hand on the cable. One on the steel. The floor was too far. Jumping was just a quicker way to lose.
+I crouched on the beam, one hand on the cable and one on the steel. The floor was far below me, and jumping was just a quicker way to lose.
 
-He leaned over the rail.
+He leaned out over the rail, one arm stretched toward me, with the rail pinned against his hips and his weight tipped forward.
 
-Reached.
+*Stay low. Make him come to you. Don't spend the last of your balance on a kick you can't finish.*
 
-The logical voice said _stay low, make him come to you, don’t spend the last of your balance on a kick you can’t finish_.
+But his boots were planted on the grating, and the rail was the only thing holding his hips back. I pushed off.
 
-I pushed off.
+I swung wide on the cable and around the upright. I got a foot on a pipe and put both boots into his back.
 
-Around the support. Foot on a pipe. Both boots into his back.
+He lurched. One boot slipped, and for an instant his weight went past the rail. The instant was so clean I believed in it.
 
-He lurched. One boot slipped. For an instant his weight went past the rail, and the instant was so clean I believed in it.
+*Yes—*
 
-_Yes—_
+His knife hit steel, and his free hand closed on my ankle.
 
-His knife hit steel. But his hand closed on my ankle.
+My stomach went first, and then the rest of me.
 
-My stomach went first.
+My shoulder clipped a ladder. Metal flashed past my face. Something caught my vest and tore free, and there was no time to learn what I had lost. It might have been the radio, or the knife. Not knowing made me angrier than the fall, which was ridiculous and also true.
 
-Then the rest of me.
-
-Shoulder clipped a ladder. Metal flashed past my face. Something caught my vest and tore free, and I didn’t have time to know what I’d lost. The radio, maybe. The knife. I didn’t get to check. The not-knowing made me angrier than the fall, which ridiculous, and also true.
-
-Salt sacks. I hit them hard enough to burst them. Dust in my mouth, in my eyes, stupid and white.
+I hit the salt sacks hard enough to burst them. Dust filled my mouth and eyes, white and gritty.
 
 Then the floor.
 
-My left knee folded under me.
+My left knee folded under me, and the bay went white. I tried to breathe, with my chest up and my throat open. Nothing came. My body kept trying anyway, as if repetition might shame my lungs into working.
 
-Pain went white. Not a metaphor. The bay deleted itself.
+The light flickered, then went dark, then white again.
 
-I tried to breathe. Chest up. Throat open. Nothing. My body kept making the attempt like repetition might embarrass my lungs into working.
-
-Strobe.
-
-White.
-
-Dark.
-
-White.
-
-A small, horrible sound came out of me. Then air, finally, scraping in. It tasted like salt and blood and the sweet thing I had decided not to name.
+A small, horrible sound came out of me. Then air came in at last, scraping, and it tasted of salt and blood.
 
 Across the bay, a boot found the bottom rung.
 
-He came down still holding his neck. Looked at me in the spilled salt. Laughed.
+He came down slowly, one hand clamped to his neck, and stopped to look at me lying in the spilled salt. He laughed, and it sounded like something tearing.
 
-I got a hand under me. The shoulder buckled. I tried the other.
+I got a hand under me, and the shoulder buckled. I tried the other arm, and my knee sent a bolt of white up my leg that made the attempt pointless. Move.
 
-_Move. You moved a woman who weighs more than the argument you’re about to lose. Move._
+He crossed the floor without hurrying and caught the front of my vest. When he lifted me, the pain eased for one absurd second. Being off the concrete felt like mercy. I knew better, and I was grateful anyway.
 
-He stopped beside me.
+He slammed me down. Something flared across my lower back, and my mouth opened on a sound that never made it out.
 
-_Get up._
+He knelt on my chest, and the air I had just won left again.
 
-He caught the front of my vest and lifted.
+"Look at you," he said, wet and rough. "All that running."
 
-For one absurd second the pain eased. Being off the floor felt like mercy. I knew better. I knew better, and I was still grateful for the second.
+He took his hand off his neck. Blood ran freely down his collar, and a drop from his wrist landed on my cheek, warm. "All that for a little tech rat."
 
-He slammed me down, cruelly, yet inevitable.
+I almost laughed. **Available**. **Sit in the back**. **Fix what they break**. I'd heard some version of it my whole life, and it had never come with a hand on my throat.
 
-Something flared across my lower back. My mouth opened. No sound. The sound was busy being pain.
+The hand closed. I got both of mine around his wrist and pulled. It was like pulling on a pipe. I braced my heel against the floor, and my knee screamed. His weight didn't negotiate.
 
-“Look at you.” Wet voice. Rough. He knelt on my chest, and the air I’d just won left again. “All that trouble. All that running.”
+He watched me work, interested. "I could crush it now," he said. "One squeeze."
 
-Blood from his wrist tapped my cheek. Warm. I was going to be thinking about that drop if I got a later.
+I let go of his wrist and drove the heel of my hand into his face. His nose shifted. He blinked and smiled.
 
-“All that for a little tech rat.”
+"But you made me chase you." The pressure doubled. "So I think I'll take my time."
 
-The words found the old anger and fed it. *"Available". "Sit in the back". "Fix what they break".* I would have laughed if I’d had the air. My face didn’t change. I don’t think it changed. Everything I had left was in my hands.
+*I'm gonna die.*
 
-His hand closed on my throat.
+The edges of my vision were closing in. I had one try left, and it was the thing he'd shown me himself. I dropped my hand to his neck and shoved my thumb into the wound.
 
-I caught his wrist with both hands and pulled. Nothing. I might as well have been pulling on a pipe. Heel against the floor. Knee screaming. His weight didn’t negotiate.
+He made a noise I would have been proud of in better circumstances. His whole body jerked, and the grip on my throat loosened for half a breath. I got a thread of air.
 
-He watched me work. Interested. I hated him for having the spare attention. I hated him for being alive after I had done the clever thing. I hated myself for betraying my own logic. None of that moved his wrist.
+Then he hit my arm aside and clamped down twice as hard.
 
-Then his fingers tightened.
+"That," he said through his teeth, "was rude."
 
-“I could crush it now,” he said. “One squeeze.”
+I kicked. My boot scraped concrete and went nowhere.
 
-I hit his face with the heel of my hand. His nose shifted. He blinked. Smiled.
+*I'm gonna fucking die.*
 
-“But you made me chase you.” More pressure. The world narrowed around the place his thumb dug in. “So I think I’ll take my time.”
+The bay flickered, and his face came back, then Voeren's. I couldn't turn far enough to see the crib or hear her over the pulse in my skull. She was ten meters and a set of shelves away, and she might already be gone. I had told her I wasn't going anywhere. The sentence was still in my mouth with no air under it.
 
-I tried to turn my chin. Tried to get an elbow between his arm and my chest. Leverage. Space. A dirty trick from a class I had actually stayed awake in. His wrist might as well have been bolted to the floor.
+*Voeren. Sorry.*
 
-_I can’t breathe._
+My fingers slipped off his wrist.
 
-I kicked. My boot scraped concrete and accomplished nothing. 
+*I'm so weak.*
 
-Strobe.
+It came with total certainty. The alarm panel, the hoist, the four rounds, and the door she had torn open were all mine, and none of it mattered. I was a person under a knee, unenhanced, out of tricks.
 
-His face.
+I wasn't ready. I wasn't done. I hadn't even gotten the small life: a job that wasn't this, someone who stayed, an evening with a guitar and a bad story and no one timing how long I talked.
 
-Gone.
-
-His face.
-
-*Voeren*.
-
-I couldn’t turn far enough to see the crib. I couldn’t hear her. I couldn’t hear anything but the pulse in my skull, huge and stupid and desperate to keep being a pulse. She was ten meters and a set of shelves away, and she might already have been gone, and I had told her I wasn’t going anywhere. The sentence was still in my mouth with no air under it. Impulsive. Too large. Mine.
-
-*Voeren. Sorry.* 
-
-My fingers slipped.
-
-_I’m so weak._
-
-It landed with a bitter, total certainty. No room left for the alarm panel. The hoist. The four rounds. The door she had torn open. I had done all of that, and I was still a person under a knee, completely ordinary, unenhanced, out of tricks.
-
-_Not enough._
-
-My body wanted air the way it had wanted to live in the pump house. Every part of it. Chest straining under his knee. Mouth open against a hand that would not move. All that emptiness I’d mistaken for being ready, and here was the truth, late again: I wasn’t ready. I wasn’t done. I hadn’t even gotten the small life. A job that wasn’t this. Someone who stayed. An evening with a guitar and a stupid story and no one timing how long I talked.
-
-_Damn it._
+*Damn it.*
 
 The edges of the bay went dark.
 
-_Damn it all. I didn’t even get to—_
+*Damn it all. I didn't even get to—*
