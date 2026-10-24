@@ -602,7 +602,7 @@ _Empty. You knew it was empty. Say it again until you believe it._
 
 Footsteps hammered back from the east wing. The horn had bought me a minute, not a miracle. A man shouted a name. Once. Again. His friend’s name, probably. I had just made him grieve, and the small mean part of me was glad. The rest of me did not have time to be decent about it.
 
-I dropped the pistol. Dead weight. Ran for the ladder.
+The pistol was empty. I kept it anyway, and ran for the ladder.
 
 Rungs slick. My boot skipped one, and I caught myself hard enough to wrench the shoulder that was already filing a complaint.
 

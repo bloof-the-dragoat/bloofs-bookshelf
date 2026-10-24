@@ -20,7 +20,7 @@ timeframe: Late night into dawn, immediately after Chapter 1
 story_order: 2
 follows: "[[Chapter 1 - Contact]]"
 precedes: "[[Chapter 3 - The Harbor Master's Daughter]]"
-opens_with: Voeren breaks the strangler's neck; 'The pressure vanished.'
+opens_with: Voeren breaks the strangler's neck; 'The pressure eased.'
 closes_with: Extraction; Spade passes out holding Voeren's hand
 source_notes:
   - "[[1 - Opening Ambush]]"

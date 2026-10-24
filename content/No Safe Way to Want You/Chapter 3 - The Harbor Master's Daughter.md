@@ -385,7 +385,7 @@ Her grin arrived before I did. “There you are.”
 
 “Hey.”
 
-She straightened off the car. Six-three without the boots, and close enough now that I had to tip my chin to keep looking at her face. Her gaze moved over me and came back. “What?” I asked.
+She straightened off the car. 6'3 with the boots, and close enough now that I had to tip my chin to keep looking at her face. Her gaze moved over me and came back. “What?” I asked.
 
 “Nothing bad.”
 
@@ -571,7 +571,7 @@ I laughed. “What else?” she asked.
 
 “Fantasy.”
 
-That was a safe answer. A manageable one. It was _not_ the other stuff, which was nobody’s business and definitely not hers, in a car, the same I’d woken up.
+That was a safe answer. A manageable one. It was _not_ the other stuff, which was nobody’s business and definitely not hers, in a car, the same day I’d woken up.
 
 She waited, so I added, “Mostly worldbuilding. Places. How people live. Things like that.”
 
@@ -597,7 +597,7 @@ I turned toward her. _Oh no._ I could feel it starting, the whole eager machiner
 
 ---
 
-The Low Tide sat between a shuttered shop and a takeaway window that breathed heat onto the pavement. The doorman checked our identification and waved us through. Music met us first, with conversation underneath it, glasses touching, and a complaint from the pool table at the back. The room was longer than the frontage suggested, with the counter along one wall and booths opposite.
+The Low Tide sat between a shuttered shop and a takeaway window that breathed heat onto the pavement. The doorman checked our identification and waved us through. Music met us first, with conversation underneath it, glasses touching, and a complaint from the pool table at the back. The room was longer than the frontage suggested, with the counter along one wall and booths opposite. A woman behind the counter was drying a glass, a towel slung over one shoulder. She gave the room one flat, practiced sweep as we came in and went back to the glass.
 
 Voeren glanced toward the rear passage before choosing a corner booth. “This work?”
 
@@ -647,7 +647,7 @@ Her mouth opened, and then she laughed. “Of course it fucking does. Boats?”
 
 “I’m sure.”
 
-The drinks arrived while I was explaining the old harbor walls. I stopped and looked at her. “Sorry. That got away from me.”
+The bartender brought our drinks over herself, towel still on her shoulder, and left without comment while I was mid-sentence about the old harbor walls. I stopped and looked at her. “Sorry. That got away from me.”
 
 “Did it?”
 
@@ -837,11 +837,11 @@ My fingers tightened around the glass. “You haven’t heard how annoying I can
 
 Her mouth lifted a little. “I’m getting an excellent preview.”
 
-I smiled. She did too, but hers took longer. I finished what was left in my glass, and when we ordered again, I didn’t look at the instructions in my pocket.
+I smiled. She did too, but hers took longer. I finished what was left in my glass, and when we ordered again, I didn’t look at the instructions in my pocket. Voeren ordered hers the same way.
 
 ---
 
-By the third drink I wasn’t only drawing on the napkin. I was drawing in the air, correcting myself halfway through sentences, going back to something she’d asked ten minutes earlier because I’d finally found the right answer. Voeren followed all of it. Sometimes she made me go back. Sometimes she argued.
+By the third drink, Voeren was matching me glass for glass, and showing it far less. I was no longer drawing on the napkin. I was drawing in the air, correcting myself halfway through sentences, going back to something she’d asked ten minutes earlier because I’d finally found the right answer. Voeren followed all of it. Sometimes she made me go back. Sometimes she argued.
 
 “Why would they stay?” she asked.
 
@@ -957,7 +957,7 @@ She looked down at her glass, then back at me. “All right.”
 
 That was somehow worse than another joke. I took a drink.
 
-_Okay. Okay. She’s flirting with me. She’s been flirting with me. For hours. Possibly since the hospital. Possibly since the_ chair*.* I took another drink.
+_Okay. Okay. She’s flirting with me. She’s been flirting with me. For hours. Possibly since the hospital. Possibly since the chair._ I took another drink.
 
 ---
 
@@ -1155,7 +1155,7 @@ Neither of us said anything about that. _If I say anything, it stops. So no. Abs
 
 ---
 
-My fourth drink arrived while we were negotiating a band.
+My fourth drink arrived while we were negotiating a band. Hers had arrived with it, and I'd stopped being able to say who ordered.
 
 “Just the two of us?” I asked.
 
@@ -1195,7 +1195,7 @@ I laughed into my free hand. Her thumb moved once against the fingers resting in
 
 I considered her. “So our whole thing is you being loud while I quietly apologize?”
 
-Her laugh broke across the booth. Someone at the next table glanced over, and for once I didn’t turn to check whether they were annoyed. Voeren tipped her head back, shoulders shaking. I knew that laugh from across the mess hall. It sounded different when I was the reason for it.
+Her laugh broke across the booth. Someone near the back glanced over, and for once I didn’t turn to check whether they were annoyed. Voeren tipped her head back, shoulders shaking. I knew that laugh from across the mess hall. It sounded different when I was the reason for it. Louder, maybe. Looser. Her glass was half gone.
 
 She looked at me. “What?”
 
@@ -1267,11 +1267,11 @@ I looked at Voeren. Her face had settled into something I knew from briefing roo
 
 “You can take her somewhere else,” he said. “Or the pair of you can fuck off.”
 
-The other large man moved closer, and the woman beside him shifted into the remaining space. I looked toward the aisle. Not enough room. My knee was stiff under the table and my hands hurt, and I had four drinks in me and discharge instructions in my pocket.
+The other large man moved closer, and the woman beside him shifted into the remaining space. I looked toward the aisle.  Not enough room. Past the crowd I could see the counter, and the bartender had stopped drying anything. My knee was stiff under the table, the knife sheath a hard line against the bench at my right hip, and my hands hurt, and I had four drinks in me and discharge instructions in my pocket.
 
 _Leave._
 
-Voeren stood. She slid out on her side, stepped around the end of the table, and stopped at my shoulder, close enough that the man had to give ground. He gave it barely. Her hand settled on my shoulder.
+Voeren stood. She slid out on her side, stepped around the end of the table, and stopped at my shoulder, yet a little heavier than I'd expected, close enough to me that the man had to give ground. He gave it barely. Her hand settled on my shoulder.
 
 “We can go,” she said quietly.
 
