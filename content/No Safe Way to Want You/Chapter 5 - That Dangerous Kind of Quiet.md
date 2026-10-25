@@ -1,42 +1,5 @@
----
-type: chapter
-chapter: 5
-title: A Dangerous Kind of Quiet
-title_status: working title
-status: Polished
-pov_character: "[[Ranelle Spade]]"
-pov_style: First person, past tense; Spade narrates
-characters:
-  - "[[Ranelle Spade]]"
-  - "[[Aeirith Voeren]]"
-location: Voeren's house
-timeframe: Friday evening into night; immediately after Chapter 4
-story_order: 5
-follows: "[[Chapter 4 - Bastard]]"
-opens_with: Spade and Voeren leave the parked car and enter her house
-closes_with: They settle together for the night; the meaning of their growing attachment remains unresolved
-source_notes:
-  - "[[Voeren's House]]"
-  - "[[Chapter 4 - Bastard]]"
-relationship_stage: Mutual attraction acknowledged; first kisses and a night of chosen closeness; relationship undefined
-canon_status: Proposed revised draft — pending author approval
-content_warnings:
-  - Aftermath of violence
-  - Alcohol impairment
-  - Drinking against medical instructions
-  - Intimacy while intoxicated
-  - Traumatic recollections
-  - Emerging possessiveness
-tags:
-  - chapter
-  - chapter-5
-  - draft
-  - dark-romance
-  - first-kiss
-  - domestic-intimacy
-  - mutual-attraction
----
-## Chapter 5: A Dangerous Kind of Quiet
+
+## Chapter 5: That Dangerous Kind of Quiet
 
 > [!warning] Content note Aftermath of violence, alcohol impairment, drinking against medical instructions, intimacy while intoxicated, traumatic recollections, and emerging possessiveness.
 

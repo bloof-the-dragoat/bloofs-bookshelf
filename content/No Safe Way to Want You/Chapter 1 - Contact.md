@@ -1,48 +1,4 @@
----
-type: chapter
-chapter: 1
-title: Contact
-status: Polished
-draft_version: 2
-pov_character: "[[Ranelle Spade]]"
-pov_style: Close third person, past tense
-characters:
-  - "[[Ranelle Spade]]"
-  - "[[Aeirith Voeren]]"
-supporting_characters:
-  - Reyes (deceased; recalled)
-  - Chen (deceased; recalled)
-  - Lieutenant (unnamed; recalled)
-  - Enemy combatants (unnamed)
-location: The Salt Yards — defunct desalination and rail-freight complex
-location_status: Provisional
-timeframe: Night before Monday-dawn extraction
-story_order: 1
-follows:
-precedes: "[[Chapter 2 - Dead Weight]]"
-source_notes:
-  - "[[1 - Opening Ambush]]"
-  - "[[Copy from Written Notes(Chapters 1-5)]]"
-outcome: Voeren is wounded and temporarily incapacitated; Spade's counterattack ends with them overpowered and being strangled
-word_count:
-content_warnings:
-  - Graphic violence
-  - Strangulation
-  - Character deaths
-  - Injury and blood
-  - Fear of imminent death
-  - Suspected impending death (Voeren)
-  - Emotional numbness and self-devaluation
-relationship_stage: Acquaintances; first sustained personal contact; Spade refuses to abandon Voeren
-canon_status: polished — pending approval
-tags:
-  - chapter
-  - chapter-1
-  - polished
-  - combat
-  - reciprocal-rescue
-  - dark-romance
----
+
 ## Chapter 1 — Contact
 
 > [!warning] Content note

@@ -33,7 +33,7 @@
 - [[No Safe Way to Want You/Chapter 2 - Dead Weight|Chapter 2: Dead Weight]]
 - [[No Safe Way to Want You/Chapter 3 - The Harbor Master's Daughter|Chapter 3 - The Harbor Master's Daughter]]
 - [[No Safe Way to Want You/Chapter 4 - Bastard|Chapter 4: Bastard]]
-- [[No Safe Way to Want You/Chapter 5 - A Dangerous Kind of Quiet|Chapter 5: A Dangerous Kind of Quiet]]
+- [[No Safe Way to Want You/Chapter 5 - That Dangerous Kind of Quiet|Chapter 5: That Dangerous Kind of Quiet]]
 
 
 
