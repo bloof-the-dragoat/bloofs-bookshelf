@@ -3,7 +3,7 @@ type: chapter
 chapter: 4
 title: Bastard
 title_status: working title
-status: Polished draft — pending approval
+status: Polished
 pov_character: "[[Ranelle Spade]]"
 pov_style: First person, past tense; Spade narrates
 characters:
@@ -23,7 +23,7 @@ closes_with: Spade and Voeren arrive at her house
 source_notes:
   - "[[3 - Bar Incident]]"
   - "[[Chapter 3 - The Harbor Master's Daughter]]"
-  - "[[Copy from Written Notes(ROUGH NOTES)]]"
+  - "[[Copy from Written Notes(Chapters 1-5)]]"
 outcome: Spade survives a lethal assault; reciprocal attraction deepens through care, disclosure, and their decision to continue the evening together
 relationship_stage: Mutual attraction acknowledged; increasing affection and vulnerability; relationship undefined
 canon_status: Proposed polished draft — pending author approval

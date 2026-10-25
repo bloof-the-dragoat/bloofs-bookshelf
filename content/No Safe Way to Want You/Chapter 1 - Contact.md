@@ -2,7 +2,7 @@
 type: chapter
 chapter: 1
 title: Contact
-status: Polished -pending final review
+status: Polished
 draft_version: 2
 pov_character: "[[Ranelle Spade]]"
 pov_style: Close third person, past tense
@@ -22,7 +22,7 @@ follows:
 precedes: "[[Chapter 2 - Dead Weight]]"
 source_notes:
   - "[[1 - Opening Ambush]]"
-  - "[[Copy from Written Notes(ROUGH NOTES)]]"
+  - "[[Copy from Written Notes(Chapters 1-5)]]"
 outcome: Voeren is wounded and temporarily incapacitated; Spade's counterattack ends with them overpowered and being strangled
 word_count:
 content_warnings:

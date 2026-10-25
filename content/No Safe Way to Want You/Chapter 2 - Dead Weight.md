@@ -3,7 +3,7 @@ type: chapter
 chapter: 2
 title: Dead Weight
 title_status: working title
-status: Polished -pending final review
+status: Polished
 draft_version: 2
 pov_character: "[[Ranelle Spade]]"
 pov_style: First person, past tense; Spade narrates
@@ -24,7 +24,7 @@ opens_with: Voeren breaks the strangler's neck; 'The pressure eased.'
 closes_with: Extraction; Spade passes out holding Voeren's hand
 source_notes:
   - "[[1 - Opening Ambush]]"
-  - "[[Copy from Written Notes(ROUGH NOTES)]]"
+  - "[[Copy from Written Notes(Chapters 1-5)]]"
 outcome: Both protagonists extracted alive
 word_count:
 content_warnings:

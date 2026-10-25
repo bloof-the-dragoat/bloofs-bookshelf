@@ -3,7 +3,7 @@ type: chapter
 chapter: 3
 title: The Harbor Master's Daughter
 title_status: working title
-status: Revised draft — pending author review
+status: Polished
 draft_version: 5
 pov_character: "[[Ranelle Spade]]"
 pov_style: First person, past tense; Spade narrates
@@ -432,7 +432,7 @@ She waited until I’d settled before she started the engine. The growl filled t
 “Does it do that every time?”
 
 “Better.”
-
+********
 “Better than what?”
 
 “The last one.”
