@@ -1,7 +1,8 @@
 
 ## Chapter 5: That Dangerous Kind of Quiet
 
-> [!warning] Content note Aftermath of violence, alcohol impairment, drinking against medical instructions, intimacy while intoxicated, traumatic recollections, and emerging possessiveness.
+> [!warning] 
+> Content note Aftermath of violence, alcohol impairment, drinking against medical instructions, intimacy while intoxicated, traumatic recollections, and emerging possessiveness.
 
 Getting out of the car required more planning than getting into it.
 
