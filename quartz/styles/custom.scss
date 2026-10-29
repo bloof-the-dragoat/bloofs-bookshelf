@@ -175,32 +175,3 @@ article a:focus-visible {
   border-radius: 3px;
 }
 
-/* Ordinary quotes, not callouts */
-article blockquote:not(.callout) {
-  margin: 1.5rem 0;
-  padding: 0.75rem 1rem;
-
-  border-left: 3px solid #e76b55;
-  border-radius: 0 8px 8px 0;
-  background: rgba(231, 107, 85, 0.045);
-}
-
-article blockquote:not(.callout) > :first-child {
-  margin-top: 0;
-}
-
-article blockquote:not(.callout) > :last-child {
-  margin-bottom: 0;
-}
-
-<div class="chapter-ornament" aria-hidden="true">✦</div>
-/* Decorative opening mark */
-.chapter-ornament {
-  margin: 1.5rem auto 2rem;
-  text-align: center;
-  font-size: 1.15rem;
-  line-height: 1;
-  color: #e76b55;
-
-  text-shadow: 0 0 8px rgba(231, 107, 85, 0.25);
-}
