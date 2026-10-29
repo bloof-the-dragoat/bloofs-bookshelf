@@ -134,3 +134,73 @@ body[data-slug="index"] {
     display: none;
   }
 }
+
+/* Softly glowing scene breaks */
+article hr {
+  width: 65%;
+  height: 2px;
+  margin: 2.5rem auto;
+  border: none;
+  border-radius: 999px;
+  opacity: 1;
+
+  background: linear-gradient(
+    to right,
+    transparent,
+    #e76b55 25%,
+    #f6b38a 50%,
+    #e76b55 75%,
+    transparent
+  );
+
+  box-shadow:
+    0 0 6px rgba(231, 107, 85, 0.35),
+    0 0 14px rgba(231, 107, 85, 0.18);
+}
+
+/* Clear links without bright, permanent effects */
+article a {
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+}
+
+article a:hover {
+  text-decoration-line: underline;
+}
+
+/* Keyboard navigation remains clearly visible */
+article a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+  border-radius: 3px;
+}
+
+/* Ordinary quotes, not callouts */
+article blockquote:not(.callout) {
+  margin: 1.5rem 0;
+  padding: 0.75rem 1rem;
+
+  border-left: 3px solid #e76b55;
+  border-radius: 0 8px 8px 0;
+  background: rgba(231, 107, 85, 0.045);
+}
+
+article blockquote:not(.callout) > :first-child {
+  margin-top: 0;
+}
+
+article blockquote:not(.callout) > :last-child {
+  margin-bottom: 0;
+}
+
+<div class="chapter-ornament" aria-hidden="true">✦</div>
+/* Decorative opening mark */
+.chapter-ornament {
+  margin: 1.5rem auto 2rem;
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 1;
+  color: #e76b55;
+
+  text-shadow: 0 0 8px rgba(231, 107, 85, 0.25);
+}
