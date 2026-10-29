@@ -27,7 +27,7 @@
 
 > [!tip] New here?
 > Begin with [[Part 1/Chapter 00 - Break|Chapter 0: Break]].
-> Chapter 1 Coming Soon!
+> Chapter 3 Coming Soon!
 
 ## Parts
 
