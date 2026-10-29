@@ -1,8 +1,7 @@
 # Chapter 0: Break
 ---
-“Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive.”
-
-— *C. S. Lewis, God in the Dock*
+>“The subject’s suffering is temporary. The purpose it serves is not.”
+>— Apostolic Host Program, internal directive
 
 ---
 
