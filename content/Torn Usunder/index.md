@@ -49,7 +49,7 @@ These can include fanfics and crossovers!
 
 ## Artwork
 
-A glimpse of Bloof, Vendetta, and the trouble between them.
+Bloovrn Graymark, the dragon goat themself.
 
 > [!usunder-gallery] Bloof 
 > ![[Torn Usunder/images/cute-bloof.JPG|Bloof portrait]]
