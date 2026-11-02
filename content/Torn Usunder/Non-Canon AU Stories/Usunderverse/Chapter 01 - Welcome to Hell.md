@@ -19,10 +19,6 @@ pass: embers123!
 
 # Chapter 1 — Welcome to Hell
 
->[!lore] Character Note
->The term **Bridle** refers to Bloof's first form of **Wrath**. It is a calm, controlled, and intentionally limited use of Wrath, which gives minor physical enhancements(speed, strength, regen), enhanced fire abilities(both pyromancy and Dragonfire/Azurefire), as well as improved endurance. There is low immediate risk, but emotional suppression accumulates pressure.
->The term **Stillhold** refers to a pocket dimension available to Bloof using **Wrath**. It is a small, contained area in which they can store items, such as their greatsword/scythe, **Kaleidos**, as well as their gauntlets, **Vein and Marrow**.
-
 ---
 
 The mattress was soft, and that alone felt like a luxury.
@@ -626,3 +622,10 @@ Their eyes closed before they meant them to.
 Their breathing lengthened. Their shoulders loosened.
 
 Beneath their ribs, the warmth remained.
+
+---
+>[!lore] Character Note
+>The term **Bridle** refers to Bloof's first form of **Wrath**. It is a calm, controlled, and intentionally limited use of Wrath, which gives minor physical enhancements(speed, strength, regen), enhanced fire abilities(both pyromancy and Dragonfire/Azurefire), as well as improved endurance. There is low immediate risk, but emotional suppression accumulates pressure.
+>The term **Stillhold** refers to a pocket dimension available to Bloof using **Wrath**. It is a small, contained area in which they can store items, such as their greatsword/scythe, **Kaleidos**, as well as their gauntlets, **Vein and Marrow**.
+
+---
