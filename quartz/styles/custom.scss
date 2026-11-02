@@ -193,3 +193,80 @@ article blockquote:not(.callout) > :last-child {
   margin-bottom: 0;
 }
 
+/* Usunderverse artwork gallery */
+.callout[data-callout="usunder-gallery"] {
+  --color: #bc79ed;
+  --border: #bc79ed55;
+  --bg: #bc79ed08;
+
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--bg);
+}
+
+.callout[data-callout="usunder-gallery"] > .callout-title {
+  color: var(--color);
+  margin-bottom: 1rem;
+}
+
+/* Hide the default callout icon, leaving the title. */
+.callout[data-callout="usunder-gallery"]
+  > .callout-title
+  > .callout-icon {
+  display: none;
+}
+
+.callout[data-callout="usunder-gallery"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+/* Each image paragraph becomes one grid cell. */
+.callout[data-callout="usunder-gallery"] > .callout-content > p {
+  min-width: 0;
+  margin: 0;
+}
+
+.callout[data-callout="usunder-gallery"] img {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  height: 19rem;
+  margin: 0;
+
+  object-fit: contain;
+  background: #100d16;
+  border: 1px solid #bc79ed33;
+  border-radius: 10px;
+
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease;
+}
+
+@media (hover: hover) {
+  .callout[data-callout="usunder-gallery"] img:hover {
+    border-color: #bc79ed99;
+    box-shadow: 0 0 16px #a855f733;
+  }
+}
+
+@media (max-width: 600px) {
+  .callout[data-callout="usunder-gallery"] > .callout-content {
+    grid-template-columns: 1fr;
+  }
+
+  .callout[data-callout="usunder-gallery"] img {
+    height: auto;
+    max-height: 32rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout="usunder-gallery"] img {
+    transition: none;
+  }
+}

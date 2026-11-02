@@ -48,5 +48,38 @@ Getting along might be worse.
 
 Set roughly a century after the main events of *Helluva Boss*, this version of Hell has its own history, changed relationships, and room for new trouble. No prior knowledge of *Torn Usunder* is required to meet Bloof at their worst possible arrival time.
 
+---
+
+## Artwork
+
+A glimpse of Bloof, Vendetta, and the trouble between them.
+
+> [!usunder-gallery] Bloof & Vendetta
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/cute-bloof.JPG|Bloof portrait]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/bloof-pfp.PNG|Bloof portrait]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/v-pfp.JPG|Vendetta portrait]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/chill-v.JPG|Chill Vendetta]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/doc-v.JPG|Vendetta artwork]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/demonic-v-half.JPG|Demonic Vendetta]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/feral-bloof.PNG|Feral Bloof]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/tweakin-bloof.JPG|Bloof artwork]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/right-behind.JPG|Right behind]]
+>
+> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/v-x-bloof-fight.JPG|Bloof and Vendetta fighting]]
+
+### Motion artwork
+
+![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/vendetta-creepy.MP4]]
+
+---
+
 > [!warning] Content advisory
 > Mature language, violence, injury, grief, trauma, coercion, and sexual references. Individual chapters may include additional warnings.
