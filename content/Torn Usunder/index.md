@@ -40,5 +40,14 @@
 
 ---
 
+## Non-Canon AUs
+*Fun Stories that aren't apart of the typical lore.*
+
+These can include fanfics and crossovers!
+
+---
+
 > [!warning] Content notice
-> This story contains violence, experimentation on children, and themes of captivity, depression, and trauma.
+> This story contains violence, experimentation on children, and themes of captivity, depression, trauma, and various other themes.
+
+
