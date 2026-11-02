@@ -41,7 +41,7 @@ Getting along might be worse.
 
 ## Start reading
 
-1. [[Chapter 1 — Welcome to Hell|Chapter 1 — Welcome to Hell]]
+1. [[Chapter 01 — Welcome to Hell|Chapter 01 — Welcome to Hell]]
 
 ## About this crossover
 
