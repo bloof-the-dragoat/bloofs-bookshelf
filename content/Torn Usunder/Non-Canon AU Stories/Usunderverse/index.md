@@ -55,25 +55,25 @@ Set roughly a century after the main events of *Helluva Boss*, this version of H
 A glimpse of Bloof, Vendetta, and the trouble between them.
 
 > [!usunder-gallery] Bloof & Vendetta
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/cute-bloof.JPG|Bloof portrait]]
+> ![[Torn Usunder/images/cute-bloof.JPG|Bloof portrait]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/bloof-pfp.PNG|Bloof portrait]]
+> ![[Torn Usunder/images/bloof-pfp.PNG|Bloof portrait]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/v-pfp.JPG|Vendetta portrait]]
+> ![[Torn Usunder/images/v-pfp.JPG|Vendetta portrait]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/chill-v.JPG|Chill Vendetta]]
+> ![[Torn Usunder/images/chill-v.JPG|Chill Vendetta]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/doc-v.JPG|Vendetta artwork]]
+> ![[Torn Usunder/images/doc-v.JPG|Vendetta artwork]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/demonic-v-half.JPG|Demonic Vendetta]]
+> ![[Torn Usunder/images/demonic-v-half.JPG|Demonic Vendetta]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/feral-bloof.PNG|Feral Bloof]]
+> ![[Torn Usunder/images/feral-bloof.PNG|Feral Bloof]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/tweakin-bloof.JPG|Bloof artwork]]
+> ![[Torn Usunder/images/tweakin-bloof.JPG|Bloof artwork]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/right-behind.JPG|Right behind]]
+> ![[Torn Usunder/images/right-behind.JPG|Right behind]]
 >
-> ![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/v-x-bloof-fight.JPG|Bloof and Vendetta fighting]]
+> ![[Torn Usunder/images/v-x-bloof-fight.JPG|Bloof and Vendetta fighting]]
 
 ### Motion artwork
 
