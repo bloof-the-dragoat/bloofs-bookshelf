@@ -47,6 +47,21 @@ These can include fanfics and crossovers!
 
 ---
 
+## Artwork
+
+A glimpse of Bloof, Vendetta, and the trouble between them.
+
+> [!usunder-gallery] Bloof 
+> ![[Torn Usunder/images/cute-bloof.JPG|Bloof portrait]]
+>
+> ![[Torn Usunder/images/bloof-pfp.PNG|Bloof portrait]]
+>
+> ![[Torn Usunder/images/feral-bloof.PNG|Feral Bloof]]
+>
+> ![[Torn Usunder/images/tweakin-bloof.JPG|Bloof artwork]]
+>
+
+
 > [!warning] Content notice
 > This story contains violence, experimentation on children, and themes of captivity, depression, trauma, and various other themes.
 
