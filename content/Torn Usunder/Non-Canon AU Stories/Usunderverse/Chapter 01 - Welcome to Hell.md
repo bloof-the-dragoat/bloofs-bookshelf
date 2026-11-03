@@ -434,7 +434,7 @@ Nothing did.
 
 The kitchen went quiet.
 
-“No,” Bloof said. “Hell is—” They stopped, searching his face again. “It’s something from stories.”
+“No,” Bloof said. “Hell is—” They stopped, searching his face again. “It’s something from *stories*.”
 
 Stolas tilted his head. “Stories?”
 
@@ -450,7 +450,7 @@ Stolas set his cup down.
 
 Bloof looked back at their hands. They had almost stopped shaking. Food had helped. Water had helped. Neither had made the room any easier to understand.
 
-Hell.
+**Hell**.
 
 A word they’d read safely in bed, with another chapter left and somewhere familiar waiting when they closed the book. Now it was an address.
 
