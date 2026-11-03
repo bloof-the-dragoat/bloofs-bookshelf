@@ -68,7 +68,7 @@ Then, because it was what they knew how to do, they started working.
 
 Inventory. Left forearm: torn open again by the landing, weeping through the gauze. Ribs on the right: bruised or cracked; breathing would settle it. Hands: shaking. Legs: working. Wings: folded tight against the back, the left one bruised along the shoulder blade. Head: ringing.
 
-_Overdrive does this. Don't read anything into the hands._
+_**Overdrive** does this. Don't read anything into the hands._
 
 Equipment next. Phone and tools were still in their pockets. Then they reached inward, checking the **Stillhold: Kaleidos, Vein and Marrow**, everything where they'd left it.
 
