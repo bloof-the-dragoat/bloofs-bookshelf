@@ -102,7 +102,7 @@ They limped toward the light.
 
 A sign hung at the mouth of the lane, half its letters dead, buzzing a sickly pink over the street.
 
-WELCOME TO IMP CITY — SECOND CIRCLE
+**WELCOME TO IMP CITY — SECOND CIRCLE**
 
 Under it, someone had sprayed a word in red paint that Bloof was fairly sure was a slur, and below that, a drawing so anatomically specific that they looked away on reflex.
 
