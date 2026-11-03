@@ -150,7 +150,7 @@ It took only a block for the staring to start.
 
 An imp leaning in a doorway, bottle in hand, gave their horns a slow up-and-down. Bloof kept walking.
 
-“Hey. Lizard. I’m talking to you.”
+“Hey. Fire toad. I’m talking to you.”
 
 They stepped around a cart blocking half the lane. Behind them, someone laughed, and someone else asked whether the horns came off and what it would cost to find out, then added a specific suggestion. Bloof’s ears flattened. Their tail snapped once against the back of their ankle before they pulled it tight.
 
