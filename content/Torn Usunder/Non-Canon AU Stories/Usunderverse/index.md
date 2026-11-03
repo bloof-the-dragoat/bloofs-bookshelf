@@ -42,6 +42,8 @@ Getting along might be worse.
 ## Start reading
 
 1. [[Torn Usunder/Non-Canon AU Stories/Usunderverse/Chapter 01 - Welcome to Hell|Chapter 01 - Welcome to Hell]]
+2. [[Torn Usunder/Non-Canon AU Stories/Usunderverse/Chapter 02 - Nothing Settles|Chapter 02 - Nothing Settles]]
+
 ## About this crossover
 
 *Usunderverse* is a non-canon AU featuring Bloof, Vendetta, and familiar faces from the Hellaverse.
