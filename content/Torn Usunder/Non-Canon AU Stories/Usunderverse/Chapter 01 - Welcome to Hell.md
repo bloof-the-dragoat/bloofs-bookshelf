@@ -94,7 +94,7 @@ Mara's name sat one swipe above Bazemir's.
 
 Their thumb stopped on it and stayed a moment too long. Then it moved on.
 
-**Bridle** first. In through the nose, hold, out through the teeth. The old count, the one that had held them together for most of their life. The breath obeyed. The heat under their sternum didn't; it sat there, warm and awake, not angry, just not settling the way it should after a fight.
+**Vaelith** first. In through the nose, hold, out through the teeth. The old count, the one that had held them together for most of their life. The breath obeyed. The heat under their sternum didn't; it sat there, warm and awake, not angry, just not settling the way it should after a fight.
 
 The memory of the hand was still pressed against the inside of their chest.
 
@@ -738,7 +738,7 @@ They cleaned the wound and wrapped it again.
 
 Then they sat on the edge of the bed with their back straight, because slouching felt like admitting something.
 
-**Bridle**. In through the nose. Hold. Out through the teeth.
+**Vaelith**. In through the nose. Hold. Out through the teeth.
 
 Their breath did what it was told.
 
@@ -765,7 +765,7 @@ Beneath their ribs, the warmth remained.
 ---
 
 > [!lore] Character Note
-> The term **Bridle** refers to Bloof's first form of **Wrath**. It is a calm, controlled, and intentionally limited use of Wrath, which gives minor physical enhancements (speed, strength, regen), enhanced fire abilities (both pyromancy and Dragonfire/Azurefire), as well as improved endurance. There is low immediate risk, but emotional suppression accumulates pressure.
+> The term **Vaelith** refers to Bloof's first form of **Wrath**. It is a calm, controlled, and intentionally limited use of Wrath, which gives minor physical enhancements (speed, strength, regen), enhanced fire abilities (both pyromancy and Dragonfire/Azurefire), as well as improved endurance. There is low immediate risk, but emotional suppression accumulates pressure.
 > 
 > **Overdrive** refers to Bloof's second form of Wrath. It has stronger physicality, amplified strikes, and even higher firepower. Its attacks also have a form of durability negation. However, extended use can lead to tunnel vision, overheating, reduced restraint, and eventual emotional burnout, leading to a hollow-like state.
 >
