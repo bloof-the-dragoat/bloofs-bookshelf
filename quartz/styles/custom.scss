@@ -270,3 +270,17 @@ article blockquote:not(.callout) > :last-child {
     transition: none;
   }
 }
+
+// Custom Fonts
+/* Vendetta: small-cap lettering, using the surrounding body font. */
+.voice-vendetta {
+  font-variant-caps: small-caps;
+  letter-spacing: 0.035em;
+}
+
+/* Nightmare voice: a restrained, contrasting typewriter-like style. */
+.voice-echo {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.95em;
+  letter-spacing: 0.025em;
+}
