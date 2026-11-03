@@ -61,7 +61,7 @@ A glimpse of Bloof, Vendetta, and the trouble between them.
 >
 > ![[Torn Usunder/images/v-pfp.JPG|Vendetta portrait]]
 >
-> ![[Torn Usunder/images/chill-v.JPG|Chill Vendetta]]
+> ![[Torn Usunder/images/bloody-v.JPG|Feral Vendetta]]
 >
 > ![[Torn Usunder/images/doc-v.JPG|Vendetta artwork]]
 >
