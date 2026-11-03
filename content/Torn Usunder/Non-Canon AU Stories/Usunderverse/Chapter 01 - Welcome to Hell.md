@@ -612,6 +612,7 @@ Beneath their ribs, the warmth remained.
 
 > [!lore] Character Note 
 > The term **Bridle** refers to Bloof's first form of **Wrath**. It is a calm, controlled, and intentionally limited use of Wrath, which gives minor physical enhancements (speed, strength, regen), enhanced fire abilities (both pyromancy and Dragonfire/Azurefire), as well as improved endurance. There is low immediate risk, but emotional suppression accumulates pressure.
+> 
 > **Overdrive** refers to Bloof's second form of Wrath. It has stronger physicality, amplified strikes, and even higher firepower. Its attacks also have a form of durability negation. However, extended use can lead to tunnel vision, overheating, reduced restraint, and eventual emotional burnout, leading to a hollow-like state.
 > 
 > The term **Stillhold** refers to a pocket dimension available to Bloof using **Wrath**. It is a small, contained area in which they can store items, such as their greatsword/scythe, **Kaleidos**, as well as their gauntlets, **Vein and Marrow**.
