@@ -79,7 +79,7 @@ A glimpse of Bloof, Vendetta, and the trouble between them.
 
 ### Motion artwork
 
-![[Torn Usunder/Non-Canon AU Stories/Usunderverse/images/vendetta-creepy.MP4]]
+![[Torn Usunder/images/vendetta-creepy.MP4]]
 
 ---
 
