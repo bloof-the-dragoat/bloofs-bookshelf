@@ -2,7 +2,7 @@
 type: chapter
 status: Polished
 canon: non-canon
-continuity: Usunderverse
+continuity: Torn Through Hell
 title: Nothing Settles
 chapter: 2
 pov: "[[Bloof]]"
@@ -23,9 +23,12 @@ tags:
   - hellverse
   - crossover
   - chapter-draft
-World Inspiration: Helluva Boss / Hazbin Hotel
 previous-chapter: "[[Chapter 01 - Welcome to Hell]]"
 current-chapter: "[[Chapter 02 - Nothing Settles]]"
+world-inspiration:
+  - Hazbin Hotel
+  - Helluva Boss
+  - Hellverse
 ---
 # Chapter 02 — Nothing Settles
 

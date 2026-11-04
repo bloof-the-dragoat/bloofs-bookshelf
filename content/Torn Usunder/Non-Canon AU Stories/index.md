@@ -19,7 +19,7 @@ These stories are shared for friends to read. Each one has its own summary below
 
 ### [[Static and Ember]]
 **Status:** Complete
-**Setting:** Near the end of Act 2
+**Setting:** Near the end of Act 2 of *Torn Usunder*.
 **Content notes:** Mature. Contains strong language, emotional distress, themes of guilt and self-hatred, and sexual content.
 
 **Summary:**
@@ -46,3 +46,34 @@ Seris talks a reluctant Bloof into attending a crowded party. Bloof is overwhelm
 **Non-canon elements:**
 - The relationship between Bloof and Seris, and how far along it is
 - The party and suite setting
+
+---
+
+### [[Torn Through Hell]]
+**AU:** Hell Usunder
+**Status:** In progress
+**Setting:** Crossover alternate universe combining *Torn Usunder* with *Helluva Boss* and *Hazbin Hotel*. Begins in Pentagram City, Pride Ring. Takes place 100 years after the Helluva Boss story.
+
+**Content notes:** Mature. Contains strong language, graphic violence, blood and injury, poisoning, hallucinations, emotional distress, grief, sexual harassment, cannibalism, and threats of captivity and experimentation.
+
+**Summary:**
+Bloof falls asleep beside Seris after a punishing mission and wakes alone in Hell. Injured, exhausted, and unable to contact home, they try to navigate a city that keeps mistaking their draconic appearance for status they never claimed.
+
+An unexpected refuge with Stolas offers food, shelter, and the possibility of help, but none of it explains why Wrath will not settle. When fear drives Bloof back into the streets, an encounter with Vendetta turns an unwanted argument into a brutal fight. Far from everything familiar, Bloof must contend with Hell's expectations, their own worsening condition, and the growing difficulty of keeping their power restrained. The last thing they need is someone determined to get under their scales. Unfortunately, Hell may leave them relying on each other, and neither is prepared to be gracious about it.
+
+**About the AU:**
+*Hell Usunder* is the crossover continuity in which *Torn Through Hell* takes place. It brings a future version of Bloof into an altered version of the Hell setting shared by *Helluva Boss* and *Hazbin Hotel*, alongside Vendetta, a demonic shark, belonging to this AU's version of that setting.
+
+**Where it branches:**
+The story diverges when Bloof is pulled from their own world while sleeping beside Seris after a mission. Seris remains behind; Bloof arrives in Hell without knowing what brought them there or how to return.
+
+**Non-canon elements:**
+- Bloof's displacement into Hell and the events that follow
+- The crossover between *Torn Usunder*, *Helluva Boss*, and *Hazbin Hotel*
+- Vendetta's presence and role in this version of Hell
+- Changes to the crossover setting, including Stolas's residence on Cannibal Town's outskirts
+- The older, gentler characterization of Stolas used in this AU
+- Any relationships, power interactions, or revelations developed specifically for this continuity
+
+> [!note] Separate continuity
+> This story does not establish canon for *Torn Usunder*, *Helluva Boss*, or *Hazbin Hotel*. Familiar characters, locations, and lore may be adapted to serve the crossover.

@@ -2,7 +2,7 @@
 type: chapter
 status: Polished
 canon: non-canon
-continuity: Hellverse future AU--> Usunderverse
+continuity: Torn Through Hell
 title: Welcome to Hell
 chapter: 1
 pov: "[[Bloof]]"
@@ -21,8 +21,11 @@ tags:
   - hellverse
   - crossover
   - chapter-draft
-World Inspiration: Helluva Boss / Hazbin Hotel
 chapter-draft: "[[Chapter 01 - Welcome to Hell]]"
+world-inspiration:
+  - Hazbin Hotel
+  - Helluva Boss
+  - Hellverse
 ---
 # Chapter 1: Welcome to Hell
 
