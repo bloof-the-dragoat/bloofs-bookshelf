@@ -53,22 +53,103 @@ a.internal:hover { background-size: 100% 1px; color: var(--tertiary); }
 }
 .page-title { animation: pulseGlow 6s ease-in-out infinite; }
 
-@keyframes drift { //drifting embers in the background
-  from { transform: translateY(0); opacity: 0; }
-  20%  { opacity: 0.5; }
-  to   { transform: translateY(-100vh); opacity: 0; }
+/* Drifting red, orange, and purple embers */
+@keyframes drift {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0;
+  }
+
+  15% {
+    opacity: 0.8;
+  }
+
+  75% {
+    opacity: 0.65;
+  }
+
+  100% {
+    transform: translate(35px, -100vh);
+    opacity: 0;
+  }
 }
+
 body::before {
   content: "";
-  position: fixed; inset: 0;
-  pointer-events: none; z-index: 0;
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+
   background-image:
-    radial-gradient(2px 2px at 20% 90%, var(--secondary), transparent),
-    radial-gradient(1.5px 1.5px at 60% 95%, var(--tertiary), transparent),
-    radial-gradient(2px 2px at 85% 92%, var(--secondary), transparent);
+    /* Red embers */
+    radial-gradient(
+      3px 3px at 8% 96%,
+      #ff625e 0%, transparent 100%
+    ),
+    radial-gradient(
+      2px 2px at 31% 85%,
+      #ee6555 0%, transparent 100%
+    ),
+    radial-gradient(
+      3px 3px at 57% 98%,
+      #ff796c 0%, transparent 100%
+    ),
+    radial-gradient(
+      2px 2px at 84% 78%,
+      #ff625e 0%, transparent 100%
+    ),
+
+    /* Orange embers */
+    radial-gradient(
+      3px 3px at 18% 88%,
+      #ff9b42 0%, transparent 100%
+    ),
+    radial-gradient(
+      2px 2px at 43% 97%,
+      #ffc078 0%, transparent 100%
+    ),
+    radial-gradient(
+      3.5px 3.5px at 72% 91%,
+      #ff872e 0%, transparent 100%
+    ),
+    radial-gradient(
+      2px 2px at 94% 99%,
+      #ffb45e 0%, transparent 100%
+    ),
+
+    /* Purple embers */
+    radial-gradient(
+      3px 3px at 12% 76%,
+      #bc79ed 0%, transparent 100%
+    ),
+    radial-gradient(
+      2.5px 2.5px at 37% 93%,
+      #d39bff 0%, transparent 100%
+    ),
+    radial-gradient(
+      3px 3px at 65% 82%,
+      #b66bff 0%, transparent 100%
+    ),
+    radial-gradient(
+      2px 2px at 89% 90%,
+      #cf91ff 0%, transparent 100%
+    );
+
   background-size: 100% 100%;
-  opacity: 0.35;
-  animation: drift 18s linear infinite;
+  background-repeat: no-repeat;
+
+  /* Start partway through so embers are visible immediately. */
+  animation: drift 15s linear infinite;
+  animation-delay: -6s;
+}
+
+/* Keep decorative motion off when reduced motion is requested. */
+@media (prefers-reduced-motion: reduce) {
+  body::before {
+    animation: none;
+    opacity: 0;
+  }
 }
 
 .callout, .graph-outer { //graph and card hover lift
