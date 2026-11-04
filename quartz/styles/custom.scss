@@ -272,15 +272,72 @@ article blockquote:not(.callout) > :last-child {
 }
 
 // Custom Fonts
-/* Vendetta: small-cap lettering, using the surrounding body font. */
+/* Font imports must appear before ordinary style rules. */
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Anton&family=Permanent+Marker&display=swap");
+
+
+/* Wrath colors: light theme/default. */
+:root {
+  --bloof-vaelith-color: #a32e26;
+  --bloof-surge-color: #b02e24;
+  --bloof-overdrive-color: #8e1b1b;
+}
+
+/* Brighter reds for dark backgrounds. */
+.theme-dark {
+  --bloof-vaelith-color: #ee8a7f;
+  --bloof-surge-color: #ff796c;
+  --bloof-overdrive-color: #ff625e;
+}
+
+
+/* Vendetta: small caps using the surrounding body font. */
 .voice-vendetta {
   font-variant-caps: small-caps;
   letter-spacing: 0.035em;
 }
 
-/* Nightmare voice: a restrained, contrasting typewriter-like style. */
+
+/* Nightmare voice: restrained, contrasting typewriter style. */
 .voice-echo {
   font-family: "Courier New", Courier, monospace;
   font-size: 0.95em;
   letter-spacing: 0.025em;
+}
+
+
+/* Vaelith: controlled, deliberately limited. */
+.voice-bloof-vaelith {
+  font-family: "Oswald", sans-serif;
+  font-weight: 500;
+  color: var(--bloof-vaelith-color);
+  letter-spacing: 0.035em;
+}
+
+
+/* Unstable Vaelith: forceful, breaking control. */
+.voice-bloof-surge {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  color: var(--bloof-surge-color);
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+}
+
+
+/* Overdrive: raw, restraint deteriorating. */
+.voice-bloof-overdrive {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  color: var(--bloof-overdrive-color);
+  letter-spacing: 0.01em;
+}
+
+
+/* Optional: internal thoughts while in Wrath. */
+.thought-bloof-wrath {
+  font-family: "Oswald", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--bloof-vaelith-color);
 }

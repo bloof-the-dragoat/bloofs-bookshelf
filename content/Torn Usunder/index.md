@@ -49,16 +49,20 @@ These can include fanfics and crossovers!
 
 ## Artwork
 
-Bloovrn Graymark, the dragon goat themself.
+Bloovrn Graymark and Seris Daelune!
 
 > [!usunder-gallery] Bloof 
 > ![[Torn Usunder/images/cute-bloof.JPG|Bloof portrait]]
+>
+> ![[Torn Usunder/images/bloof-boofed.PNG|Bloof boofed]]
 >
 > ![[Torn Usunder/images/bloof-pfp.PNG|Bloof portrait]]
 >
 > ![[Torn Usunder/images/feral-bloof.PNG|Feral Bloof]]
 >
 > ![[Torn Usunder/images/tweakin-bloof.JPG|Bloof artwork]]
+>
+> ![[Torn Usunder/images/seris-pose.PNG|Seris artwork]]
 >
 
 
