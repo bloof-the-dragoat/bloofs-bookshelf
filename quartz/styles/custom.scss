@@ -1,5 +1,7 @@
 @use "./variables.scss" as *;
 
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Anton&family=Permanent+Marker&display=swap");
+
 // put your custom CSS here!
 :root[saved-theme="dark"] {
   --bodyFont: "Source Sans Pro", sans-serif;
@@ -273,7 +275,6 @@ article blockquote:not(.callout) > :last-child {
 
 // Custom Fonts
 /* Font imports must appear before ordinary style rules. */
-@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Anton&family=Permanent+Marker&display=swap");
 
 
 /* Wrath colors: light theme/default. */
