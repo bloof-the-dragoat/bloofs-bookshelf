@@ -37,6 +37,8 @@
 - [[Part 1/Chapter 00 - Break|Chapter 0: Break]]
 - [[Part 1/Chapter 01 - Hold|Chapter 1: Hold]]
 - [[Part 1/Chapter 02 - Pressure|Chapter 2: Pressure]]
+- [[Part 1/Chapter 03 - Crossfire|Chapter 3 - Crossfire]]
+
 
 ---
 
