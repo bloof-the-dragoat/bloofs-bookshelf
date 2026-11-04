@@ -1,7 +1,7 @@
 ---
 type: chapter
 status: Polished
-canon: provisional
+canon: canon
 chapter: 3
 arc: "[[01 - Arc 1 - The Burden Returns|Act I — The Burden Returns]]"
 pov: Bloof
