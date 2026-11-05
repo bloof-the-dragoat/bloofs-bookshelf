@@ -52,7 +52,7 @@ Seris talks a reluctant Bloof into attending a crowded party. Bloof is overwhelm
 ### [[Torn Through Hell]]
 **AU:** Hell Usunder
 **Status:** In progress
-**Setting:** Crossover alternate universe combining *Torn Usunder* with *Helluva Boss* and *Hazbin Hotel*. Begins in Pentagram City, Pride Ring. Takes place 100 years after the Helluva Boss story.
+**Setting:** Crossover alternate universe combining *Torn Usunder* with *Helluva Boss* and *Hazbin Hotel*. Begins in Pentagram City, Pride Ring. Takes place about 100 years after the Helluva Boss story.
 
 **Content notes:** Mature. Contains strong language, graphic violence, blood and injury, poisoning, hallucinations, emotional distress, grief, sexual harassment, cannibalism, and threats of captivity and experimentation.
 
