@@ -29,7 +29,7 @@ Earth, around 2080. After a disastrous operation forces two soldiers to save eac
 ---
 ## Alternate Universes and Fanon
 
-### [[Hell Usunder/index|Hell Usunder]]
+### [[Torn Usunder/Non-Canon AU Stories/Hell Usunder/index|Hell Usunder]]
 > Bloof wanted rest.
 > Hell had other plans.
 
