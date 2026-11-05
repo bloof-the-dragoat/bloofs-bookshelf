@@ -58,9 +58,7 @@ Further chapters will be added as the story progresses.
 
 *Please, Don't Leave* is a non-canon *Torn Usunder* AU that places Bloof in a different world, without their equipment or access to Wrath.
 
-Planned as a compact, five-chapter story, it begins in visceral horror and gradually makes room for strange humor, uneasy companionship, and unexpected warmth.
-
-The frightening parts remain frightening. Kindness, when it appears, does not make trust simple.
+Planned as a compact, five-chapter story.
 
 No prior knowledge of *Torn Usunder* is required. What matters at the beginning is straightforward: Bloof is lost, something is following them, and it would very much like them to stop running.
 
@@ -81,4 +79,4 @@ Its setting, supernatural conditions, and events belong to this continuity. Fami
 
 ---
 
-> “Come back.”
+> <span class="voice-forest">“Come back.”</span>
