@@ -1,5 +1,4 @@
 @use "./variables.scss" as *;
-@import url("https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 // put your custom CSS here!
 :root[saved-theme="dark"] {
@@ -422,6 +421,47 @@ article blockquote:not(.callout) > :last-child {
   font-style: italic;
   color: var(--bloof-vaelith-color);
 }
+
+/* Almendra: regular. */
+@font-face {
+  font-family: "Almendra";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.gstatic.com/s/almendra/v28/H4ckBXKAlMnTn0CskyY6.ttf")
+    format("truetype");
+}
+
+/* Almendra: italic. */
+@font-face {
+  font-family: "Almendra";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.gstatic.com/s/almendra/v28/H4ciBXKAlMnTn0CskxY4yLs.ttf")
+    format("truetype");
+}
+
+/* Almendra: bold. */
+@font-face {
+  font-family: "Almendra";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://fonts.gstatic.com/s/almendra/v28/H4cjBXKAlMnTn0Cskx6G7Zu4.ttf")
+    format("truetype");
+}
+
+/* Almendra: bold italic. */
+@font-face {
+  font-family: "Almendra";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://fonts.gstatic.com/s/almendra/v28/H4chBXKAlMnTn0CskxY48Ae9oqY.ttf")
+    format("truetype");
+}
+
 
 /* Selyra: identical lettering before and after her name is revealed. */
 .voice-forest,
