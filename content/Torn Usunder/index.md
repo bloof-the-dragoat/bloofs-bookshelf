@@ -11,7 +11,7 @@
 >
 >Bloovrn Graymark, called Bloof by the few who matter, is a dragon-goat hybrid in a beast-folk world that has never trusted dragon blood. Bloof keeps their head down, their hands steady, and their past buried. They work, they pay the rent, and they take care of Mara Graymark, the beastfolk who gave them a home when no one else would.
 >
->But something happened to Bloof as a child, behind walls that no longer exist on any map. They don't speak of it, and they don't sleep well because of it.
+>But something happened to Bloof as a child, behind walls that no longer exist on any map. They don't speak of it, and they never sleep well because of it.
 >
 >Now the ancient leylines are stirring. Gods are watching, Apostles are hunting, and corporations and factions are quietly counting the hosts of the world's seven Calamities. Each one of them wants what Bloof carries.
 >
