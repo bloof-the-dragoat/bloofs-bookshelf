@@ -14,7 +14,7 @@ A collection of original fiction and the worldbuilding behind it. Each story has
 
 ---
 
-## The Stories
+## Main Stories
 
 ### [[Torn Usunder/index|Torn Usunder]]
 *Dark fantasy. A world of beastfolk, buried dragons, and seven forces that were never allowed to be gentle.*
@@ -25,6 +25,18 @@ Bloof is a dragon-goat hybrid with a past they've buried, in a world that alread
 *Near-future dark romance. A story about being wanted, being needed, and the dangerous space between them.*
 
 Earth, around 2080. After a disastrous operation forces two soldiers to save each other, distant attraction becomes something personal.
+
+---
+## Alternate Universes and Fanon
+
+### [[Hell Usunder/index|Hell Usunder]]
+> Bloof wanted rest.
+> Hell had other plans.
+
+*Hell Usunder* is the crossover continuity in which *Torn Through Hell* takes place. It brings a future version of Bloof into an altered version of the Hell setting shared by *Helluva Boss* and *Hazbin Hotel*, alongside Vendetta, a demonic shark, belonging to this AU's version of that setting.
+
+> [!note] Other Stories
+> Other non-canon stories can be found in the "Non-Canon AU Stories" section in the sidebar!
 
 ---
 
