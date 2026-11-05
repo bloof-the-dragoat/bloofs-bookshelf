@@ -49,7 +49,7 @@ Seris talks a reluctant Bloof into attending a crowded party. Bloof is overwhelm
 
 ---
 
-### [[Torn Through Hell]]
+### [[Torn Usunder/Non-Canon AU Stories/Hell Usunder/index|Hell Usunder]]
 **AU:** Hell Usunder
 **Status:** In progress
 **Setting:** Crossover alternate universe combining *Torn Usunder* with *Helluva Boss* and *Hazbin Hotel*. Begins in Pentagram City, Pride Ring. Takes place 100 years after the Helluva Boss story.
@@ -79,7 +79,7 @@ The story diverges when Bloof is pulled from their own world while sleeping besi
 > This story does not establish canon for *Torn Usunder*, *Helluva Boss*, or *Hazbin Hotel*. Familiar characters, locations, and lore may be adapted to serve the crossover.
 
 ---
-### [[Please, Don't Leave]]
+### [[Torn Usunder/Non-Canon AU Stories/Please, Don't Leave/index|Please, Don't Leave]]
 **Status:** In progress
 **Setting:** A different world, within a cursed forest.
 **Content notes:** Horror. Contains graphic body horror, pursuit, physical restraint, injury, and themes of captivity and isolation.
