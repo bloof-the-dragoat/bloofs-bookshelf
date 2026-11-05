@@ -1,3 +1,6 @@
+---
+title: "Bloof's Bookshelf"
+---
 <div class="hero">
   <h1 class="hero-title">BLOOF'S BOOKSHELF</h1>
   <p class="hero-tag">Stories of found family, dangerous power, and the people caught inside both.</p>
