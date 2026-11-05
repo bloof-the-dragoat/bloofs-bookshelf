@@ -10,7 +10,7 @@ title: "Bloof's Bookshelf"
 
 # Welcome
 
-A collection of original fiction and the worldbuilding behind it. Each story has its own setting, tone, and content notice, so check the story page before you start.
+A collection of original fiction and the worldbuilding behind it. Each story has its own setting, tone, and content notice, so check the story page before you start!
 
 ---
 
