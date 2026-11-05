@@ -1,4 +1,5 @@
 @use "./variables.scss" as *;
+@import url("https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 // put your custom CSS here!
 :root[saved-theme="dark"] {
@@ -420,4 +421,32 @@ article blockquote:not(.callout) > :last-child {
   font-weight: 500;
   font-style: italic;
   color: var(--bloof-vaelith-color);
+}
+
+/* Selyra: identical lettering before and after her name is revealed. */
+.voice-forest,
+.voice-selyra {
+  font-family: "Almendra", Georgia, serif;
+  font-size: 1.08em;
+  font-weight: 400;
+  font-style: normal;
+  font-variant-caps: normal;
+  letter-spacing: normal;
+  text-transform: none;
+  color: inherit;
+
+  /* Close whispers: class="voice-forest whisper"
+     or class="voice-selyra whisper". */
+  &.whisper {
+    font-style: italic;
+  }
+
+  /* Emphasis within dialogue. */
+  em {
+    font-style: italic;
+  }
+
+  strong {
+    font-weight: 700;
+  }
 }
