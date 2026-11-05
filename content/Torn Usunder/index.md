@@ -31,7 +31,7 @@
 
 ## Parts
 
-### [[Part 1/|Part 1]]
+### [[Torn Usunder/Part 1/index|Part 1 - Burden]]
 *The ordinary life Bloof is trying to protect.*
 
 - [[Part 1/Chapter 00 - Break|Chapter 0: Break]]
