@@ -77,3 +77,19 @@ The story diverges when Bloof is pulled from their own world while sleeping besi
 
 > [!note] Separate continuity
 > This story does not establish canon for *Torn Usunder*, *Helluva Boss*, or *Hazbin Hotel*. Familiar characters, locations, and lore may be adapted to serve the crossover.
+
+---
+### [[Please, Don't Leave]]
+**Status:** In progress
+**Setting:** A different world, within a cursed forest.
+**Content notes:** Horror. Contains graphic body horror, pursuit, physical restraint, injury, and themes of captivity and isolation.
+
+**Summary:**
+For one brief moment, the silence inside Bloof’s chest feels like peace. Then a voice calls from the trees, and something begins following them—something their Crown Eyes cannot find. Alone in unfamiliar woods, Bloof must navigate a place where neither the paths nor the pleas for help can be trusted.
+
+**Non-canon elements:**
+- Bloof’s arrival in another world
+- The cursed forest and its effects on Wrath
+- The characters and supernatural conditions introduced in this story
+
+---

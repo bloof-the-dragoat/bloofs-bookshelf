@@ -1,18 +1,18 @@
 ---
-title: Usunderverse
+title: Hell Usunder
 description: "Bloof wanted rest. Hell had other plans."
 type: story-index
 status: ongoing
 canon: non-canon
 continuity: Torn Usunder × Hellaverse
 tags:
-  - usunderverse
+  - Hell Usunder
   - crossover
   - fanfiction
   - non-canon
 ---
 
-# Usunderverse
+# Hell Usunder
 
 > Bloof wanted rest.
 > Hell had other plans.
@@ -31,7 +31,7 @@ A demonic shark with a sharp mind, sharper teeth, and absolutely no patience for
 
 Their first impressions could use some work.
 
-Welcome to *Usunderverse*: a character-driven crossover between *Torn Usunder* and the world of *Helluva Boss* and *Hazbin Hotel*. Expect fraying composure, spectacularly bad assumptions, uneasy kindness, and the difficult business of deciding who to trust when home is somewhere nobody has heard of.
+Welcome to *Hell Usunder*: a character-driven crossover between *Torn Usunder* and the world of *Helluva Boss* and *Hazbin Hotel*. Expect fraying composure, spectacularly bad assumptions, uneasy kindness, and the difficult business of deciding who to trust when home is somewhere nobody has heard of.
 
 Getting through Hell is one problem.
 
@@ -41,12 +41,12 @@ Getting along might be worse.
 
 ## Start reading
 
-1. [[Torn Usunder/Non-Canon AU Stories/Usunderverse/Chapter 01 - Welcome to Hell|Chapter 01 - Welcome to Hell]]
-2. [[Torn Usunder/Non-Canon AU Stories/Usunderverse/Chapter 02 - Nothing Settles|Chapter 02 - Nothing Settles]]
+1. [[Torn Usunder/Non-Canon AU Stories/Hell Usunder/Chapter 01 - Welcome to Hell|Chapter 01 - Welcome to Hell]]
+2. [[Torn Usunder/Non-Canon AU Stories/Hell Usunder/Chapter 02 - Nothing Settles|Chapter 02 - Nothing Settles]]
 
 ## About this crossover
 
-*Usunderverse* is a non-canon AU featuring Bloof, Vendetta, and familiar faces from the Hellaverse.
+*Hell Usunder* is a non-canon AU featuring Bloof, Vendetta, and familiar faces from the Hellaverse.
 
 Set roughly a century after the main events of *Helluva Boss*, this version of Hell has its own history, changed relationships, and room for new trouble. No prior knowledge of *Torn Usunder* is required to meet Bloof at their worst possible arrival time.
 

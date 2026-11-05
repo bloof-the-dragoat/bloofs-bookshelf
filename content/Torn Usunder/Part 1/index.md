@@ -30,6 +30,8 @@ But the past does not stay buried because someone wishes it would. And it has al
 - [[Part 1/Chapter 00 - Break|Chapter 0: Break]]
 - [[Part 1/Chapter 01 - Hold|Chapter 1: Hold]]
 - [[Part 1/Chapter 02 - Pressure|Chapter 2: Pressure]]
+- [[Part 1/Chapter 03 - Crossfire|Chapter 03 - Crossfire]]
+
 
 > [!info] More chapters coming
 > New chapters will appear here as they are released.
