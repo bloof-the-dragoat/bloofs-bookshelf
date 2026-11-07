@@ -48,7 +48,7 @@ Bloof would prefer an introduction first.
 
 ## Start reading
 
-1. [[Chapter 01 — Please, Don't Leave|Chapter 01 — Please, Don't Leave]]
+1. [[Non-Canon AU Stories/Chapter 01 — Please, Don't Leave|Chapter 01 — Please, Don't Leave]]
 
 Further chapters will be added as the story progresses.
 
