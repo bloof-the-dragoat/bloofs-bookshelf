@@ -25,7 +25,7 @@
 
 > [!tip] New here?
 > Begin with [[No Safe Way to Want You/Chapter 1 - Contact|Chapter 1: Contact]].
-> Chapter 7 - Before You Ask, Coming Soon!
+> Chapter 8 Coming Soon!
 
 ## Chapters
 
@@ -35,6 +35,7 @@
 - [[No Safe Way to Want You/Chapter 4 - Bastard|Chapter 4: Bastard]]
 - [[No Safe Way to Want You/Chapter 5 - That Dangerous Kind of Quiet|Chapter 5: That Dangerous Kind of Quiet]]
 - [[No Safe Way to Want You/Chapter 6 - Of Course|Chapter 6: Of Course]]
+- [[No Safe Way to Want You/Chapter 7 - Before You Ask|Chapter 7 - Before You Ask]]
 
 
 
