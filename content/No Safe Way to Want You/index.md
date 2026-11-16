@@ -25,7 +25,7 @@
 
 > [!tip] New here?
 > Begin with [[No Safe Way to Want You/Chapter 1 - Contact|Chapter 1: Contact]].
-> Chapter 9 Coming Soon!
+> Chapter 12 Coming Soon!
 
 ## Chapters
 
