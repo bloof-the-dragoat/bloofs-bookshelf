@@ -37,6 +37,7 @@
 - [[No Safe Way to Want You/Chapter 6 - Of Course|Chapter 6: Of Course]]
 - [[No Safe Way to Want You/Chapter 7 - Before You Ask|Chapter 7 - Before You Ask]]
 - [[No Safe Way to Want You/Chapter 8 - Dead Air|Chapter 8 - Dead Air]]
+- [[No Safe Way to Want You/Chapter 9 - Unauthorized|Chapter 9 - Unauthorized]]
 
 
 
