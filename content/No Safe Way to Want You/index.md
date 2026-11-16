@@ -38,6 +38,8 @@
 - [[No Safe Way to Want You/Chapter 7 - Before You Ask|Chapter 7 - Before You Ask]]
 - [[No Safe Way to Want You/Chapter 8 - Dead Air|Chapter 8 - Dead Air]]
 - [[No Safe Way to Want You/Chapter 9 - Unauthorized|Chapter 9 - Unauthorized]]
+- [[No Safe Way to Want You/Chapter 10 - Fast Enough|Chapter 10 - Fast Enough]]
+- [[No Safe Way to Want You/Chapter 11 - Again|Chapter 11 - Again]]
 
 
 
