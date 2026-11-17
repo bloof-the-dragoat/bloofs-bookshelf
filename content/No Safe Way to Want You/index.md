@@ -25,7 +25,7 @@
 
 > [!tip] New here?
 > Begin with [[No Safe Way to Want You/Chapter 1 - Contact|Chapter 1: Contact]].
-> Chapter 13 Coming Soon!
+> Chapter 14 Coming Soon!
 
 ## Chapters
 
@@ -41,6 +41,7 @@
 - [[No Safe Way to Want You/Chapter 10 - Fast Enough|Chapter 10 - Fast Enough]]
 - [[No Safe Way to Want You/Chapter 11 - Again|Chapter 11 - Again]]
 - [[No Safe Way to Want You/Chapter 12 - When We're Back|Chapter 12 - When We're Back]]
+- [[No Safe Way to Want You/Chapter 13 - Safe Enough|Chapter 13 - Safe Enough]]
 
 
 
