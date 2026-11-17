@@ -2,7 +2,7 @@
 # Chapter 14 - Nobody Checks
 
 >[!warning] Content Note
-Trauma symptoms, a severe depressive episode, graphic recollection of violence, self-destructive thoughts, and grief.
+>Trauma symptoms, a severe depressive episode, graphic recollection of violence, self-destructive thoughts, and grief.
 
 **The hand on my chest was warm.**
 
