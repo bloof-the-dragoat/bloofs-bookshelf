@@ -1,6 +1,5 @@
 ---
 type: fanfic
-password: "embers123!"
 status: finalized
 canon: non-canon
 universe: AU
