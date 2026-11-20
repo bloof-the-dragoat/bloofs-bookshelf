@@ -1,26 +1,4 @@
----
-tags:
-  - story
-  - au
-  - nsfw
-  - warnings/explicit-sexual-content
-  - warnings/graphic-blood
-  - warnings/blood-drinking
-  - warnings/bloodplay
-  - warnings/knifeplay
-  - warnings/cutting
-  - warnings/self-inflicted-injury
-  - warnings/biting
-  - warnings/sexual-strangulation
-  - warnings/rough-sex
-  - warnings/bdsm
-  - warnings/dominance-and-submission
-  - warnings/dubious-consent
-  - warnings/coercive-control
-  - warnings/possessive-behavior
-  - warnings/unhealthy-relationship-dynamics
-  - warnings/trauma-references
----
+
 # Mine to Bleed: A Torn Usunder AU
 
 >[!Warning] 
