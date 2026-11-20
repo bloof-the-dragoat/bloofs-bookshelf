@@ -86,7 +86,7 @@ Her claws dragged down the front of their shirt, slow enough that Bloof felt eac
 
 "I know." She turned her claws and drew them back up, harder this time, just enough to sting. "You said you don't know if you should."
 
-*I really want to. But*
+*I really want to. But—*
 
 Bloof's eyes closed. A small moan escaped them, and they hated how much it sounded like agreement.
 
