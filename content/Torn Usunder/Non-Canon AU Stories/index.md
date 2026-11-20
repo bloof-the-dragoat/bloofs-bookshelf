@@ -49,6 +49,24 @@ Seris talks a reluctant Bloof into attending a crowded party. Bloof is overwhelm
 
 ---
 
+### [[Mine to Bleed]]
+**Status:** Complete
+**Setting:** A *Torn Usunder* AU, several weeks after the fight with V.
+**Content notes:** Explicit. Contains graphic sexual content, bloodplay, knifeplay, biting, sexual strangulation, and unhealthy relationship dynamics.
+
+**Summary:**
+Bloof has been keeping their distance, and Seris has noticed. An evening at her apartment brings an unsettling confession: something has changed since the fight with V, and Bloof is afraid of what they want. Seris listens—but understanding isn't the same as restraint. As fear tangles with desire, being wanted begins to feel dangerously close to being claimed.
+
+> [!warning] Content warning
+> Graphic sexual content and blood, deliberate cutting and self-inflicted injury, blood drinking, dominance and submission, dubious consent, coercive control, possessiveness, and references to past trauma.
+
+**Non-canon elements:**
+- This story is an alternate-universe exploration, not an event in the main continuity.
+- The specific changes in Bloof's desires and their consequences are part of this AU.
+
+---
+
+
 ### [[Torn Usunder/Non-Canon AU Stories/Hell Usunder/index|Hell Usunder]]
 **AU:** Hell Usunder
 **Status:** In progress
