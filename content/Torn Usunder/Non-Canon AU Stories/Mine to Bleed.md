@@ -1,15 +1,4 @@
 ---
-title: "Mine to Bleed"
-aliases:
-  - "Mine to Bleed: A Torn Usunder AU"
-project: "Torn Usunder"
-type: story
-continuity: AU
-canon: false
-rating: explicit
-characters:
-  - "[[Bloof]]"
-  - "[[Seris]]"
 tags:
   - story
   - au
